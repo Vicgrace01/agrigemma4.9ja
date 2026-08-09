@@ -1,0 +1,43 @@
+{
+  "team_id": "team-agrigemma",
+  "domain": "agriculture",
+  "language_scope": [
+    "en",
+    "ig",
+    "ha",
+    "yo",
+    "pcm"
+  ],
+  "african_alpha_claim": true,
+  "budget_laptop_claim": true,
+  "submitter": {
+    "name": "Victor Chukwuebuka Nwaruwe",
+    "email": "victornwaruwe@gmail.com",
+    "github_handle": "vicgrace01"
+  },
+  "cross_disciplinary_pairing": {
+    "discipline": "agriculture",
+    "load_bearing": true,
+    "description": "Offline, localized agricultural advisory and IoT soil telemetry analysis for smallholder farmers."
+  },
+  "test_prompts": [
+    {
+      "prompt_id": "tp_001",
+      "prompt": "A farmer in Enugu asks: What is the best way to store harvested maize to prevent weevils?"
+    },
+    {
+      "prompt_id": "tp_002",
+      "prompt": "Design a low-cost IoT soil moisture telemetry system for a cassava farm using an ESP32 microcontroller."
+    }
+  ],
+  "model": {
+    "name": "Llama-3.2-3B-Instruct",
+    "runtime": "llama.cpp",
+    "quantization": "GGUF Q4_K_M",
+    "parameters_estimate": "3.2B",
+    "packaging": "binary_bundle"
+  },
+  "_runtime": {
+    "model_path": "model/llama-3.2-3b.Q4_K_M.gguf"
+  }
+}
