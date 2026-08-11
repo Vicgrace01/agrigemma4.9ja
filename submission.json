@@ -14,8 +14,8 @@
     "african_alpha_claim": true,
     "budget_laptop_claim": true,
     "submitter": {
-      "name": "Victor Nwaruwe Chukwuebuka",
-      "email": "victor@example.com",
+      "name": "Victor Chukwuebuka Nwaruwe",
+      "email": "victornwaruwe@gmail.com",
       "github_handle": "vicgrace01"
     },
     "cross_disciplinary_pairing": {
@@ -49,24 +49,33 @@
     "os": "Ubuntu 22.04.5 LTS"
   },
   "throughput": {
-    "tokens_per_second_generation": 7.38,
-    "first_token_latency_ms": 26625.36,
+    "tokens_per_second_generation": 8.94,
+    "first_token_latency_ms": 21894.84,
     "prompt_tokens": 512,
     "generated_tokens": 128
   },
   "memory": {
-    "peak_rss_mb": 3435.88,
-    "steady_state_rss_mb": 3181.22,
-    "peak_vms_mb": 3850.2
+    "peak_rss_mb": 3435.74,
+    "steady_state_rss_mb": 3292.19,
+    "peak_vms_mb": 3850.17
   },
-  "accuracy": [],
+  "accuracy": [
+    {
+      "benchmark": "arc_easy",
+      "dataset_version": "lm-eval-harness",
+      "language": "en",
+      "samples": 50,
+      "score": 0.72,
+      "metric": "acc_norm"
+    }
+  ],
   "cpu_thermal": {
-    "cpu_percent_p99": 51.1,
+    "cpu_percent_p99": 50.7,
     "core_temp_c_peak": null,
     "throttled": false
   },
   "reproducibility": {
-    "git_commit_sha": "000000000000",
+    "git_commit_sha": "95735d8610de",
     "docker_image_digest": "unknown",
     "random_seed": 42
   },
