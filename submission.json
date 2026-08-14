@@ -80,7 +80,7 @@
     "params_count": 4647450147,
     "context_length": 131072,
     "architecture": "gemma4",
-    "claimed_params_estimate": "5.1B",
+    "claimed_params_estimate": "4.65B",
     "params_match": true
   }
 }
