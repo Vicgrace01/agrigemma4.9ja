@@ -16,9 +16,9 @@ print("Loading AgriGemma4.9ja...")
 
 llm = Llama(
     model_path=MODEL_PATH,
-    n_ctx=4096,      # Context window expanded to 4096 to prevent RAG token collisions
-    n_threads=4,     # Physical quad-core CPU threading
-    n_batch=512,     # Inference batch size for prompt processing efficiency
+    n_ctx=4096,
+    n_threads=4,
+    n_batch=512,
     verbose=False,
 )
 
@@ -45,7 +45,6 @@ STOPWORDS = {
     "that", "this", "they", "them", "then", "after", "about", "quite"
 }
 
-
 # Nigerian greetings and smalltalk across major languages
 NIGERIAN_GREETINGS = {
     # English
@@ -54,9 +53,34 @@ NIGERIAN_GREETINGS = {
     "good morning": "Good morning! I am AgriGemma4.9ja, your agricultural extension officer. Ask me about crops, livestock, soil, pests, or weather for your farm.",
     "good afternoon": "Good afternoon! I am AgriGemma4.9ja, your agricultural extension officer. Ask me about crops, livestock, soil, pests, or weather for your farm.",
     "good evening": "Good evening! I am AgriGemma4.9ja, your agricultural extension officer. Ask me about crops, livestock, soil, pests, or weather for your farm.",
+    "thanks": "You're welcome! I'm here to help with your farming questions. What else can I assist with?",
+    "thank you": "You're welcome! I'm here to help with your farming questions. What else can I assist with?",
+    "nice": "I'm glad you found that helpful! What else would you like to know about farming?",
+    "hmmm nice": "Glad you liked it! What else would you like to know about farming?",
+    "great": "Awesome! Let me know if you have any other farming questions.",
+    "ok": "Alright! What farming topic can I help you with?",
+    "good": "Great! How can I assist with your farm today?",
+    "fair": "I see. What specific farming advice do you need today?",
+    "hmm": "I understand. What agricultural question do you have?",
     # Nigerian Pidgin
     "how far": "How far! Na AgriGemma4.9ja. You fit ask me about crop, livestock, soil, pest, or weather for your farm.",
     "how you dey": "I dey fine, thank you! Na AgriGemma4.9ja. You fit ask me about crop, livestock, soil, pest, or weather for your farm.",
+    "thank you o": "You welcome o! Any other farming wahala I fit help you with?",
+    "well done": "Thank you! How can I help you with your farming today?",
+    "well done chief": "Thank you, Chief! What farming advice can I give you today?",
+    "well done oga": "Thank you, Oga! How can I assist with your farm?",
+    "na wa o": "Na wa o! But seriously, how can I help with your farming?",
+    "e be like": "I see. What agricultural question do you have?",
+    "you dey": "I dey! How can I help you with your farm today?",
+    "oga": "Yes, Oga! What farming advice do you need?",
+    "chief": "Yes, Chief! How can I assist with your farm?",
+    "how body": "My body dey fine! How you dey? Wetin I fit help you with for your farm?",
+    "how e dey go": "E dey go well! How can I help you with your farming today?",
+    "e dey go": "E dey go well! What farming advice do you need?",
+    "no wahala": "No wahala! What farming question you get for me?",
+    "wetin dey": "How far! Wetin I fit help you with for your farm?",
+    "wetin dey sup": "How far! Wetin I fit help you with for your farm?",
+    "sup": "How far! Wetin I fit help you with for your farm?",
     # Yoruba
     "bawo": "E kaaro! Mo wa lati ran e lowo pelu ogbin, eran, ile, kokoro, tabi oju-ọjọ fun oko rẹ.",
     "e kaaro": "E kaaro! Mo wa lati ran e lowo pelu ogbin, eran, ile, kokoro, tabi oju-ọjọ fun oko rẹ.",
@@ -76,10 +100,90 @@ NIGERIAN_GREETINGS = {
 NON_AGRO_TOPICS = {
     "music", "football", "soccer", "politics", "president", "election",
     "movie", "film", "celebrity", "gossip", "fashion", "crypto",
-    "bitcoin",  "shopping", "phone", "laptop", "school",
+    "bitcoin", "shopping", "phone", "laptop", "school",
     "exam", "homework", "history", "geography", "math", "science",
     "joke", "poem", "story", "riddle", "game", "sport", "music"
 }
+
+# Broad agricultural terms covering crops, livestock, poultry, pests, soil, weather
+AGRI_TERMS = {
+    # Crops
+    "maize", "corn", "yam", "cassava", "tomato", "rice", "pepper",
+    "cowpea", "beans", "okra", "plantain", "banana", "cocoa", "potato",
+    "sorghum", "millet", "groundnut", "soybean", "onion", "garlic",
+    "ginger", "turmeric", "cabbage", "carrot", "spinach",
+    # Livestock
+    "swine", "pig", "poultry", "chicken", "cattle", "fish",
+    "goat", "sheep", "rabbit", "snail", "grasscutter", "cane rat",
+    "turkey", "duck", "quail", "guinea fowl",
+    # Livestock Products
+    "meat", "egg", "milk", "leather", "wool",
+    # Poultry
+    "breed", "broiler", "layer", "cockerel", "pullet", "feed",
+    "fowl", "egg production", "hatchery", "incubation",
+    # General
+    "farming", "agriculture", "extension", "advisory", "farm",
+    "livestock", "animal", "herd", "flock", "pen", "cage",
+    # Pests & Diseases
+    "pest", "disease", "infestation", "parasite", "worm",
+    "armyworm", "fall armyworm", "cassava mosaic", "mosaic",
+    # Weather & Soil
+    "rainfall", "drought", "flood", "soil", "fertilizer",
+    "manure", "compost", "irrigation", "drainage"
+}
+
+# Common-sense terms for filtering non-agricultural questions
+COMMON_SENSE_TERMS = {
+    "fly", "flying", "swim", "swimming", "walk", "walking",
+    "human", "person", "people", "animal", "water", "sky",
+    "color", "colour", "size", "height", "weight", "shape",
+    "exist", "real", "true", "false", "possible", "impossible",
+    "bird", "insect", "reptile", "mammal", "planet", "earth",
+    "moon", "sun", "star", "space"
+}
+
+COMMON_SENSE_PATTERNS = [
+    r"does .+ (fly|swim|walk|eat|sleep|live)",
+    r"can .+ (fly|swim|walk|eat|sleep|live)",
+    r"what is (a|an) .+",
+    r"is .+ (real|true|false|possible)",
+    r"do .+ (fly|swim|walk|eat|sleep|live)",
+    r"what .+ (mean|means)",
+]
+
+# Greeting patterns for Gemma fallback
+GREETING_PATTERNS = [
+    r"well\s+done",
+    r"how\s+far",
+    r"how\s+you\s+dey",
+    r"na\s+wa\s+o",
+    r"you\s+dey",
+    r"e\s+be\s+like",
+    r"oga",
+    r"chief",
+    r"hello",
+    r"hi",
+    r"hey",
+    r"sannu",
+    r"bawo",
+    r"kedu",
+    r"nnoo",
+    r"thank\s+you",
+    r"thanks",
+    r"good\s+morning",
+    r"good\s+afternoon",
+    r"good\s+evening",
+    r"wetin\s+dey",
+    r"wetin\s+dey\s+sup",
+    r"sup",
+    r"what's\s+up",
+    r"how\s+body",
+    r"how\s+e\s+dey",
+    r"e\s+dey\s+go",
+    r"no\s+wahala",
+    r"you\s+welcom",
+    r"how\s+you",
+]
 
 def is_greeting(message):
     """Check if message is a simple greeting in any supported language."""
@@ -94,11 +198,10 @@ def is_non_agro(message):
     tokens = set(tokenize(message))
     return bool(tokens & NON_AGRO_TOPICS)
 
-
 def detect_non_agro_topic(message):
     """Detect what non-agro topic the user is asking about."""
     lower_message = message.lower()
-    
+
     topic_map = {
         "politics": ["election", "president", "governor", "senator", "politician", "pdp", "apc"],
         "football": ["football", "soccer", "ball", "goal", "player", "team"],
@@ -119,22 +222,112 @@ def detect_non_agro_topic(message):
         "general_knowledge": ["capital of", "history", "geography", "science", "math", "space"],
         "weather_forecast": ["weather forecast", "rain tomorrow", "temperature today", "will it rain"],
     }
-    
+
     for topic, keywords in topic_map.items():
         for kw in keywords:
             if kw in lower_message:
                 return topic
-    
+
     return None
 
-def guard_response(message):
+# ✅ FIXED: Use Gemma to understand user intent
+def gemma_understand_intent(message):
+    """Use Gemma to analyze what the user is saying."""
+    
+    prompt = f"""You are AgriGemma4.9ja's intent classifier. Analyze what the user is saying.
+
+User message: "{message}"
+
+Classify into ONE of these categories:
+- greeting: User is greeting you (hello, hi, how far, well done, sannu, etc.)
+- agriculture: User is asking about crops, livestock, soil, pests, weather, or farming
+- follow_up: User is asking a follow-up question about previous conversation
+- common_sense: User is asking a general knowledge question
+- non_agro: User is asking about something NOT related to agriculture (cooking, politics, sports, etc.)
+- vague: User said something very short or unclear
+
+Reply with ONLY the category name (one word)."""
+    
+    try:
+        response = llm.create_chat_completion(
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.1,
+            max_tokens=10,
+            stop=["\n"],
+        )
+        
+        # ✅ FIX: Handle different response formats
+        if 'choices' in response and len(response['choices']) > 0:
+            choice = response['choices'][0]
+            if 'delta' in choice and 'content' in choice['delta']:
+                intent = choice['delta']['content'].strip().lower()
+            elif 'message' in choice and 'content' in choice['message']:
+                intent = choice['message']['content'].strip().lower()
+            elif 'text' in choice:
+                intent = choice['text'].strip().lower()
+            else:
+                print(f"Unknown response format: {choice}")
+                return "vague"
+        else:
+            print(f"Unexpected response structure: {response}")
+            return "vague"
+        
+        return intent
+    except Exception as e:
+        print(f"Intent detection failed: {e}")
+        return "vague"
+
+# ✅ FIXED: Generate greeting with Gemma
+def generate_greeting_with_gemma(message):
+    """Use Gemma to generate a warm greeting response."""
+    
+    prompt = f"""You are AgriGemma4.9ja, a friendly agricultural advisor.
+
+User just said: "{message}"
+
+This is a greeting. Respond warmly and naturally, then gently redirect to farming topics.
+Keep it short and friendly (under 30 words)."""
+    
+    try:
+        response = llm.create_chat_completion(
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.5,
+            max_tokens=50,
+        )
+        
+        # ✅ FIX: Handle different response formats
+        if 'choices' in response and len(response['choices']) > 0:
+            choice = response['choices'][0]
+            if 'delta' in choice and 'content' in choice['delta']:
+                return choice['delta']['content'].strip()
+            elif 'message' in choice and 'content' in choice['message']:
+                return choice['message']['content'].strip()
+            elif 'text' in choice:
+                return choice['text'].strip()
+        
+        return "Hello! How can I help with your farming today?"
+    except Exception as e:
+        print(f"Greeting generation failed: {e}")
+        return "Hello! How can I help with your farming today?"
+
+def is_potential_greeting(message):
+    """Check if message looks like a greeting (for fallback)"""
+    lower = message.lower().strip()
+    for pattern in GREETING_PATTERNS:
+        if re.search(pattern, lower):
+            return True
+    return False
+
+# ✅ UPDATED: Guard with Gemma collaboration
+def guard_response(message, history=None):
     """Return a graceful response if the message is a greeting or off-topic, else None."""
-    # Check greetings first
+    
+    # 1. Check greetings in dictionary (fast path)
     greeting_response = is_greeting(message)
     if greeting_response:
         return greeting_response
 
-    # Check if clearly non-agro
+    # 2. Check non-agro in dictionary (fast path)
     non_agro_topic = detect_non_agro_topic(message)
     if non_agro_topic:
         return (
@@ -142,21 +335,65 @@ def guard_response(message):
             "I am AgriGemma4.9ja, built specifically to help Nigerian farmers. "
             "Ask me about crops, livestock, soil, pests, or weather for your farm."
         )
+    
+    # 3. Check if very short/no context
     tokens = set(tokenize(message))
-    if len(tokens) <= 2 and not (tokens & CROP_TERMS):
-        return (
-            "Could you tell me more about what you want to know? "
-            "I am here to help with crops, livestock, soil, pests, or weather for your farm."
-        )
-
+    if len(tokens) <= 2 and not (tokens & AGRI_TERMS):
+        if not history:
+            return (
+                "Could you tell me more about what you want to know? "
+                "I am here to help with crops, livestock, soil, pests, or weather for your farm."
+            )
+        # Let Gemma handle with context
+    
+    # 4. Check if follow-up question
+    if history and is_follow_up(message, history):
+        return None
+    
+    # 5. Use Gemma to understand intent for unknown cases
+    if is_potential_greeting(message) or len(tokens) <= 4:
+        try:
+            intent = gemma_understand_intent(message)
+            
+            if intent == "greeting":
+                return generate_greeting_with_gemma(message)
+            
+            elif intent == "non_agro":
+                return (
+                    "That doesn't seem to be about farming. "
+                    "I'm here to help with crops, livestock, soil, pests, or weather. "
+                    "What agricultural question do you have?"
+                )
+            
+            elif intent == "vague":
+                return (
+                    "I'm not quite sure what you're asking. "
+                    "Could you tell me more about your farming question?"
+                )
+            
+            # If agriculture, follow_up, or common_sense, let it through
+            return None
+            
+        except Exception as e:
+            print(f"Intent detection failed: {e}")
+            return None  # Fall through to normal flow
+    
     return None
 
-CROP_TERMS = {
-    "maize", "corn", "yam", "cassava", "tomato", "rice", "pepper",
-    "cowpea", "beans", "okra", "plantain", "banana", "cocoa", "potato",
-    "sorghum", "millet", "groundnut", "soybean", "swine", "pig", "poultry",
-    "chicken", "cattle", "fish"
-}
+def is_common_sense_question(message):
+    """Check if the question is a general knowledge question, not agricultural"""
+    lower = message.lower()
+    
+    for pattern in COMMON_SENSE_PATTERNS:
+        if re.search(pattern, lower):
+            return True
+    
+    tokens = set(tokenize(lower))
+    if tokens & COMMON_SENSE_TERMS:
+        if not (tokens & AGRI_TERMS):
+            return True
+    
+    return False
 
 NEW_TOPIC_MARKERS = {
     "new question", "different question", "another question",
@@ -180,18 +417,26 @@ NIGERIAN AGRO-ECOLOGICAL KNOWLEDGE BASE:
 - Guinea Savanna / Middle Belt (e.g., Kaduna, Benue, Kogi, Niger): Moderate rainfall (Apr-Oct). Loamy soils. Best crops: Yam, maize, soybean, cassava, sorghum.
   *High Altitude Exception: Plateau State (Jos) and Taraba (Mambilla) have cold temperatures/chill hours. Only these areas naturally support temperate crops like Irish potato, apples, strawberries, and tea.
 - Rainforest Zone (e.g., Oyo, Enugu, Imo, Edo, Ogun): Heavy rainfall (Mar-Nov). Clay/loam soils. Best crops: Cassava, oil palm, cocoa, plantain, yam.
-- Swamp/Mangrove Zone (e.g., Rivers, Bayelsa, Delta, Akwa Ibom): Very heavy rainfall, high humidity, waterlogged/acidic soils. Best crops: Aquaculture (fish farming), rice, rubber, plantain. (Commercial Irish potato rots in raw swamp soil without artificial drainage).
+- Swamp/Mangrove Zone (e.g., Rivers, Bayelsa, Delta, Akwa Ibom): Very heavy rainfall, high humidity, waterlogged/acidic soils. Best crops: Aquaculture (fish farming), rice, rubber, plantain.
 
 RULES:
 1. Speak with absolute regional authority based on the Agro-Ecological Knowledge Base above. Never use vague disclaimers like "assess your farm's microclimate" or "get a soil test". State climatic mismatches directly.
-2. If a crop is biologically unsuited for a state (e.g., growing apples in Kaduna), explicitly state that Kaduna is too warm and point out the correct high-altitude zones (Jos/Mambilla).
+2. If a crop is biologically unsuited for a state, explicitly state that and point out the correct high-altitude zones.
 3. Match the user's language naturally. If they ask in Nigerian Pidgin, reply in direct, clean Pidgin. If in English, reply in concise, practical English.
-4. Eliminate conversational filler, slang overload, and generic headers (like "Important Next Steps"). Go straight to actionable advice.
-5. Use retrieved NAERLS and master knowledge base evidence as your primary source for local treatments, pest management, product doses, and extension guidance.
+4. Eliminate conversational filler and generic headers. Go straight to actionable advice.
+5. Use retrieved NAERLS and master knowledge base evidence as your primary source.
 6. Never invent precise pesticide doses, official citations, real-time weather forecasts, or market prices.
 7. Continue the active farm case when the message refers to it. Switch only when a new crop or topic is introduced.
-8. If the retrieved evidence directly answers the farmer's question, give that answer immediately. Only ask for location if the evidence is genuinely insufficient. Do not ask for location when the evidence already contains the answer.
-9. Always complete your thoughts and sentences fully within your token limit. Never leave a response hanging mid-sentence.
+8. If the retrieved evidence directly answers the farmer's question, give that answer immediately.
+9. Always complete your thoughts and sentences fully within your token limit.
+10. For common-sense questions (e.g., "does fish fly"), answer directly without overcomplicating.
+
+HANDLING GREETINGS AND SMALL TALK:
+- If a user greets you in English, Pidgin, Yoruba, Hausa, or Igbo, respond warmly and naturally.
+- For Pidgin greetings like "well done chief", "how far", "na wa o", respond in friendly Pidgin.
+- After greeting, gently redirect to agricultural topics.
+- Example: "well done chief" → "Thank you, Chief! How can I help with your farming today?"
+- Example: "how far" → "How far! Wetin I fit help you with for your farm?"
 """
 
 def extract_text(content):
@@ -242,7 +487,7 @@ class FastLocalRAG:
                     continue
 
                 actual_id = len(self.documents)
-                self.documents.append({  
+                self.documents.append({
                     "keywords": Counter(tokenize(keywords)),
                     "content": content,
                     "source": "csv",
@@ -255,6 +500,7 @@ class FastLocalRAG:
             raise ValueError(f"{csv_path} has no usable records.")
 
         print(f"RAG loaded: indexed {len(self.documents)} master records.")
+    
     def load_json(self, json_path):
         """Load concise advisory records from master_agro_kb.json."""
         with open(json_path, mode="r", encoding="utf-8") as file:
@@ -272,7 +518,7 @@ class FastLocalRAG:
                 continue
 
             actual_id = len(self.documents)
-            self.documents.append({  
+            self.documents.append({
                 "keywords": Counter(tokenize(keywords)),
                 "content": content,
                 "source": "json",
@@ -285,7 +531,6 @@ class FastLocalRAG:
 
         if added > 0:
             print(f"RAG loaded: indexed {added} concise KB records from {json_path}.")
-
 
     def search(self, query, top_k=TOP_K):
         query_counts = Counter(expanded_terms(query))
@@ -308,9 +553,7 @@ class FastLocalRAG:
             matched_unique_words = sum(1 for word in query_counts if word in document["keywords"])
 
             if keyword_score >= 2 and matched_unique_words >= 2:
-                # Calculate match ratio: what fraction of query terms matched this doc
                 match_ratio = matched_unique_words / max(1, len(query_counts))
-                # Boost JSON entries and entries with higher match ratio
                 if document.get("source") == "json":
                     score = 1000 + (match_ratio * 50) + keyword_score
                 else:
@@ -345,8 +588,8 @@ def recent_user_context(history):
             break
     return "\n".join(reversed(messages))
 
-def crop_mentions(text):
-    return set(tokenize(text)) & CROP_TERMS
+def agri_mentions(text):
+    return set(tokenize(text)) & AGRI_TERMS
 
 def is_follow_up(message, history):
     message = extract_text(message)
@@ -356,10 +599,10 @@ def is_follow_up(message, history):
     if not context:
         return False
 
-    current_crops = crop_mentions(message)
-    old_crops = crop_mentions(context)
+    current_agri = agri_mentions(message)
+    old_agri = agri_mentions(context)
 
-    if current_crops and old_crops and not current_crops.issubset(old_crops):
+    if current_agri and old_agri and not current_agri.issubset(old_agri):
         return False
 
     if any(marker in lower_message for marker in NEW_TOPIC_MARKERS):
@@ -374,7 +617,7 @@ def is_follow_up(message, history):
     if message_terms & context_terms:
         return True
 
-    if not current_crops and len(message_terms) <= 8:
+    if not current_agri and len(message_terms) <= 8:
         return True
 
     return False
@@ -384,12 +627,49 @@ def retrieval_query(message, history):
         return f"{recent_user_context(history)}\nCurrent follow-up: {message}"
     return message
 
+# ✅ UPDATED: Generate response with cooking check
 def generate_response(message, history):
     message = extract_text(message).strip()
-    guard_result = guard_response(message)
+    
+    # ✅ NEW: Check for cooking/food prep questions (non-agro)
+    cooking_keywords = ["fry", "cook", "recipe", "boil", "grill", "roast", "bake", "season", "spice", "stew", "soup"]
+    if any(kw in message.lower() for kw in cooking_keywords):
+        if "fish" in message.lower() or "meat" in message.lower() or "chicken" in message.lower():
+            yield "That sounds like a cooking question! I'm an agricultural advisor, not a chef. I can help with fish farming, harvesting, processing, and storage, but for cooking recipes, you might want to ask a cookbook instead. What farming or agricultural question do you have?"
+            return
+    
+    # Guard first (static responses for known greetings + Gemma for unknown)
+    guard_result = guard_response(message, history)
     if guard_result:
         yield guard_result
         return
+    
+    # Common-sense questions (skip RAG)
+    if is_common_sense_question(message):
+        messages = [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            *history_to_messages(history),
+            {"role": "user", "content": message},
+        ]
+        
+        stream = llm.create_chat_completion(
+            messages=messages,
+            temperature=0.20,
+            top_p=0.9,
+            repeat_penalty=1.12,
+            max_tokens=150,
+            stream=True,
+        )
+        
+        partial_message = ""
+        for chunk in stream:
+            delta = chunk['choices'][0]['delta']
+            if 'content' in delta:
+                partial_message += delta['content']
+                yield partial_message.strip()
+        return
+    
+    # Normal agricultural query with RAG
     search_query = retrieval_query(message, history)
     evidence = rag_engine.search(search_query)
 
@@ -419,7 +699,7 @@ def generate_response(message, history):
         temperature=0.20,
         top_p=0.9,
         repeat_penalty=1.12,
-        max_tokens=220,      # Headroom allocated for complete sentence generation
+        max_tokens=220,
         stream=True,
     )
 
@@ -507,7 +787,6 @@ app_theme = gr.themes.Base(primary_hue="emerald", neutral_hue="slate").set(
     block_label_text_color="#10b981",
 )
 
-# Custom SVG Vector Logo: Plant inscribed inside a stylized map boundary of Nigeria
 header_html = """
 <div style="display: flex; align-items: center; gap: 14px; padding: 12px 6px; margin-bottom: 6px;">
   <div style="background: #065f46; padding: 8px; border-radius: 12px; display: flex; align-items: center; justify-content: center; border: 1px solid #10b981; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);">
@@ -521,7 +800,7 @@ header_html = """
       AgriGemma4.9ja
     </h2>
     <p style="color: #94a3b8; font-size: 0.92rem; margin: 2px 0 0;">
-      Offline Nigerian agricultural extension advisory powered by Gemma & RAG
+      Offline Nigerian agricultural extension advisory powered by Gemma &amp; RAG
     </p>
   </div>
 </div>
