@@ -1,11 +1,8 @@
 {
-  "team_id": "team-agrigemma",
+  "team_id": "team-agrigemma49ja",
   "domain": "agriculture",
   "language_scope": [
     "en",
-    "ig",
-    "ha",
-    "yo",
     "pcm"
   ],
   "african_alpha_claim": true,
@@ -16,28 +13,28 @@
     "github_handle": "vicgrace01"
   },
   "cross_disciplinary_pairing": {
-    "discipline": "agriculture",
+    "discipline": "offline agricultural knowledge retrieval",
     "load_bearing": true,
-    "description": "Offline, localized agricultural advisory and IoT soil telemetry analysis for smallholder farmers."
+    "description": "AgriGemma4.9ja combines local Gemma inference with offline retrieval over Nigerian agricultural knowledge records, enabling practical crop advisory without internet access."
   },
   "test_prompts": [
     {
       "prompt_id": "tp_001",
-      "prompt": "A farmer in Enugu asks: What is the best way to store harvested maize to prevent weevils?"
+      "prompt": "A maize farmer in Kaduna reports sawdust-like frass in the whorl and leaf damage. What is the likely pest and what practical first response should the farmer take?"
     },
     {
       "prompt_id": "tp_002",
-      "prompt": "Design a low-cost IoT soil moisture telemetry system for a cassava farm using an ESP32 microcontroller."
+      "prompt": "Abeg, my cassava leaf dey yellow and curl. Wetin fit cause am, and wetin I fit do first make e no spread?"
     }
   ],
   "model": {
-    "name": "Llama-3.2-3B-Instruct",
+    "name": "AgriGemma4.9ja — Gemma 4 E2B IT",
     "runtime": "llama.cpp",
-    "quantization": "GGUF Q4_K_M",
-    "parameters_estimate": "3.2B",
+    "quantization": "GGUF Q3_K_M",
+    "parameters_estimate": "5.1B",
     "packaging": "binary_bundle"
   },
   "_runtime": {
-    "model_path": "model/llama-3.2-3b.Q4_K_M.gguf"
+    "model_path": "model/gemma-4-E2B-it-Q3_K_M.gguf"
   }
 }

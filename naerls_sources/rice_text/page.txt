@@ -1,0 +1,1001 @@
+                                                    Acknowledgments
+
+                             This bulletin replaces the National Agricultural Extension and
+                             Research Liaison Services (NAERLS) Extension Bulletin on
+                             Rice production practices in Nigeria. It has been revised to align
+                             with value chain approach of the Agricultural Transformation
+                             Agenda (ATA) of the Federal Ministry of Agriculture and Rural
+                             Development (FMARD). The information contained is a
+                             synthesis of information from across various local and
+                             international scientists and organizations.       These include
+                             National Cereals Research Institute (NCRI), Badeggi; Federal
+                             Fertilizer Department (FFD), Abuja and the Africa Rice Centre.
+
+
+                             C. K. Daudu, A.A. Yakubu, I. J. Sambo, E. Okworie (Mrs.),
+                                          J.O. Adeosun, and J. E. Onyibe
+
+
+                             The production of this Rice Bulletin was supported by West
+                              Africa Agricultural Productivity Programme (WAAPP)
+
+
+
+                                                Revised September 2014
+
+
+
+
+Extension Bulletin No: 230
+
+
+
+
+                                                             1
+1.0 Introduction                                                     The crop is predominantly produced by small-holders. The area
+Rice has become a food security crop as well a cash crop in          put under its cultivation production in 2010 was estimated at
+Nigeria, employing over 15 million people in its value chain.        2,012,740 ha which increased to 3,095,900ha in 2014. Similarly,
+The rice grain consists of 75-80 % starch, 12 % water and only 7     the estimated output of rice increased from 4,080,940 MT in
+% protein with a full complement of amino acids. Its protein is      2010 to 6,734,100 MT in 2014 (NAERLS, 2014).
+highly digestible with excellent biological value and protein        Rain fed lowland rice is the most predominant rice production
+efficiency ratio owing to the presence of higher concentration       system, accounting for nearly 50% of the total rice-growing area
+(about 4 %) of lysine. Minerals like calcium, magnesium and          in Nigeria; while rain fed upland rice, irrigated systems, deep
+phosphorus are present along with some traces of iron, copper,       water rice and mangrove swamp rice make up the remaining
+zinc and manganese. The bran oil is used for cooking, soap           50%. Most farmers still rely on traditional production systems
+making, carrier for insecticides and anti-corrosive and rust         which are of low productivity.
+resistant oils. Rice is also used in the brewing industries. Rice    Various research recommendations for improving rice
+straw is used as a source of fuel, the manufacture of straw board,   production from universities and research institutes especially
+for thatching and for making hats and mats. Rice is usually          the National Cereal Research Institute (NCRI) and the Africa
+cooked by boiling in water or steaming and eaten with soup. It       Rice Centre are yet to be communicated to potential users. The
+is also frequently made into balls or ‘tuwo’ and consumed with       aim of this bulletin is to empower farmers, extension agents and
+soup.                                                                other actors in the rice value chain with required technical
+                                                                     knowledge to increase production efficiency and quality
+The demand for rice in Nigeria has soared over the years. It is      management along the chain.
+consumed across all income groups and consumption is reported                .
+to have increased at 5% per year between 1961 and 2006.              2.0 Choice of land
+Production has however not kept pace with consumption.               Rice can be grown practically on all types of soil, sandy loams
+Nigeria consumes more rice than it produces leading to               to heavy clays. However, heavy soils characteristics of river
+significant imports over the years. Nigeria’s rice consumption is    valleys and basins of fadamas which have higher water holding
+expected to jump to 35 million metric tons by 2050. The              capacities are better suited to rice growing than lighter soils. A
+widening domestic rice deficit is being met by importation.          heavy soil, slightly acidic to neutral (PH 5.5 to 7.0) is suitable
+Nigeria is both the largest producer and consumer of rice in the     for rice growing. High yields are usually associated with soils
+West African sub-region. Nigeria is currently one of the world’s     that have a high clay content of 40 to 60%. The soil should
+top ranking importers of rice.                                       contain a moderate amount of organic matter with high degree of
+Rice is cultivated in virtually all Nigeria’s agro-ecological        humification and good but not excessive drainage to minimize
+zones, from the mangrove and swampy ecologies of Niger delta         water loss. Farmers should therefore select sites where rice is
+in the coastal areas to the dry zones of the Sahel in the north.     grown traditionally with level fields (flat land). Where slope is
+                                                                     significant, soil and water conservation measures such as
+
+
+                               2                                                                       3
+planting across slope should be conducted with the advice of          management. Cover the paddy field with water to prevent the
+Extension Agents. The following tips should be considered for         loss of nitrogen through de-nitrification.
+rice production:                                                      (i) Mechanization: For newly cleared areas, cut big trees before
+- Use soils that are suitable for rice production i.e. fertile land        the rains preferably from November to February and remove
+   with good drainage and water retention capacity (contains               all stumps, roots and trees before ploughing. Plough once
+   some clay and/or organic matter i.e. loamy soil) and are                and disc harrow twice with the first rains from late February
+   slightly acidic to near neutral. Heavy soils are considered             to early March to make good tilt if land is flat. Plough twice
+   most desirable.                                                         and disc harrow once if land is sloppy.
+- Where continuous cropping is practiced i.e. planting rice for       (ii) Manual Cultivation: Clear bush and pack thrashes between
+   more than two years on the same piece of land, soil fertility           November and February, and use hoe to remove stumps and
+   conservation/improvement measures (such as growing                      weeds. In the Savannah, land preparation may start in
+   legumes after rice, and ploughing rice residues into the soil as        February, depending on the onset of the rains.
+   organic matter) should be adopted
+
+2.1 Land preparation
+Proper land preparation is necessary in rice production to
+minimize competition with weeds, enhances adequate mixture of
+stubbles and fertilizer as well as ensures uniform water
+distribution. Harrow the land twice to provide sufficient tilth for
+rice growth. Ridging is not necessary (unless the slope of the
+land is considerable) and often leads to low population and
+yields. Upland rice is better planted on flat land.
+Paddy fields can be prepared under either dry or wetland
+conditions; the choice depends on time of operation, soil
+properties and implements to be used. In either case, the field
+should be disc ploughed immediately after harvest to expose the
+rhizomes of perennial weeds to scorching action of the sun.
+For direct seeded rice, the field should be ploughed and
+harrowed just before the first rain. For wet or transplanted rice,         Fig. 1: Land prepartion using tractor
+the field should be flooded with the first rains and then roto-
+vated using power tillers. Construct bunds depending upon the
+slope, to accumulate rain water. Level the land to reduce
+erosion. Divide the field into plots of 50-100m2 for better water
+
+
+
+                               4                                                                        5
+                                                                  Medium maturing-Iron Toxic and Flood-Prone Areas
+                                                                    FARO 15, ITA 247, ITA 249, Suakoko 8, FARO 11(OS 6),
+                                                                    FARO 43 (ITA 128), FARO 47 (ITA 117), FARO 48 (ITA
+                                                                    301), FARO 49 (ITA 315), ITA 321, ITA 331, IDSAID,
+                                                                    WAB 35-2-FX, TDX 1012-12-28
+                                                                  Late maturing
+                                                                    FARO 15 (water-logged areas)
+                                                                    Gall Midge-Affected Areas:
+                                                                    Cisadane (FARO 51)
+                                                                  Upland ecology
+  Fig. 2: Land prepartion using ox drawn
+                                                                     FARO 43 (ITA 128); FARO 46 (ITA 150); FARO 48 (ITA
+2.2 Variety selection and management                                301); FARO 55 (NERICA 1); FARO 56 (NERICA 2); FARO
+Select the variety that matches your production environment and
+                                                                    58 (NERICA 7); FARO 59(NERICA 8); OFADA 1 and
+market demand.
+If in doubt, please consult the nearest Agricultural Officer or     OFADA 2, ITA 368, Tox 400 4-43-1-2-1, WITA 4 (Tox
+extension worker or the nearest office of State Agricultural
+                                                                    3100-44-1-2-3-3)
+Development Project/ River Basin Development Authority/
+National Agricultural Seed Council/ Seed companies to obtain      Irrigated lowland and Iron toxic areas:
+information on most suitable variety as well as supply of good
+                                                                     WITA 1(Tox 3118-6-E2-3)
+quality rice seeds.
+                                                                  Lowland ecology
+Recommended varieties
+                                                                    FARO 44 (SIPI); FARO 51 (Cisadane); FARO 52 (WITA 4);
+Early maturing
+                                                                    FARO 60 (NERICA L19) and FARO 61 (NERICA L34)
+FARO 38 (IRAT 133), FARO 39 (IRAT 144), FARO 45 (ITA
+                                                                  Mangrove ecology/ deep floating environment
+257), FARO 44 (Sipi 6920233) FARO 46 (ITA 150)
+                                                                    ROK 5, IR 54, WAR 77-3-2-2; BKN 6986-17;
+Medium maturing- Non-Iron Toxic and Flood-Free Areas
+   ITA 222, ITA 306, ITA 212, FARO 29.
+
+
+
+                            6                                                                   7
+Table 1: Agronomic characteristics of some recommended rice varieties;
+
+New     CultivarEcology Days to Plant      Yield   Grain Amylose Reaction Year
+name     name           maturity height   range    shape content to blast    of
+                                  (cm) (tonnes/ha)                        release
+FARO SIP1692033 Shallow   115      95     4.0-6.0  Long    26.0 Resistant 1992
+ 44             swamp
+FAR0    ITA 257    Upland    100     100     2.0-3.0   Medium    17.4    Resistant 1992
+ 45
+FARO    ITA 150    Upland    105     110     2.0-3.5   Medium    22. 5   Resistant 1992
+ 46
+FARO    ITA 117    Upland    115     105     2.0-4.0    Long     10.5    Resistant 1992
+ 47
+FARO    ITA 301    Upland    128     100     2.5-4.0   Medium    16.4    Resistant 1992
+ 48
+FARO    ITA 315    Upland    120     100     2.0-4.5   Medium    16.2    Resistant 1992
+ 49
+FARO    ITA 230    Shallow   125     100     4.0-6.5   Medium    28.0    Resistant 1992
+ 50                swamp
+FARO   Cisadane    Shallow   130     100     4.0-6.0    Long       -     Resistant 1997
+ 51                swamp
+Faro    Nerica 2   Upland    120     100     4.0-6.0    Long     16.2    Resistant 2004
+ 56
+Faro    Nerica 7   Upland    110      95     4.0-6.0    Long     15.5    Resistant 2006
+ 58
+
+FARO      L19       Low      125     100     4.0-6.0    Long     Long    Resistant 2012
+ 60                 land
+FARO      L34       Low      125     105     4.0-6.0    Long     Long    Resistant 2012
+ 61                 land
+
+
+
+                                             8
+2.3 Seed management and priming
+Seed treatment protects the crop from seed borne diseases and
+insects as well as gives better germination. Chemical treatment
+should be undertaken with a mixture of insecticide and
+fungicide. Use one 10g sachet of Apron Star50 DS to dress/4kg
+seed or 10g of Seed-plus of Dressforce to dress 2kg of seeds.
+Seed priming is conducted in order to hasten germination and
+crop emergence. Priming is achieved by soaking the seeds in
+cold water for 12 hours or overnight and then drained. For direct
+seeding, seeds are air-dried for about two hours and then sown.
+Advantages include higher percentage of viable seeds,                        Fig. 4: seed dressing with chemicals
+vigorously established plants that can withstand stress and
+higher yields. It also gives higher level of germination, reduces
+                                                                    2.4 Planting
+the need to replant or fill the gaps, and leads to more uniform
+                                                                    Direct seeding
+plant stands. It also leads to high crop vigor at early growth
+stages which enables the rice to compete better with weeds,         When the seeds are viable (germination rate of more than 80%),
+increases resistance to insect pests and diseases and high paddy    seeding rate of 50–60 kg/ha is recommended for dibble sowing,
+yield.                                                              80 kg/ha for sowing by drilling and 80–100 kg/ha by
+                                                                    broadcasting. If germination percentage is less than 80%, the
+                                                                    seed rates should be increased accordingly. Plant the rice seed at
+                                                                    a depth of 2 to 4cm. Do not plant rice deeper than 5 cm in order
+                                                                    to avoid delayed seedling emergence. For ease planting, divide
+                                                                    the field into plots of 50 m2 or 100 m2, and construct small
+                                                                    bunds. Direct seeding can be done with pre-germinated seeds in
+                                                                    wet soils. Dibble 5–6 seeds at a spacing of 25 cm between rows
+                                                                    and 20 cm intra row and later thin to 3 to 4 seedlings per stand at
+                                                                    2 to 3 weeks after sowing. In drilling method, drill rows should
+                                                                    be 15–20 cm apart.
+
+      Fig. 3: Soaking seeds in salt water
+
+
+
+
+                             9                                                                      10
+                                                                     structure and construct raised beds of about 1.2m wide. A
+                                                                     mixture of 60g Urea and 42.6g SSP/m2 should be worked
+                                                                     thoroughly into the soil before sowing seeds. Drain excess water
+                                                                     from the field for a week. Ensure that seed beds are raised in
+                                                                     high rainfall areas. Avoid bird damage during germination by
+                                                                     scaring birds. In gall midge affected areas, apply Furadan TM
+                                                                     (Carbofuran) at 1 kg/ha in nursery beds a week before uprooting.
+
+
+
+
+ Fig. 5: Dibbling method of planting rice
+
+
+
+
+                                                                              Fig. 7: Rice in field nursery
+
+
+
+
+ Fig. 6: Drill method of planting rice
+
+
+Nursery bed practices
+Select nursery beds near cultivation areas to ease management.
+Soak the seeds in water for 24 hours. Spread them on the floor
+and incubate them by covering them with polyethylene bags for                 Fig. 8: Rice in container nursery
+48 hours for the seeds to sprout. To provide seedlings for 1 ha of
+land, raise the nursery in 500m2. Plough the land to a very fine
+
+
+
+                            11                                                                      12
+Sowing date                                                             -   Use of organic manures, crop residues, green manures,
+The actual timing of sowing should be guided by the time of                 bio-fertilizers and soil amendments.
+establishment of the rains, sowing rice in rows makes manual            -   Proper time and method of nutrient application.
+weeding easier.                                                         -   Proper management of water
+(i)     In the forest area, plant in mid-March to mid-April, after
+        2 to 3 good rains.                                           The amount of fertilizer to apply depends on the quantities and
+(ii)    In the savannah, plant rice in mid-May to Mid-June,          level of residual nutrients in the soil and the type of fertilizer
+        depending on the rain establishment.                         materials available. It is advisable to apply fertilizer based on
+                                                                     soil test results and expected yield. Rice responds well to
+Transplanting                                                        nitrogen fertilization. The recommended doses of major plant
+Transplant seedlings from nursery after 21 days or at 2–6 leaf       nutrients to rice are 70-50-40, 60–30–30 and 80-30-30 N, P and
+stage. This is done by carefully uprooting the seedlings.            K/ha respectively under upland (Sahel and Northern Guinea
+Transplant 2–3 seedlings per hill. Spacing should be 20 cm           Savanna upland), (Southern Guinea Savanna) and Forest and
+between rows and 15–20cm between plants.                             shallow swamp rice ecosystems. For efficient management of
+Transplant early maturing varieties 15 cm apart and transplant       chemical fertilizers the following are to be taken into
+medium and late maturing varieties 20 cm apart. At 7-10 weeks        consideration.
+after sowing, use remaining seedlings to fill gaps where seeds           - Nitrogenous fertilizers are to be applied in more number
+have not germinated 7–10 days after transplanting.                           of splits. The lighter the soil, the more will be the
+                                                                             number of splits. It is usually applied in three splits –
+Plant population                                                             40% N at the time of planting, top dressed with 30% N at
+In dibbling or direct seeding, sow seeds 25 x 25 cm to give                  4 weeks after planting or at the time of tillering and the
+160,000 stands/ha. Use a “pinch” or 4 to 5 seeds paddy per hole.             other 30% N at 7 weeks after the planting or when the
+Plant about 3-5cm deep, cover lightly and press. In drilling                 crop start to flower (panicle initiation stage).
+method, drill in rows 15–20 cm apart                                     - Full amount of phosphate and potassium fertilizers are to
+                                                                             be applied during land preparation.
+2.5 Nutrient management and fertilizer application                       - In virgin soils and land that has been under 1 to 2 years
+Integrated nutrient management is the management of both                     fallow cropped with rice, apply a moderate rate of N (60
+organic and inorganic plant nutrients for optimal rice production            kg/ha) and on that has been more frequently used, apply
+while conserving the natural resource base essential for long-               80 kg/ha. When Top dressing with N fertilizer, applied
+term sustainability. It consists of:                                         between the rows and buried. When P and K are applied
+    - Application of plant nutrient on the basis of soil test                separately, it is proper to broadcast them before sowing.
+        recommendation.                                                      However application times may vary due to weather
+                                                                             constraints and individual farmers.
+
+
+
+                               13                                                                      14
+                                                                      directed at maximizing the efficiency of fertilizers and
+For upland rice, apply all N, P and K at 2-3 weeks after planting     herbicides. Apply herbicides in completely drained fields. When
+during first weeding. This could also be spilt applied at sowing      fertilizers are to be applied, reduce water levels in the field to 3
+or one week after germination. Incorporate (bury) the fertilizer      cm for about 4-5 days before application. The crop is most
+in the soil properly to avoid losses. The second dose of nitrogen     sensitive to water stress during the reproductive stage. Wherever
+may be given in the form of urea fertilizer applied at 6-7 weeks      water is available, irrigate the crop at tillering, panicle initiation
+after sowing.                                                         (PI), flowering, milking and dough stage. Collect maximum rain
+For upland rice Southern Guinea and Forest zones, apply all N,        water by strengthening field bunds. Maintain saturation to 3 cm
+P and K 2-3 weeks after planting and first weeding. This could        standing water till 25-30 days after transplanting and low depth
+also be spilt applied at sowing or one week after germination.        of 3-5 cm of water till 15 days after flowering. The rice field is
+Incorporate (bury) the fertilizer in the soil properly to avoid       completely drained 10-15 days before harvesting to promote
+losses. The second dose of urea fertilizer should be applied at 6-    uniform ripening of the grains, but primarily to allow for a
+7 weeks after sowing.                                                 timely harvest. Dikes should be built across flood plains to
+For upland rice in Sahel, Sudan and Northern Guinea, apply half       control seasonal flooding during the months of July and August.
+N and all P and K in furrows between rows at 2- 3 weeks after         Bunds should also be constructed around fields to conserve
+planting. Broadcast the remaining N at 6 weeks after planting.        water and check erosion
+For lowland rice (shallow swamp, irrigated, hydromophic and
+inland valley swamp) apply half the N and all P and K at              2.7 Weed control
+planting and the remainder broadcast at 6 - 10 weeks after
+                                                                      Hand weeding
+planting or at panicle initiation stage.
+                                                                      Rice fields should be weeded regularly, especially during the
+                                                                      early stages of growth. First weeding should be thorough and
+Method of fertilizer application
+                                                                      should be done within 2 to 3 weeks after emergence, using hoes.
+By drilling or broadcasting, ensure incorporation into the soil.
+                                                                      (The earlier the first weeding is done the better).
+Apply fertilizer after a sufficient rain at 10cm from base of plant
+                                                                      Second weeding should be done 5 to 6 weeks after emergence.
+(hill application).
+                                                                      Weed a third time, if necessary.
+2.6 Water management
+                                                                      Use of herbicides
+Water is the most limiting factor in rice production. With
+                                                                      (i)    Pre-emergence
+adequate water supply, rice can be grown in most parts of the
+                                                                             -       Oxidiazon at 3.0kg a.i. ha-1 (4-5 liters Ronstar 25
+country. Water has a dual function of meeting physiological
+                                                                                     EC/ha)
+demands of the rice crop as well as controlling weeds. Rice
+                                                                      (ii)   Roundup (3 litres ha) applied pre- land preparation, Or
+requires an annual rainfall of 1200-1600mm that is evenly
+                                                                              spray 3litres of Gramoxone applied pre-emergence (1-3
+distributed during the growing season. Water management is
+
+
+
+                              15                                                                         16
+         days after planting) along with 4-5 litres of Oxidiaxone     feed on the straw or may attach to their feet as the animals pass
+         or 5-6 litres Butachlor 50 or 60EC as tank mixture.          by Striga-infested areas or by machine tools during land
+                                                                      preparation. Striga seeds are also easily dispersed by wind and
+(iii)    Post-emergence                                               water.
+     -   Propanil + bentazon at 3.0kg a.i. ha-1 ( 5 litres Basagram
+         500PLha-1)                                                   Control:
+    -    Propanil + Fluorodifen at 3.0kg a.i. ha-1 (5 litres Risane   Some of the measures recommended for the control of Striga in
+         3000ECha-1)                                                  rice include the use of Striga-free seeds, proper cleaning of farm
+    -    Propanil + thiobencarb at 3.0kg a.i. ha-1 ( 5 litres         tools especially after working on infested fields, proper
+         Tamarice 336ECha-1) 2 - 3 weeks after planting               fertilization (use of organic manure and inorganic fertilizer),
+    -    Propanil + 2.4D Amine at 3.0kg ai ha-1                       crop rotation especially with soybean and groundnut, and
+                                                                      intercropping as well as timely weeding. Rice farms should be
+Any resistant weed species or newly germinating weeds like            weeded before Striga produces seeds to reduce the Striga seeds
+corn grass should be removed and destroyed. A weed-free seed-         in the soil. A combination of the control measures often referred
+bed at planting also contributes to the effectiveness of the          to as the integrated Striga control approach is recommended and
+herbicides. Caution must always be exercised in selecting and         is more effective than the individual control measures.
+handling all herbicides. Consult the extension agent nearest to
+you for guidance.                                                     2.8 Pests and diseases control
+                                                                      Pest management
+Striga attack on rice                                                 Integrated Pest Management (IPM) is the integration of available
+Striga is increasingly becoming a serious problem in rice             pest control tactics to keep pests below economic threshold
+production. This weed is a parasite which germinates only when        levels with an aim of least or no hazards to the environment. It
+the rice plants (hosts) which it attacks are present. Striga is       includes options aimed at eliminating pests by use of chemical
+common in soils that have been used continuously and are poor         (synthetic) pesticides along with biological and cultural options.
+in nutrients. The symptoms of Striga damage on the host crop
+can be seen before the parasite emerges from the soil. Usually,       Cultural and mechanical methods
+the symptoms are similar to those on drought affected crops           Crop residue management; Use of healthy seeds; Use of
+which include stunted growth, wilting, yellowing and scorching        resistant/tolerant varieties; Adjustment of sowing date; Crop
+of leaves, lower yield and plant death in severe attacks. Striga      rotation; Intercropping, trap cropping; border cropping; Crop
+produces numerous tiny seeds which make it easy for the               sanitation; Efficient fertilizer management; Efficient water
+parasite to spread from place to place. The seeds can                 management; Removal of affected plant parts; Use of
+contaminate the crop during harvest, (paddy/straw) which may          traps/poison bait.
+be carried from one farm to another or by animals when they
+
+
+
+                               17                                                                      18
+Termites
+Preventive: Destroy all dead woods and plant residues by
+burning. Locate termite mounds in surrounding bush and
+destroy. Apply chloropyriphos (2litres ha-1) or Carbofuran 3G
+(10-15kg ha-1) treatment to control termite.
+
+Army worm and stem borer
+Watch the rice crop closely for dead hearts during early
+vegetative growth. Apply 1lter per hectare or cypermethrin 10               Fig. 11: Rice bugs
+EC or Lamdacyhalothrin 2.5E for control of stem borer and
+army worms.
+Apply Deltamethrin EC at 1 litre a.i/ha in 500 litres of water to
+control rice bugs which suck the sap after flowering.
+Apply FuradanTM (Carbofuran) at 1 kg/ha to control African
+rice gall midge 20–30 days after transplanting as symptoms are
+seen on the field.
+Some common pests of rice (pictures)
+
+
+                                                                     Fig. 12: Rice gall midge
+
+                                                                    Rodents:
+                                                                    Keep 2 to 3 metres border round the field free from grass, weed
+                                                                    and burn thrash to control rodents. Build bamboo or palm frond
+       Fig. 9: Rice army worm life cycle
+                                                                    fence (if possible), around the field immediately after planting.
+                                                                    Create openings at short intervals and place traps in the
+                                                                    openings. If rats and grass cutters become troublesome, catch
+                                                                    them with traps.
+
+
+
+
+Fig. 10: Rice stem borer larvae and adult
+
+
+                             19                                                                    20
+Birds:                                                                Control of Bacterial Leaf Blight:
+Use scaring devices to control birds. Employ people to drive          The control measures for bacterial leaf blight are:
+birds away from farms between 6.00am to 7.00pm for the first          1. Growing resistant varieties
+two weeks after planting and from heading to harvesting.              2. Split application of nitrogen fertilizer
+                                                                      Bacterial leaf streak
+Disease management                                                    Causal organism: Xanthomonas oryzae pv. oryzicola
+Integrated Disease Management (IDM) may be defined as
+managing plant disease severity below the economic threshold          Symptoms of bacterial leaf streak
+level following cost-effective, viable and easy operational           This is a bacterial foliar disease caused by Xanthomonas
+procedures. The various methods used for IDM in rice include;         campestris pv. Oryzicola, the disease first starts on the leaves as
+Use of resistant/tolerant varieties; Use clean and healthy seeds;     small water-soaked to translucent interveinal streaks of 1-10 cm
+Destruction of alternative host plants; Selection of suitable land;   long. They elongate parallel to the veins and turn yellowish
+Seed/seedling treatment; Proper land preparation; timely              brown, which often coalesce to form large blotchy lesions
+planting; Appropriate plant population; Crop rotation with non        covering the entire leaf Surface. Minute, yellowish orange beads
+host crops; Burning of stubbles; Judicious fertilizer application.    of bacterial exudates appearing all along the lesions is a
+Proper weeding, regular inspection of the crop for disease            characteristic feature of this disease.
+incidence and removing and destruction of diseased plants
+                                                                      Control of bacterial leaf streak: To eradicate the disease,
+ Bacterial leaf blight                                                following steps should be taken:
+ Causal organism: Xanthomonas campestris pv. oryzae,                  1. Procure seeds from authentic source to minimize the seed
+ Symptoms of bacterial leaf blight                                        borne inoculums.
+  i.  Bacterial leaf blight is a typical vascular disease and has     2. Soaking of the seeds in 0.025% Streptomycine and hot water
+      three distinct phases of symptoms. viz., leaf blight phase,         treatment at 52°c for 30 minutes.
+      kresek phase and pale yellow leaf phase.                        3. Use of resistant varieties.
+ ii.  Symptoms of the disease appear from the tip or edges of
+      leaves as yellow, water soaked, undulate lesions, parallel      Rice blast
+      to' the veins, later turning to straw yellow.                   Causal organism: Pyricularia grisea, Magnaporthe grisea
+iii.  Often amber coloured bead-like bacterial exudates are           (Fungus)
+      present on lesions. In systemic infection, the seedlings wilt
+      and die.                                                        Symptoms of rice blast
+iv.   Grains get partially filled or become chaffy. Rain splashes     Rice blast affects all above ground parts of rice plant at all
+      and wind aid in dissemination of the bacterium. Field to        growth stages but the severe damage occurs during the seedling
+      field irrigation also aids in the spread of the pathogen.       stage. An infected leaf has diamond-shaped or elliptical or
+
+
+
+                              21
+                                                                                                       22
+spindle-shaped spots with gray or white centers and brown            easily transmitted by wind. Inoculum sources of the disease
+margins. The spots may merge leading to a complete drying of         include; seed, collateral hosts, rice straw or stubble.
+the infected leaf. The infected panicle turns white, causing
+panicle blast, and dies before being filled with grain. The          Favorable conditions for the pathogen
+infected node rots causing all above parts to die.                        Temperature of 25-30°C
+                                                                          Relative humidity (>90%)
+Conditions that favor development                                         Cloudy days
+1.    Infested or diseased seeds                                          High doses of Nitrogen fertilizer
+2.    Excessive use of nitrogen
+3.    Poor air flow and poor sunlight penetration                    Damage symptoms
+4.    Rainy days with high humidity                                   The symptoms of the disease appear on the coleoptile, the
+Prevention and control                                                 leaves, leaf sheath and also the glumes.
+1.    Use diseased-free seeds                                         On the leaves the spots vary in size (1cm) and shape from
+2.    Use resistant cultivars                                          minute dots to circular, eye shaped or oval spots is seen in
+3.    Proper plant spacing, transplanting is advisable rather          the central portion.
+      than broadcasting                                               The seeds are sometimes shriveled and discolored.
+4.    Split applications of nitrogenous fertilizer
+5.    Apply compost                                                  Management of brown leaf spot
+6.    Avoid farm activities when plants are wet
+7.    Burn diseased-straw and stubble                                Preventive measures:
+8.    Spraying the nursery with 5gm of Mancozeb 80% wet               Use of resistant varieties
+      table powder                                                    Proper crop nutrition
+9.    Benlate (Benomy 50%) mixed in 3.8 litres of water plus          Avoid water stress
+      5ml of Tenac as sticker where available sprayed at 10           Clean cultivation
+      days interval after seeding
+10.   Diethane at the rate of 1.5 – 2kg per hectare                  Cultural practices:
+                                                                      Use disease free seeds for sowing
+Brown leaf spot: Helminthosporium oryzae                              Do not use high nitrogenous fertilizer
+Brown leaf spot is a fungal disease that can infect both seedlings    Burn all crop residues and alternative hosts
+and mature plants. This disease is more severe in areas of poor
+management. It is the major cause of 'Bengal Famine' in 1942,        Chemical control:
+due to yield loss of 50-90%, resulting in death of about 2 million   If the disease is observed in the field then spray 1g or 2g
+people. Occurs mostly in deficient & poor soils, the disease is      mancozeb or 2.25g Zineb in 1liter of water.
+
+
+
+                                                                                                    24
+                            23
+Harvesting                                                           Yield
+Rice is ready for harvesting when the grains are hard and are        Farmers' yields range between 1,200 and 3,000kg ha-1 (16-40
+turning yellow/brown (about 30–45 days after flowering).             bags) for swamp rice and 1,000 - 1,500kg ha-1 (13-20 bags) for
+Harvest when 80–85% of the grains have turned straw colour to        upland rice. With improved practices yields of up to 5,000 -
+avoid shattering, this is usually about 4-5 weeks after at least     6,000 (about 73 bags) and 2,500- 3,000kg ha-1 (about 37 bags) of
+50% flowering. Cut the rice stems with a sickle at about 15-         paddy are possible for swamp/lowland and upland rice,
+20cm above the ground to permit hand threshing. Tie the              respectively.
+panicles in bundles. Then place the tied-up bundles of harvested
+rice crop in heaps for drying before threshing 80 percent of the     Rice processing
+paddy.                                                               Rice processing is the combination of several operations to
+                                                                     convert paddy rice into well milled silky-white rice, which has
+                                                                     superior cooking quality attributes. The majority of household
+                                                                     prefer well milled rice (WMR) with little or no bran remaining
+                                                                     on the endosperm.
+                                                                     Objectives of rice processing are as follows:
+                                                                          To produce a maximum number of unbroken grains that
+                                                                             have had their bran layers uniformly removed, resulting
+                                                                             in an appearance that is of a desired color and luster.
+                                                                          Maximize practical through put capacity.
+                                                                          Minimize consumption of power.
+                                                                          Minimize consumption of consumable parts.
+                                                                          Maximize productivity of human resource.
+       Fig. 13: Matured rice field ready for harvest                 Most of Nigerian rice is produced by small-scale cottage
+                                                                     processing industries and is consumed locally.
+Storage
+Rice paddy intended for storage should be properly dried. Rice       Steps in cottage processing:
+paddy should be stored in a cool, dry and rodent proof condition.
+Clean the store (rumbu) before putting in your paddy. To protect     Threshing:
+the paddy against insect pests, use 1½ match boxes full of           Threshing separates the paddy from the straw. Thresh
+Actellic 2.5 dust to about 25 kg of paddy. Infested paddy should     immediately after harvest to avoid losses. Use whacking frames
+be fumigated with phostoxin in air-tight containers at the rate of   or mechanical devices, but avoid threshing on bare ground.
+one tablet per jute bag (100 kg paddy) or 10-15 tablets per ton of   Traditionally threshing can be done by trampling with feet or
+paddy.                                                               using a work bulls to trample on the rice. The second one is by
+
+
+
+                            25                                                                      26
+pounding gently on the rice ears pin in the mortar with pestle.        are removed or picked with hands. Another method involves
+Threshing can also be done by spreading tarpaulin or mat on the        using either basket, calabashes or head pan, the paddy and the
+ground and the bundle of rice ears threshed on the frame while         chaff are put in one container and carried up in the air while the
+the mat or tarpaulin collects the paddy. Thresh carefully to avoid     second one is placed on the ground and the paddy fall from the
+de-husking the paddy. Damaged paddy become stained and                 first container to the one placed on the ground while the wind
+coloured after parboiling and milling. Threshing disadvantages         blows the chaff away. The winnowing disadvantage includes;
+include;                                                                        Ineffective separation when there is no wind.
+     Grain breakage.                                                           Paddy loss or waste if the wind is too strong.
+     Rice paddy mixed with sand and stones.
+     The process is energy draining because it is labour
+       intensive.
+     Low capacity of threshing.
+
+
+
+
+                                                                                 Fig. 15: Rice winnowing
+
+                                                                       Drying
+                                                                       Dry the paddy to a safe moisture level of between 12 and 14 %
+  Fig. 14: Traditional rice threashing on the field using metal drum   before storing. Freshly harvested paddy does not store well
+                                                                       under high temperatures. Remove foreign matter in the paddy to
+                                                                       avoid localized heating spots, sun-dry slowly for 2–3 days on
+Winnowing:                                                             mats spread on concrete floors and should be done slowly for the
+Winnowing comes after threshing; it is done to separate the            first few days so as to reduce breakage during milling. Avoid
+chaff and other contaminants from the rice paddy. It is done           drying on bare floors to reduce contamination with sand, pebbles
+traditionally by putting the paddy and the chaff in a flat tray and    and other foreign matter as they reduce the quality of the rice.
+shaken seriously in a circular motion and the contents tossed up
+in the air, the air blows the chaff away and materials like stones
+
+
+
+                               27                                                                      28
+Parboiling:
+Parboiling is an ancient method of rice processing, widely used
+in the developing countries like Nigeria, and in some rice
+exporting countries. Parboiled rice (PBR) is produced by both
+traditional and modern methods. The parboiling treatment
+gelatinizes the rice starch, improves the hardness of the rice
+upon drying, minimizes the breakage losses and thus increases
+the milling yield. Parboiling treatment also induces various
+physicochemical changes in paddy rice which play an important
+role in the subsequent storage, milling, cooking and eating
+qualities. The local parboiling devices range from pottery to
+boiler, use direct or indirect heating and single or double
+steaming, which consume all different amounts of energy.
+Agricultural residues are the main sources of energy for local
+parboiling, especially the residues of rice processing industries.        Fig. 17: rice after parboiled
+However, sun drying is a common practice in local parboiling
+processes. A nearby pond, river, lake or tube-well is the source
+                                                                     Benefits of parboiled rice
+of the water for parboiling. In Nigeria, over 90% of rice produce
+                                                                     Eating parboiled rice is healthy and nutritionally beneficial. It is
+are parboiled.
+                                                                     easily digestible compared to the brown rice. Parboiled rice is
+                                                                     not very different from brown rice, when it comes to nutritional
+                                                                     content, it tastes far better and takes less time to cook. This alone
+                                                                     should be reason enough to use parboiled rice compared to other
+                                                                     rice varieties.
+
+                                                                     Advantages of parboiled rice include;
+                                                                      Parboiled rice has Low Glycemic Index: GI index is the
+                                                                         scale which measures how quickly the body turns a food
+                                                                         into sugar. A high GI index means that the food gets
+                                                                         converted to sugar very quickly, and thus can lead to a
+                                                                         spike in your sugar levels (and hence unhealthy for people
+                                                                         with sugar problems or diabetes). It’s found that parboiled
+          Fig. 16: Rice parboiling using metal drums                     rice has a much lower GI index compared to untreated
+                                                                         white rice, and hence it’s a great option for diabetic people.
+
+
+
+                             29                                                                       30
+    Rich source of B vitamins: Compared to the untreated rice,           heat continuously until the husks crack. After which the
+     the parboiled rice contains a high percentage of B                   heat will be put off and the rice removed from the water.
+     vitamins, thiamine and niacin, which help digest the sugars
+     and converts carbohydrate into energy. The vitamin              Disadvantages include:
+     content in parboiled rice is similar to that present in brown       Prone to injuries or burn due to unloading of rice grain
+     rice.                                                                 from the hot water.
+                                                                         Incorrect timing and uncontrolled temperature.
+Disadvantages include;
+ It requires more energy, water and time for processing and         Some rice parboiling hardware’s are;
+     cooking than untreated rice.                                    (a)   Improved Traditional Firewood Rice Parboiled: This is
+ Over-parboiling results in over-opening of the husk                      made up of a hydro gravimetric tank filled with 12%
+     components followed by bulging out of the endosperm                   brine solution to facilitate the removal of sand pebbles,
+     which initiates surface scouring during milling and the               straw defective and empty grains or any foreign material
+     resultant ground particles being lost into the husk and bran.         in the grain.
+ Incomplete or non-uniform parboiling produces white-               (b)   Improved Steam firewood Rice parboiled: This system
+     bellied rice, which breaks easily during milling, and                 has double tanks. One as a boiler and the second as a
+     reduces the head rice yield.                                          soaking and steamer tank. The boiler is placed on a
+                                                                           furnace fired by wood and with pipe networks and
+Local parboiling processes include:                                        control valves for control of hot water and steam into the
+ Soaking: it involves soaking of rice paddy in water for                  steamer. Hot water is allowed to flow into the steamer
+     some time in order for the rice grain to attain high and              for soaking. It is drained after soaking and steam is then
+     uniform moisture content. Locally soaking is done by                  allowed to flow in for the steaming operation.
+     submerging the rice grain in cool water for three to four
+     days by the time in which fermentation must have taken          Drying after parboiling:
+     place thereby giving the rice grain an odour.                   This is done to bring the parboiled rice to low moisture content
+ Steaming: this process involves heat – treating the rice           (13 – 14% w.b). This moisture is quite safe for milling and
+     grains. While heating the rice, the macro nutrients in the      storage if the usage is not immediately. The rice paddy is spread
+     aleurone layer of the grain are transferred into the            on the concrete, tarpaulin or mats and not to be exposed directly
+     endosperm and all enzymes and microbial activies are            to the sun. Parboiled rice should be dried as much as possible
+     destroyed thereby increasing storability and the nutritional    under a shade. Drying should be done properly to avoid the
+     content of the grain. Locally, the rice is soaked after the     growth of mould on the paddy.
+     water have reach boiling point, it is left in the water with
+
+
+
+
+                             31                                                                     32
+Disadvantages of traditional or local dry include:
+   a. Contaminations by sand and stones.                              Removal of bran and polishing:
+   b. Pest, rodents, birds and lizards attack.                        The traditional methods includes use of a pestle to pound a
+   c. Space requirement and time control.                             mixture of rice grains and straws of dewatered sugar cane or
+                                                                      guinea corn husks placed in a mortar. The sugar cane chaff and
+Milling:                                                              guinea corn husks functions as abrasive during the pounding and
+Milling in rice processing refers to the combined process of          help in the polishing of the rice grains.
+cleaning, husking, polishing and grading of rice grains or grain
+size reduction process, for example to flours.                        Large scale processing:
+                                                                      Most large scale processing involves the use of modern
+Cleaning:                                                             technology equipment. Modern methods are energy and capital
+Dried parboiled rice coming to the mill is first cleaned before the   intensive, and are not suitable for small-scale operation at the
+entire milling process. Contaminants or foreign particles are         village level. Large scale processing consists of the following
+separated from the grain by winnowing. In a large scale               rice processing operations:
+processing, heavier ones are separated by a machine called de-
+stoner. Traditionally, stones, sands and other foreign particles      Electric rice parboiler
+are removed by hand picking.                                          This system is made up of two metal boxes, one placed within
+                                                                      the other and the environment well insulated for heat
+Disadvantage Includes:                                                conservation. It comes with a heat bottom where bags of rice
+    Time consuming                                                   grain are placed and other electrical heating elements which
+    Ineffective in picking the stones and other materials.           supply the heat.
+
+De-husking:                                                           Rice analyzer
+This is the process of removing the husk from the paddy.              Identify good, immature, dead, damaged, cracked, and
+Locally, de-husking is done by using a pestle to pound the paddy      discolored grains. However, an automatic, easy-to-use system
+gently in the mortar. After pounding, the grain is winnowed and       has been developed to inspect a 1000-grain sample of brown or
+poured in the mortar for another pounding, this continued till a      milled rice with high accuracy and repeatability.
+fine product is achieved.
+                                                                      Broken rice analyzer
+Disadvantages include:                                                The broken rice analyzer examines a 25- to 50-g sample of
+   (a) Excessive grain breakage                                       milled rice and determines its broken percentages based on
+   (b) Energy tasking                                                 weight. Principle of broken rice analyzer: rice is transferred to
+   (c) Time consuming                                                 an analysis tray for scanning; a broken rice analyzer is equipped
+
+
+
+                              33                                                                     34
+with artificial intelligence and advanced image-processing          The aspiration section separates light materials from the paddy,
+capabilities.                                                       allowing the cleaned paddy to drop through to a bottom outlet.
+                                                                    The aspiration section removes objects that are significantly
+Separation of broken grains from whole grains:                      lighter than rice (i.e., dust, husks, and such). Keys to the
+Broken grains are removed from whole grains through a process       performance of paddy cleaners are (a) uniformity of feed, (b)
+called length-grading actions. Later these broken grains can        perforation size and shape, and (c) air velocity. These determine
+either be marketed separately or blended with whole grains to       the effectiveness of screening and aspiration and affect through
+produce specific products.                                          out capacity of the machine.
+
+Sifters                                                             De-stoner
+This involves the separation of milled rice into whole and          Depending on the rice’s variety and harvesting techniques,
+broken grains. It is done typically with a high- capacity,          foreign objects may be present in paddy. A simple gravity
+moderately efficient length grader.                                 separator, called a de-stoner, fluidizes a bed of paddy and then
+                                                                    conveys the heavier stones to the high side of a sloping screen.
+Color sorting                                                       The lighter paddy is not in contact with the conveying surface
+The objectives of the color sorting are to improve the quality of   and thus moves downward under the force of gravity. In this
+rice and the yield. The advantage of color sorting includes the     way stones are removed from the paddy stream. After paddy
+following:                                                          cleaners remove foreign materials and seeds that are (a) wider
+      Removal of unwanted paddy and other foreign materials        than rice, (b) shorter than rice, and (c) less dense than rice, a
+      Removal of inorganic materials including clear and white     process is required to remove objects, such as stones, mud, and
+       impurities such as glass fragments, plastics, and stones     even dense glass, which are denser than rice.
+      Removal of stained rice
+      Removal of ‘‘peck’’ (dark spot) damage                       De-husking
+                                                                    This process removes the outer part of paddy rice (husk and
+Paddy cleaner:                                                      bran) to make it edible. There are three main types of husking
+The paddy cleaner consists of screening and aspiration sections.    machine, including stone de-hullers, rubber rolls and impeller
+An oscillating movement applied to the sloping screen by            type huskers. Stone de-hullers are still common in tropical Asia,
+vibratory motors causes paddy to move downward across the           where BR is immediately milled with either an abrasive or a
+screen surface. Paddy cleaners provide screening and aspiration     friction mill. It has been reported that different types of liner
+operations in perforated screen (upper screen) removes objects      significantly affect the husking performance. It has also been
+that are appreciably wider than rice (i.e., seed in pods, corn,     reported that the Engelberg-type or steel hullers are no longer
+beans, or other), whereas a round perforated screen (lower          acceptable in the commercial rice milling sector, as they lead to
+screen) removes objects that are significantly shorter than rice.   low milling recovery and high grain breakage. Abrasive or
+
+
+
+                              35                                                                     36
+friction type milling machines are used to remove the bran. It            It provides basic product information (including common
+has been reported that the abrasive mill can over-mill readily. In         name, list of ingredients, net quantity, durable life date,
+the Engelberg or huller type mill, de-husking and milling are              grade/quality, country of origin and name and address of
+performed in one step with greater grain breakage. Using a de-             manufacturer, dealer or importer);
+husker before milling improves both the milling and head rice         It provides health, safety, and nutrition information. This
+yields. During parboiling treatment the husk splits and loosen,            includes instructions for safe storage and handling,
+which makes de-husking easier.                                             nutrition information such as the quantity of fats, proteins,
+                                                                           carbohydrates, vitamins and minerals present per serving
+Water mist polishing                                                       of stated size of the food (in the Nutrition Facts table), and
+One of the goals in rice processing is enhancing the quality of            specific information on products for special dietary use;
+the finished rice. The ‘‘water mist’’ polishing machine was           It acts as a vehicle for food marketing, promotion and
+developed as a processing step to improve the finish or                    advertising (via label vignettes, promotional information
+appearance of milled rice. As the name suggests, this machine              and label claims such as low fat, cholesterol-free, high
+uses a fine mist or spray of water to remove traces of dust, bran,         source of fibre, product of Nigeria, natural, organic, no
+and rice polish from the surfaces of milled rice grains.                   preservatives added, and so on).
+Moreover, bran and polish hidden deep inside the grooves of          All statements designed to promote the consumption or sale of
+rice grains can be stripped away. The water mist and the             rice are considered to be advertising and therefore are subject to
+subsequent rubbing action of the machine impart a high polish or     a variety of legislation from the Standards Organization of
+luster to the milled rice, which substantially elevates its          Nigeria (SON) and National Agency for Food and Drug
+appearance. From a dull appearance, the rice grains are              Administration and Control (NAFDAC).
+transformed into shiny, almost translucent kernels, which have
+good visual appeal and shiny appearance.
+
+Labeling of rice and rice products
+  i.   Packaging – poor and unattractive packaging
+ ii.   Purpose of Food /Rice Labeling
+
+The food label is one of the most important and direct means of
+communicating product information between buyers and sellers.
+It is one of the primary means by which consumers differentiate
+between individual foods and brands to make informed
+purchasing choices.
+A label serves three primary functions:
+
+
+
+                            37                                                                       38
+Beneficial use of rice and rice products / over other crops                      BROWN        REGULAR                PARBOILE PRECOO
+Table 2: Rice contains the following Nutrients based on 100g of                               WHITE                  D     WHITE KED
+         every variety and using ½ cup each                                                   (enriched)             (enriched)  WHITE
+                                                                                                                                 (enriched)
+          BROWN          REGULAR          PARBOILE PRECOO
+                                                                      Nutrient Uncoo Coo      Uncoo Coo              Uncoo Coo             Dry       Rea
+                         WHITE            D     WHITE KED
+                                                                      s of Rice ked  ked      ked   ked              ked   ked             For       dy to
+                         (enriched)       (enriched)  WHITE
+                                                                                100g 1/2      100g  1/2              100g  1/2             m         Serv
+                                                      (enriched)
+                                                                                     cup            cup                    cup             100       e
+Nutrient Uncoo Coo       Uncoo Coo        Uncoo Coo     Dry   Rea                    =              =                      =               g         1/2
+s of Rice ked  ked       ked   ked        ked   ked     For   dy to                  98g            79g                    79g                       cup
+          100g 1/2       100g  1/2        100g  1/2     m     Serv                                                                                   =
+               cup             cup              cup     100   e                                                                                      83g
+               =               =                =       g     1/2
+                                                                      Ash        1.5   0.5    0.6         0.3        0.7        0.2        0.5       0.2
+               98g             79g              79g           cup
+                                                                      (gms)
+                                                              =
+                                                              83g     Calcium    23    10     28          8          55         15         22        7
+                                                                      (mgs)
+Water     10.4    71.3   11.6      54.1   9.7    55.6   8.4   59.4
+(%)                                                                                           **          **         **         **         **        **
+                                                                      Iron       1.5   0.4         4.3         1.0        5.3        1.4        6.        1.5
+                                                                      (mgs)                                                                3
+Food      370     108    365       103    374    97     380 97
+Energy                                                                Phosphor 333     81     115         34         156        43.5       118 31
+(Kcal)                                                                ous
+                                                                      (mgs)
+Protein   7.9     2.5    7.1       2.1    8.1    2.3    7.8   1.8
+(gms)                                                                 Sodium     7     ***    5           ***        3          ***        10        ***
+                                                                      (mgs)
+Fat (gms) 2.9     0.9    0.7       0.2    1.04   0.3    0.9   0.4
+                                                                      Potassiu   223   42     115         28         187        44         27        7.5
+Carbohy   77.2    22.4   80        22.3   80.4   20.6   82.3 20.7
+                                                                      m (mgs)
+drate:
+Total                                                                                         **          **         **         **         **        **
+                                                                      Thiamin    0.4   0.09        0.58        0.1        0.7        0.1    0.            0.0
+(gms)                                                                 (mgs)                               3                     7          93        6
+Dietary   3.5     1.8    1.3       0.3    2.2    0.7    1.9   0.5     Riboflavi 0.09   0.02   0.05        0.01       0.05       0.02       0.03 0.01
+Fiber                                                                 n (mgs)
+(gms)                                                                                         **          **         **         **         **        **
+                                                                      Niacin     5.1   1.5         4.2         1.1        5.1        1.8        7         1.4
+
+
+
+                              39                                                                          40
+            BROWN         REGULAR                PARBOILE PRECOO                          Rice is low in fat, salt and has no cholesterol:
+                          WHITE                  D     WHITE KED                          Being low in fat, rice is suitable to include in a diet for those
+                          (enriched)             (enriched)  WHITE                        watching their weight. Rice is also cholesterol free, therefore
+                                                             (enriched)                   being an excellent food to include in a cholesterol lowering diet.
+                                                                                          Brown rice contains a small amount of rice bran oil.
+Nutrient Uncoo Coo        Uncoo Coo              Uncoo Coo            Dry       Rea
+s of Rice ked  ked        ked   ked              ked   ked            For       dy to
+          100g 1/2        100g  1/2              100g  1/2            m         Serv      Rice is gluten free:
+               cup              cup                    cup            100       e         Some people are unable to tolerate the proteins found in wheat,
+               =                =                      =              g         1/2       barley, rye, and oats. These people choose foods that are gluten
+               98g              79g                    79g                      cup       free. All rice is gluten free, making rice the essential choice for
+                                                                                =         people with gluten free dietary requirements.
+                                                                                83g
+(mgs)                                 7                                                   Rice contains no additives or preservatives:
+                                                                                          Rice contains no additives or preservatives, making it an
+                          **          ***        **         **        **        **
+Folate      20      4          231          46        257        64        27        58   excellent inclusion in a healthy and balanced diet. Rice also
+(mgs)                                                                 5                   contains resistant starch, which is the starch that reaches the
+Vitamin 1.2    0.03 0.11 0.03 0.03                          0.01 0.0 0.01                 bowel undigested. This encourages the growth of beneficial
+E (mgs)                                                          4                        bacteria, keeping the bowel healthy.
+Source: USDA National Nutrient Database
+                                                                                          Rice marketing
+                                                                                          Rice production and consumption in Nigeria presently is beyond
+Benefit of rice/ superiority to others:                                                   the traditional levels as a result of introduction of several
+Rice is an excellent food to help keep the body healthy. Rice has                         improved cultivars, improved production practices as well as
+the following nutritional benefits:                                                       improved processing, marketing and utilization techniques and
+                                                                                          equipment. The price of rice as any other crop is cheapest at the
+       Excellent source of carbohydrates                                                 time of harvest and increases during the periods of scarcity.
+       Good energy source                                                                Farmers are advised not to sell their harvest immediately after
+       Low fat                                                                           harvest, but to provide good storage to derive more profits by
+       Low salt                                                                          selling when demand is highest. There are many sources through
+       No cholesterol                                                                    which farmer can sale his paddy/grain and should take the
+       Low sugar                                                                         advantage of the opportunity to sell to the highest bidder this is
+       No gluten                                                                         usually between March to July every year.
+       No additives
+       No additives
+
+
+                                     41                                                                                    42
+Survey by NAERLS show that the price of a bag of milled rice          Table 4: Estimated gross and net income for swamp and
+in the north steadily increased from N11, 000.00 in 2009 to N14,               upland rice production
+000:00 in the first quarter of 2013. The report also indicated a       s/no         Item          Swamp/lowland       upland
+steady increase in the price of milled rice in the southern part of
+the country from N10, 700:00 in 2009 to N14, 100:00 in the first        1      Grain yield (bags)            73               37
+quarter of 2013. Although, there is no record of paddy prices in
+the southern part of Nigeria, however, the price of paddy rice          2       Gross income in          346, 020:00     175, 380:00
+has also increased in the north from N4, 420:00 in 2009 to N5,                      (N/ha)
+060:00 in the first quarter of 2013.
+Survey of farmer’s production record indicated that total               3       Production cost            81, 600        81, 600:00
+production cost of rice under recommended practices is N81,                         (N/ha)
+600:00 per hectare see table 3.
+                                                                        4     Net income (N/ha)          264, 420:00      93, 780:00
+ Table 3: Average production cost of cultivating 1 ha of rice
+                                                                        5         profitability            *3.24             *1.15
+     s/no             Activity/item              Cost(N)
+       1         Land preparation                7, 000:00
+       2         Planting                        3, 000:00            Rice marketing channel
+       3         Seed                           16, 000:00            The rice marketing channel is simply the path through which
+       4         Fertilizer                     34, 400:00            rice moves from the producer to the final consumers. Rice
+       5         Weeding                         8, 000:00            marketing channels indicate how the various market participants
+       6         Harvesting                     13, 200:00            are organized to accomplish the movement of a rice product
+                     Total                      81, 600:00            from the producer to the final consumer.
+                                                                      The market for rice in Nigeria is not specialized and the rice
+Considering the yield of rice of up to 5,000 - 6,000kg ha-1 (about    value chain is under-developed. Almost all of the paddy rice
+73 bags) for swamp and 2,500- 3,000kg ha-1 (about 37 bags) for        produced is marketed and utilized for local consumption. Paddy
+upland rice depicts that the profitability of swamp/lowland rice      rice, local parboiled rice or imported rice is usually sold in the
+production is higher than that of upland rice production see table    local markets. The following major marketing routes can be
+4. The analysis shows that for each naira spent on lowland rice a     identified for rice marketing in Nigeria.
+profit of three naira twenty four kobo is gained, while on upland
+production on each naira spent a profit of one naira fifteen kobo
+is gained.
+
+
+
+
+                           43                                                                       44
+Source: Adapted with modification from Olukosi, Isifor and
+        Ode (2005)
+Rice market in Nigeria has a lot of potentials for expansion      Source: Adapted with modification from Olukosi, Isifor and
+through the value addition. Modern processing equipments and              Ode (2005)
+de-stoning machine for example, is one way of developing a
+viable market for local rice as it will benefit small to medium
+scale entrepreneurs. If this is done, the following marketing     Marketing agencies and their functions in rice marketing
+routes can be exploited for rice marketing in Nigeria.            Marketing agencies or intermediaries carry out marketing
+                                                                  functions or offer marketing services. In order to understand the
+                                                                  part they play in rice marketing, it is important to distinguish
+                                                                  each by the functions and services they undertake rather than by
+                                                                  the ownership of the produce they handle:
+                                                                      (a) Rural buyers; this group of middlemen undertakes the
+                                                                          initial task of assembling rice from farms or local rural
+                                                                          markets. They may be farmers who collect the produce
+                                                                          of other cultivators. The rural buyer may either act on
+                                                                          commission or purchase on his own account.
+
+
+
+
+                           45                                                                    46
+   (b) Wholesalers; the wholesaler has a central role to play in       the head of household, household size and the educational status
+       rice marketing system. He takes the product from farms          of the heads of household. The poor quality of the local rice is a
+       or rural buyers and sells to retailers, to other wholesalers    major problem to its consumption by households. Consumers in
+       in the domestic market and to processors.                       Nigeria appear to display a distinct preference for imported rice
+   (c) Retailers; the main function of the retailers in rice           over domestic rice, which has led to a market price premium for
+       marketing is to obtain supplies and display them for sale       imported rice. Rice demand in Nigeria is affected by the total
+       in forms and at times and places convenient for the             expenditure of household and quality. Quality is important in the
+       consumers. Usually the retailer buys from one or more           demand for rice, even in the rural areas. Rural households also
+       wholesalers, sometimes on credit and serves consumers           value quality and respond more than urban households for every
+       who buy smaller quantities on daily basis.                      1% increase in their income.
+   (d) Commission agent; These specialized in buying and               Habit persistence and perceived quality differences both play an
+       selling rice on behalf of producers and wholesalers who         important role in explaining consumer preference for imported
+       cannot conveniently attend the markets in person. They          rice in Nigeria. Research on imported rice consumer’s
+       run no risk, but must do at least as well for their client as   preferences suggest that imported rice cleanliness is the main
+       the clients could do themselves, if they are to attract         feature explaining the expansion of imported rice consumption
+       business.                                                       in Nigeria at the cost of local rice market development. Next to
+   (e) Brokers; this group of middlemen specialize in bringing         cleanliness are swelling capacity (mostly preferred by
+       buyers and sellers together. Brokers do not take title to or    restaurants and fast food joints), taste, availability and grain
+       physically handle goods, but specialized in providing an        shape.
+       intimate knowledge of supplies, requirements and prices         The second explanation is that the long history of consuming
+       in various markets.                                             imported rice in Nigeria has led to habit persistence, which
+   (f) Speculative middlemen; this group of middlemen buy              makes it more difficult for locally produced rice to compete with
+       rice with the aim of selling them at a time when prices         the imported rice. It has also been shown that, as the income and
+       rise. They often attempt to earn their profit from short-       the educational status of the household appreciates; households
+       run fluctuations in prices.                                     tend to prefer the imported rice to the local rice.
+                                                                       An important implication is that policies designed to encourage
+Rice consumption: preferences and consumer awareness                   production of relatively high quality local rice, thereby replacing
+issues                                                                 imported rice in consumption baskets, will face considerable
+Rice is utilized mostly at the household level, where it is            inertia due to the persistence of consumer habits and mindset
+consumed as boiled or fried with stew in Nigeria. The major            regarding purchase and consumption of imported rice, even if
+factors that significantly influence household preferences for         the locally produced rice is of comparable quality. Companion
+either a combination of local and imported rice or the imported        policies designed to shift consumer-buying habits and alter
+rice only to the local rice have been reported to be the income of     already established cultural mindset via extension (as well as
+
+
+
+                             47                                                                        48
+advertising) and promotion programs will be required to                The rice grain is reported to consist of 75-80 % starch, 12 %
+overcome this consumption inertia.                                     water and only 7 % protein with a full complement of amino
+The public and private sector need to be strengthened towards          acids. Its protein is highly digestible with excellent biological
+the utilization of modern equipment for the local rice industry.       value and protein efficiency ratio owing to the presence of
+Such efforts are expected to improve the Nigerian local rice           higher concentration (about 4 %) of lysine. Minerals like
+grade, thereby enhancing its competitiveness amongst the rice          calcium, magnesium and phosphorus are present along with
+varieties consumed by Nigerian households. Extension activities        some traces of iron, copper, zinc and manganese.
+will be undertaken to raise the awareness of the middle class and      The different layers of rice seed (outer hull, caryopsis, aleurone,
+the general populace on the adverse consequences of importing          subaleurone and endosperm) and the embryo contain differing
+large tonnages of rice into Nigeria, at the expense of the nation’s    amounts of nutrients. Dietary fibre, minerals and B vitamins are
+domestic rice market. Government and extension agents can              highest in the bran and lowest in the aleurone layers; the rice
+play pivotal roles in such campaigns.                                  endosperm is rich in carbohydrate and contains a fair amount of
+                                                                       digestible protein, with an amino acid profile which compares
+Rice nutrition and benefits                                            favourably to other grains. Rice is a good source of B vitamins,
+Rice is a predominant staple food in Nigeria, providing                thiamine, riboflavin and niacin, but contains little to no vitamin
+significant proportions of dietary energy supply, dietary protein      C, D or beta carotene, the precursor of vitamin A. The amino
+and dietary fat. Rice can contribute nutritionally significant         acid profile of rice is high in glutamic and aspartic acids, but low
+amounts of thiamine, riboflavin, niacin and zinc to the diet, but      in lysine. The main anti-nutritional factors, most of which are
+smaller amounts of other micronutrients. Rice has a healthful          concentrated in the bran, are phytate, trypsin inhibitor,
+image and research has demonstrated that particular components         oryzacystatin and haemagglutinin-lectin.
+of rice can help reduce risk factors associated with heart disease      Based on an average consumption of 300g of rice for an adult
+and colon cancer. Even though rice is an industrialized seed-          male and 250g of rice for an adult female in Asian countries, a
+based food, the difference between its glycemic load and those         male aged between 19 and 50 years, consuming the cooked
+of most industrialized carbohydrate-rich foods is large. The           equivalent of 300g of raw rice per day, white rice supplies: 2-5%
+amount of carbohydrate per gram in white rice is about half that       of the Recommended Nutrient Intake (RNI) of calcium, folate
+of white bread. One of the reasons is that the water content in        and iron; 9-17% of the RNI of riboflavin, thiamine and niacin;
+rice, as usually consumed, is comparable to that in fruits. Rice’s     and 21% of the RNI of zinc. Rice provides no vitamin C or A.
+glycemic load is 15 (medium), which is half the glycemic load          With brown rice the RNI is increased for all nutrients except
+of 30 (high) of white bread. White rice combines this utilitarian      riboflavin: the RNI of iron, thiamine and niacin is increased by
+purpose with a very low anti-nutrient content. It is often said that   more than 10 percent. Due to the greater quantity of phytate in
+white rice’s nutrient content is very low, but this problem can be     brown rice, the bio-availability of many nutrients decreases,
+easily overcome                                                        particularly iron, zinc and calcium (to which it chemically
+                                                                       bonds). Further analysis is required in order to gain a full
+
+
+
+                              49                                                                        50
+understanding of the difference between brown and white rice in       Further Reading
+terms of the bio-availability of nutrients. Rice supplies a smaller
+proportion of the RNI of all nutrients for women, due to the          Adeosun, J. O. and Oniybe, J. E.. 2005. Rice Production In Nigeria.
+smaller portion consumed and the greater requirements for             Extension Bulletin No. 8. Agricultural Extension & Research Liaison
+certain nutrients, particularly iron.                                 Services Ahmadu Bello University, Zaria
+Research on the cholesterol-lowering properties of rice bran has
+produced mixed results. Some studies indicate that rice bran          Chude, V. O., Olayiwola, S. O., Osho A. O. and C. K. Daudu
+and/or rice bran oil reduce plasma cholesterol in test animals        (Editors). 2011. Fertilizer Use And Management Practices For
+while others have shown no effect. Studies also indicates that        Crops In Nigeria, 4th Edit ion. Federal Fertilizer Department,
+under the proper conditions, the oryzanol found in rice may be        Federal Ministry Of Agriculture And Rural Development,
+as good or better than other, similar plant compounds currently       Abuja.
+used in margarines to reduce cholesterol
+                                                                      Lawal, A.O., Chikwendu D.O., M.A., Gwarzo and Kaura, M.B
+                                                                      (2005).Technologies and Economics of Rice processing.
+                                                                      Extension Bulleting. No 106
+
+                                                                      Lyon, B.G.. (1990).Effects of degree of milling, drying
+                                                                      condition and moisture content on sensory texture of cooked
+                                                                      rice. Cereal Chemistry, 76, 56-62.
+
+                                                                      Juliano, B.O. & Bechtel, D.B.(1985). The Rice Grain and Its
+                                                                      Gross Composition. In Rice Chemistry and Technology, 2nd
+                                                                      ed.; Juliano, B.O., Ed.; American Association of Cereal
+                                                                             Chemists: Eagan, MN, USA, pp. 17-57.
+
+                                                                      Olukosi, J. O., Isifor, S. U. and Moses, O. O., Agricultural
+                                                                      Marketing and Prices: Principles and Applications 3rd Edition,
+                                                                      Living Books Series, GU Publications, Abuja, FCT (2007),
+                                                                      ISBN 978-2022-23-3
+
+
+
+
+                             51                                                                       52
+

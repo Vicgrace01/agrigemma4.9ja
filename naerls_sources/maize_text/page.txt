@@ -1,0 +1,834 @@
+                                                            Acknowledgements
+
+                                                            The authors wish to express profound gratitude to the
+                                                            management of NAERLS, for giving us the opportunity to
+                                                            perform this task and to several individuals who provided
+                                                            different levels of assistance that helped that team in achieving the
+                                                            task. We are particularly grateful to the two Assistant Directors of
+                                                            the organization for their support, the cooperation and resourceful
+                                                            support of the Task Force members. We also appreciate the effort
+                                                            of secretarial team especially in organizing the manuscripts. Our
+                                                            profound gratitude goes to the scientists whose works formed the
+                                                            basis of this publication.
+
+
+                                                            J.E. Onyibe
+                                                            B.M. Sani
+                                                            D. Baba
+                                                            H. Chindo
+                                                            I.K. Ibrahim
+                                                            M. Malumfashi
+
+MAIZE                                                       Zaria, July 2014
+
+Production, Marketing, Processing &
+Utilization In Nigeria                                             The production of this Maize Bulletin was supported
+                                                                                              by
+                                                             West Africa Agricultural Productivity Programme (WAAPP - Nigeria)
+Extension Bulletin No. 217
+National Agricultural Extension Research Liaison Services
+
+
+
+
+                                                                                                 1
+               Table of contents                   Introduction
+
+                                            Page   Maize is one of the most important staple food crops in Nigeria.
+                                                   Among the cereals, it has the largest area devoted to it
+Introduction                  ..       ..   3      cultivation. Indeed, its production area in the country continues
+                                                   to expand because of technological breakthroughs. Maize is a
+Maize value chain             ..       ..   4      very important food crop for human beings and for livestock.
+                                                   Maize is a major cereal and one of the most important food,
+Input                         ..       ..   6      feed and industrial crops in Nigeria. It is the most dominant grain
+                                                   crop in the savannah zones and fresh vegetable in the forest belt
+Farm production               ..       ..   7
+                                                   where it is cultivated twice in a year. It has become an
+Cultural practices            ..       ..   8      important irrigated crop and increasingly being used as a
+                                                   coping strategy against the ever worsening climatic anomalies
+Processing                    ..       ..   24     throughout the country'. Over fifty million farmers grow
+                                                   maize every year while over ninety million people are employed in
+Marketing                     ..       ..   32     its processing and usage daily. Maize provides energy, vitamins
+                                                   and has some amount of protein. Output of maize continued to
+Quality aspects               ..       ..   32     increase in Nigeria in response to demand. The livestock
+                                                   industry consumes more than half of the total maize production
+Consumption                   ..       ..   34     annually. During the era of Commodity Boards, the Nigerian
+                                                   Grains Board coordinated marketing of maize in Nigeria. With
+References                    ..       ..   39     the scrapping of the Commodity Boards, no other institutional
+                                                   arrangement has been put in place for maize marketing until
+                                                   2003, when the Arable Crops Marketing and Development
+                                                   Company (ACMDC) was established (Idachaba, 2004). The
+                                                   establishment of Arable Crops Marketing and Development
+                                                   Company was an integral part of the food security programme,
+                                                   which brought about the re-activation of the strategic grain
+                                                   reserve scheme. Under the scheme about thirty-three silo
+                                                   complexes were built to support national food security stock.
+                                                   Maize constitutes about 70% of annual grains stock in the silos
+                                                   and 40% of the grains in food aids. In this bulletin, we provide
+                                                   some insights on how maize value chain operates with
+
+
+
+                                   2                                                  3
+emphasize on technical information that ensure optimum                product or service from conception through the different
+performance of the chain.                                             phases of production (involving a combination of physical
+                                                                      transformation and the input of various services), to delivery to
+Production trend                                                      final customers, and final disposal after use (Kaplinsky and
+Forecasts put the production of maize in Nigeria at about 10          Morris, 2004).
+million tones. This is expected to rise as favourable prices entice
+more farmers to cultivate maize.                                      Who are the actors?
+
+                  Production                                          Value chain actors are those individuals or institutions that
+      Year                       Growth Rate
+                 (Million MT)                                         conduct transactions in a particular product as it moves
+         2008           7.97         22.62 %                          through the value chain. These may include input suppliers,
+                                                                      farmers, traders, processors, transporters, wholesalers, retailers,
+         2009           8.90         12.30 %
+                                                                      and final consumers. In many cases, there is more than one
+         2010           8.80         -1.68 %                          type actor, as well as multiple channels that supply more than
+         2011           9.25          5.11 %                          one final market.
+         2012           8.71         -1.73 %
+                                                                      The major functions of actors within the value chain
+         2013          10.29          11.3%                           As with most agricultural value chains, the main functions in
+                                                                      the maize value chain starts with market demands which
+                                                                      stimulate the need to produce. This is determined by
+ National Demand                                                      consumers- household and industrial consumers. If there are no
+ National requirement for maize is estimated at about 16              demands the actors component for MVC would remain
+ million tons. With production around 10.3 million tons in            unprogressive. The activities of MVC include input supply,
+ 2013, supply deficit is about a shortfall of about 5.7 million       moving onto production, harvesting, post- harvest handling
+ tons.                                                                and storage. Each of these functions is carried out by different
+                                                                      types of actors, using different types of technologies and
+ What is a value chain?                                               interacting with different participants in the value chain.
+ The flow of maize from production points through processing
+ to the market occurs along a chain. This can be referred to as
+ Maize Value Chain (MVC) because as the product moves from
+ chain actor to another, such as from producer through
+ intermediaries to consumers, value is added. A value chain is
+ the full range of activities which are required to bring a
+
+
+
+                                4                                                                      5
+Input supply: This stage is concerned with sourcing of raw                the entire process often affects the price and quality or
+materials required for agricultural production, processing, and trade.    diversity of the products.
+
+Production inputs                                                        Farm Production: This is carried out by farmers with different
+The key inputs for efficient maize production are good seed,             farm sizes. Farms may range from less than one hectare to
+fertilizers, crop protection products, water and land (soil).            thousands of ha) using different types of technology (from hand
+                                                                         hoe to large tractors), applying different levels of inputs and
+Processing inputs                                                        with significantly different yield level. This stage is concerned
+The key inputs for efficient maize processing include knives             with primary agriculture production and ends with the sale of a
+(manual peeling) Big bowls (for manual washing) Mechanical               raw commodity at the farm gate. These transactions may occur
+washing machine, grinding machine De-watering (drying)                   literally at the farm gate or at some other point where the farmer
+device ( machine or traditional), Filter or sieve, Fryer, Packing        hands over ownership of the product to the next value chain
+Material e.g. bags.                                                      participant. For maize, most of the initial processing operations
+                                                                         such as the shelling or bagging of dry grain may take place at the
+Marketing/trade inputs                                                   farm level. Maize producers’ has different primary objectives
+The key inputs for efficient maize marketing are good seed,              either for primary consumption or for commercial sale.
+fertilizers, crop protection products and water. Others include:
+store/ ware house, Bags, Basins, Wheel barrow, Transport,                Climate and soil requirement for maize production
+Market (where sellers and buyers meet) and Consumers.
+                                                                         Maize is grown over a wide range of climatic conditions because of its
+                                                                         many divergent types. Sellers of all soil fertility improvement and
+Inputs may either be procured locally or imported. The final             weather apparatus constitute stakeholders related to soils and climate.
+value of an input depend on where it was purchased and may
+include all manufacturing costs, transportation costs, customs           Temperature requirement
+duty and tax, and unofficial payments incurred up to that point.
+The efficiency of a country’s input supply system therefore has          Maize crop requires warm climate throughout the period of its active
+a major bearing on the performance of the entire value chain.            life. It does not tolerate low temperature below 13oC which may occur
+These often come from interconnected market systems (i.e.                during the dry harmatan period, in which germination is low. During
+separate value chains such as seed supply, fertilizers) with their       harmatan periods, fresh maize cobs are in great demand and are often
+own segmentation of end users (i.e. small farmers, large                 scarce because supply is low.
+farmers) and their own business models. Input suppliers have
+their own distribution channels and strategies via which they
+sell their products to the end consumers. The cost of financing
+
+
+
+
+                                  6                                                                           7
+Rainfall
+
+A minimum range of 480-880mm of well distributed rainfall is adequate
+for maize depending on the variety. Maize can be planted under
+irrigation. Thus its production domain is not confined to the
+geographical areas that have adequate rainfalls.
+
+Cultural Practices
+
+Land preparation                                                           (c)
+In the southern parts of the country where vegetation cover is fairly
+dense, land clearing should be carried out well ahead of the rains. Make   Fig. 2: Land preparation for maize: (a) mechanized (b) animal traction and
+                                                                                   (c) manual
+ridges as soon as the rains start. Although the crop benefits from the
+deep cultivation, maize yields are not reduced when zero tillage is
+adopted. For high grain yield, sow maize in well prepared ridges of        Planting date
+75cm apart. Because the soils in the savannas are loose, animal drawn
+implements can be used for preparing ridges or by had hoe and tractor      Plant as soon as the rains are established, preferably immediately after a
+mounted tillage equipment.                                                 good rain. The establishment of the rains varies according to the
+                                                                           different ecological zones and from one year to another. However,
+                                                                           optimum planting date in the major ecological zones usually lies within
+                                                                           the following ranges:
+
+                                                                           i.      Sudan Savanna: third weeks of June to early July
+
+                                                                           ii.     Northern Guinea Savanna: Last week in May 1st to 2nd week in
+                                                                                   June
+
+                                                                           iii.    Southern Guinea Savanna: Mid-May to second week in June
+(a)                               (b)                                      iv.     Forest Zone: Late February March for the first season and late
+                                                                                   July-August for the second season. Plant extra or early
+                                                                                   maturing varieties by late July and early August in order to
+                                                                                   allow maturity time to coincide with on-set of dry season
+
+
+
+
+                                   8                                                                              9
+                                                                      company agents and community based seed production associations.
+                                                                      Request from the Agricultural Development Project offices near you
+                                                                      information on sources of good quality seeds and other inputs.
+
+                                                                      Table 1
+                                                                      ECOLOGY              VARIETY      CHARACTERISTICS
+                                                                      Lowland Tropics      Sammaz 17    High yield, medium maturity
+                                                                                                        and Striga tolerance
+                                                                      Lowland Tropics      Sammaz 18    High yield, early maturity and
+                                                                                                        striga tolerance
+                                                                      Lowland Tropics      Sammaz 19    High yield, Drought and Striga
+   .
+                                                                                                        tolerance
+    Fig. 3: Planting maize seeds                                      Drought prone        Sammaz 20    Highly tolerant to drought with
+                                                                      areas and 2nd                     resistant to streak and tolerant
+                                                                      season planting in                to low soil nitrogen
+                                                                      Southern Nigeria
+                                                                      Drought prone        Sammaz 21    Highly tolerant to Striga
+                                                                      areas with striga                 hermonthica infestation
+                                                                      hermonthica
+                                                                      infestation
+                                                                      Drought prone        Sammaz 22    Highly tolerant to drought with
+                                                                      areas of Northern                 resistance to streak and
+                                                                      Guinea Savannah                   tolerance to low soil nitrogen
+                                                                      Drought prone        Sammaz 23    Highly tolerant to drought with
+                                                                      areas of Northern                 resistance to streak and
+                                                                      Guinea Savannah                   tolerance to low soil nitrogen
+                                                                      Drought prone        Sammaz 24    Highly tolerant to drought with
+    Fig. 4: Well prepared and planted land                            areas of Northern                 resistance to streak and
+                                                                      Guinea Savannah                   tolerance to low soil nitrogen
+                                                                       Drought prone       Sammaz 25    Highly tolerant to drought with
+Recommended maize varieties                                           areas of Northern                 resistance to streak and
+                                                                      Guinea Savannah                   tolerance to low soil nitrogen
+Recommended drought tolerant maize varieties are presented on Table   Wide adaptation      Sammaz 26    Highly tolerant to drought with
+1. Purchase certified seeds from reputable sources such as seed                                         resistance to streak and
+
+
+
+
+                                   10                                                                  11
+                                 tolerance to low soil nitrogen    Nigerian Savanna      Sammaz 36      Medium maturity, good stay
+Lowland Tropics     Sammaz 27    Drought tolerant and Striga                                            green, excellent husk cover and
+                                 resistant                                                              yellow grain colour
+Lowland Tropics     Sammaz 28    Drought and Striga tolerant       Nigerian Savanna      Sammaz 37      Medium maturity, good quality
+Widely adaptation   Sammaz 29    Highly tolerant to low soil                                            yellow grains, tolerant to maize
+                                 nitrogen with resistance to                                            streak virus disease and Striga
+                                 streak                                                                 hermonthica infestation
+Sudan Savannah      Sammaz 32    Improvement over Sammaz 28        Nigerian Savanna      Sammaz 39      Medium maturity, good quality
+and transition                   (99TZEE-Y pop STR)                                                     yellow grains, tolerant to maize
+zones between                    *Extra early maturity                                                  streak virus disease and Striga
+Sudan and                        *Yellow grain colour                                                   hermonthica infestation
+Northern Guinea
+Savannah
+Middle-belt Zone    Sammaz 30    Highly tolerant to low soil       Seed treatment
+of Nigeria                       nitrogen with resistance to
+                                                                   Treat maize seeds before planting using recommended dressing
+                                 streak
+                                                                   chemicals in order to protect them against soil borne pests, diseases and
+Sudan Savanna       Sammaz 31    Early maturity, prolific cob
+and Transition                   bearing, good stay green, good    bird attack before and after germination. Recommended chemicals for
+zones between                    quality fodder and white grain    treating seeds include Marshal 2% dust, Apron Star 50DS, Allstar,
+Sudan and                        colour.                           Dress force, Seed plus and others. Use 10g to treat between 2 and 5kg
+Northern Guinea                                                    of seed depending on the brand of seed dressing chemical available.
+Savanna                                                            Wash your hands thoroughly, with soap and water after treating the
+Sudan Savanna       Sammaz 33    Improvement over Sammaz **        seeds and after planting treated seeds. Read the label of all agrochemical
+and Transition                   (2000SYNW STR)                    products before using the products.
+zones between                    *High yielding Extra early
+Sudan and                        maturity, White QPM               Spacing and Planting
+Northern Guinea
+Savanna                                                            Plant at spacing of 75cm x 50cm when two plants per stand or 75 x
+Sudan Savanna       Sammaz 35    Early maturity, good white        25cm when one plant per stand is adopted.
+and Transition                   grain quality and resistance to
+zones between                    Striga hermonthica
+Sudan and
+Northern Guinea
+Savanna
+
+
+
+
+                                12                                                                     13
+                                                                           inter-crop, the spacing should be made wider than for sole cropped
+                                                                           maize. The practice of alternating rows of maize with other crops is
+                                                                           recommended, as this will allow the adoption of recommended
+                                                                           packages for each crop.
+
+                                                                           Fertilizer application
+                                                                           The fertilizer nutrients recommended for maize is 100kg N, 50kg of
+                                                                           single super phosphate (SUPA) and 50kg K2O per hectare in the Sudan
+                                                                           ecology (Kano, Katsina, Bauchi, Zamfara, Gombe States) and 120kg N,
+                                                                           60kg P, and 60kg of k in the Northern Guinea Savanna (Kaduna, Niger,
+                                                                           Adamawa States). The recommended N-fertilizer rate should be applied
+        Fig.5: 1 seed per hole planted maize                               in two split applications. First dose is applied at planting or within the
+                                                                           first week of planting (that is 50:50:50) using about 6 bags of NPK 15-
+                                                                           15-15 while the 2nd dose of 50kg N (about two bags of urea) should be
+                                                                           applied between 4 and 5 weeks after planting in the Southern and
+                                                                           Northern Guineas Savannah zones but between 3 and 4 weeks after
+                                                                           planting in the Sudan to extra early maize varieties. All fertilizers
+                                                                           should be buried during application. Weed the maize farm again before
+                                                                           the application of the second fertilizer dose.
+
+
+
+
+        Fig. 4: Planting maize
+
+Seed rate
+About 15 to 20kg of maize seeds are required to plant a hectare which is
+                                                                           Fig.6a: Fertilizer application in maize
+about 2½acre. Plant 3 seeds per hole and later thinned to two plants per
+stand at about 1-2 weeks alter germination. When maize is grown as an
+
+
+
+                                     14                                                                     15
+                                                                             Chemical weed control
+
+                                                                             Wherever economically feasible to do so, herbicides can be used to control
+                                                                             weeds on a maize farm. It is important to note that the effectiveness of the
+                                                                             herbicides is enhanced by very good land preparation. The herbicide
+                                                                             recommendation provided on Table 2 below is for both large scale and
+                                                                             small scaled maize farmers.
+
+                                                                             Control of Striga in Maize
+
+Fig. 6b: Fertilizer application in maize                                     In many parts of savanna zones, Striga is a notorious parasitic weed of
+                                                                             maize. Under severe infestation, the maize seedlings are usually seriously
+For early and extra early varieties, note that delay in the application of   attacked even before emergence of the Striga, with the maize seedlings
+                                                                             looking yellowish, stunted, and wilting. To effectively control Striga
+the first dose of fertilizer beyond the first week after planting will
+                                                                             various methods need to be implemented in an integrated fashion. The
+drastically reduce the grain yield. Also the second dose should not be       control options that should be integrated include rotation with soybean, use
+delayed beyond 4 weeks after planting. Apply the fertilizer in small         of tolerant/ resistant varieties, application of the recommended fertilizer
+qualities of two coca cola cap fill with NPK poured into a hole made         rate and other cultural practices.
+with a stick at a distance of about 5 – 8cm away from the maize plant
+and below the soil surface at the first application and one coca cola cap
+fill with urea during the second application. Do not leave applied
+fertilizers exposed on soil surface in order to minimize the loss of
+nutrient to the atmosphere. Always cover applied fertilizer with soil.
+
+WEED CONTROL
+
+Manual weed control
+
+Two manual weeding are recommended that should be conducted at 2
+weeks after planting and at 4-5 weeks after planting.
+
+
+
+
+                                    16                                                                             17
+Table 2:
+
+PRODUCT          RATE      QUANTITY/       CONDITION OF           REMARKS
+                           SPRAYER         USE
+                           (15Lts)
+Glyphosate   4lit.         350mls          Before      Land Wait for 10 days
+                                           preparation      after     application
+                                                            before           land
+                                                            preparation
+Paraquat     3lit.    of   250mls of       Apply           pre-   Dissolve           the
+plus         paraquat      paraquat        emergence              atrazine powder in
+atrazine     plus 5-6      plus     550-   (before the crop       clean water before
+             lit.     of   600 mls of      germinate).Spray       use, at the rate of
+             liquid OR     atrazine        within three days      1kg in 1lit. of clean
+             2.5 3kg of                    after planting.        water. Thus the
+             powder                                               three kg should be
+             atrazine                                             dissolved in 3 lit. of
+                                                                  water. This will give
+                                                                  about     6lit      of
+                                                                  atrazine.
+Paraquat     3lit.   of    250mls of       Apply           pre-   Note that about
+plus         paraquat      Paraquat        emergence              150mls of liquid
+Premextra    plus 2-3      plus   250-     (before the crop       chemical will fill
+Gold         lit.    of    300mls of       germinate).Spray       one container of
+             Premextra     Premextra       within three days      liquid peak milk of
+             Gold          Gold.           after planting.        standard size.
+Paraquat   3Lit. of 300-350mls                                    Note that about
+plus Lasso Paraquat  of Lasso GD                                  150mls of liquid
+GD         plus   3-                                              chemical will fill
+           4lit.  of                                              one container of
+           Lasso GD                                               liquid peak milk of
+                                                                  standard size.
+
+
+
+
+                                           18
+Pests and Diseases and their Control                                  Stem borers (SB) attack on maize especially on second season crop in
+                                                                      southern Nigeria is significant where downy mildew is also common. A
+Pests and diseases are not yet serious problems in maize except for   single spray with 100-120mls of Cypermethrin 10 EC or 80-100 mls of
+Striga, stem borers termites and storage pests.                       lamdacyhalothrin 2.5EC properly timed is adequate to control stem
+                                                                      borers while adopting seed treatment helps to control downy mildew.
+Stem borers
+
+
+
+
+                                                                      Fig. 9: SB infected maize leaf & Fig. 10 Symptom of downy mildew
+
+
+
+
+Fig. 7: Stem borer attack in maize
+
+
+
+                                                                      Fig. 11 Symptom of downy mildew
+
+                                                                      Harvesting
+
+                                                                      When maize is to be consumed fresh, harvesting should be conducted
+                                                                      when the silk has turned brown (55 – 70 days after planting). But when
+                                                                      grains are needed, harvest as soon as grains are dry enough (80 – 110
+                                                                      days after planting depending on the variety). In harvesting, the cobs
+                                                                      can be broken by hand from the plant or the whole plant can be cut with
+                                                                      a cutlass. Where the entire plant is harvested, they are often stacked in
+                                                                      the field to allow the grains to dry further. In the humid zones, the crop
+Fig. 8: Stem borer damage                                             can be dried in a traditional ventilated granary or crib.
+
+
+
+
+                                     19                                                                            20
+Post Harvest Processing
+
+Maize shelling: This can be done by anyone of the following methods.
+
+i.      Hand shelling
+
+ii.     Use of internally ribbed tubes;
+
+i.      Beating cobs with stick;
+
+ii.     Using single intake disc (hand operated);
+
+iii.    Using double intake disc (may be hand/pedal/engine operated)
+                                                                          Fig. 12: harvested maize cobs
+The method to use is determine mainly by output, although engine
+operated multi-crop threshers is often available for hire.                Storage and control of storage pests
+Grain cleaning:                                                           Maize meant for future use should be dried to 10 to 12% moisture
+                                                                          content and properly stored.
+This can be done by using the wind for winnowing or use of screens of
+proper size.                                                              The major storage pests of maize are grain weevils (Sitophilus spp. and
+                                                                          Tribolium spp.). Infestation may be by insects already present where
+Yield
+                                                                          maize grains had previously been stored or by cross infestation between
+The average yield of maize is between 2,500 and 4,500kg/ha of             stores or by cross infestation between granaries during storage. Apart
+threshed grains depending on the level of inputs used. Adoption of        from the hygienic condition of granary, chemical control measures may
+recommended fertilizers, varieties, seed-dressing and improved cultural   be employed as illustrated below. Maize that will be stored for six
+practices ensures high yields.                                            months or more should, in addition to proper cleaning condition in the
+                                                                          store, be treated with primophos methyl 2% at the rate of 500g per ton.
+                                                                          It may be noted that this product may be difficult to obtain in many
+                                                                          markets. Request assistance from the Agricultural Development Project
+                                                                          near you.
+
+                                                                          How to apply Actellic (primophos methyl) 2% dust for proper
+                                                                          protection against insect damage
+
+                                                                          a. The walls and floor of the rumbu or granary must be cleaned
+                                                                             thoroughly
+
+
+
+
+                                   21                                                                        22
+b. About 22.73kg of threshed grains equivalent of cobs should be             Storage: This can take place on farm, in privately owned and
+   spread in the store.                                                      managed warehouses, in publicly owned storage sites often managed
+                                                                             by government (food reserve) or parastatal agencies or accredited
+c. One and a half large match-box full of Acetilic dust should be            electronic warehouse linked to commodity exchange market. The
+   measured.                                                                 technologies and management relations will vary depending on
+                                                                             adopted storage system.
+d. The dust should be sprinkled evenly over the cobs in store.
+                                                                             Processing: The processing stage involves the transformation of
+e. Another layer of cobs should be added to give 22.73kg of threshed         agriculture raw materials into one or more finished internationally
+   grains and this should be repeated until all the maize is treated and     traded goods. Raw commodities, of course, are also traded and this
+   the store is full.                                                        stage may not apply to every crop. This is the final step in the value
+                                                                             chain before marketing. This step also has a broad array of
+f.     The store for granary should be tightly closed.
+                                                                             technologies and interrelationships. The processing might target
+The use of Phostoxin tables or pellets may, alternatively be employed to     direct maize meal consumption (the simplest, but most predominant
+store more maize in air-tight container or large storage in sacks. Large     use) or animal feeds, where the maize is mixed with other products
+scale storage in bags such as pyramids will require complete cover with      to produce compound feeds or maize-based prepared products. The
+tarpaulin after application with 4- 6 tablets or pellets per tone. The       end markets for maize varied – split between direct consumption of
+tablets or pellets should be enclosed in perforated envelopes or             maize flour or finished manufactured products.
+newspaper. Such storage should not be disturbed frequently for greater      Processing
+effectiveness.                                                              i.       Cottage processing
+                                                                            Maize is processed into different products for various uses at the
+Notes: Whenever phostoxin tablets are used, ensure the Store or
+                                                                            traditional or home level. In Nigeria, traditional processing of maize
+       container is air-right to avoid the escape of fumes because they
+                                                                            has been by pestle and mortar, and at times by stone grinding.
+       are extremely poisonous to human beings when inhaled. Do not
+                                                                            However, significant changes occur in the process of maize for major
+       keep grains treated with phostoxin in living room.
+                                                                            end users. The mortar and pestles and stone grinding are being replaced
+     Assembly: This stage involves the collection of agricultural produce   by motor operated mills located in market places and even in some
+     from many farmers and delivery of the raw material to a factory for    households (Mitta and Kaml, 1983). Manufacturers are fabricating
+     industrial processing or packaging. In the case of livestock           plate mills using electric motors or petrol engines for grinding maize.
+     operations, assembly is defined in a broader sense to include the      Some millers dehull (digestion) the maize, before milling on a premier
+     feedlot process for delivery of fattened animals to an abattoir.       or hammer will produce flour (Adeyemi, 1993)
+     Bagging and simple grading of crops can also occur at this stage
+     depending on arrangements made at the first point of sale.
+
+
+
+
+                                       23                                                                        24
+Cottage processing of maize uses the following methods:                   convenience foods that meet nutritional and health requirements has put
+                                                                          the Nigerians in the use of corn for human foods and industrial
+Cleaning: The first step is to clean the maize. This is necessary to      products.
+remove foreign material that might contaminate the final product and to
+remove debris, stones that may damage processing utensils                 -          Large Scale:      Industrial utilization of maize is largely
+                                                                                     determined by the quality characteristics of the grains in terms
+Winnowing: Winnowing further removes finer particles within the                      of its physical and chemical attributes of the kernel (Adeyemi,
+maize                                                                                1993).
+Washing: In clean water to remove dust and other particles.                     i.   Feed uses: Animal feed accounts for 70 percent or more of
+                                                                                     total maize utilization. Maize is the feed ingredient of choices
+Drying: Sun drying maize before milling this produces uniform and                    in formula feeds because of its low cost and high degree of
+more flour when maize is milled.                                                     consistency
+Roasting: Refers to dry treatment of process maize, the dry heat               ii.   Crop residue: utilization (Forge uses): Crop residue are
+renders the maize brittle and the said coat subsequently cracks thereby              basically high energy concentrates and natural supplements to
+making it easy to mill or use. Roasting improves the maize flavor and                protein-rich feeds. These residues are used mainly during the
+texture.                                                                             month of November – April. The use of maize in as forage
+Soaking: Is the pre-treatment given to maize for easy fermentation and               introduces another critical actor- herdsmen/livestock sector into
+fast cooking of whole maize.                                                         it value chain.
+
+Milling: Maize could be milled into paste when sacked or cooked or            iii.   Alkaline utilization of maize: Maize has been the traditional
+powder depending on the type of food preparation method to be used.                  cereal for the preparation of tortillas. Tortillas are flat circular
+The waiser mills of maize (grit) is used for pate or steamed products,               dough pieces that are baked on a griddle. The maize can be
+while the finer one is the flour.                                                    treated with spices, condiments and other ingredients to produce
+                                                                                     a large variety of products.
+Sieving: Finer flour of milled maize sieved to remove unwanted
+particles.                                                                    iv.    Maize in the baking, soft drinks and confectionery
+                                                                                     industries: In many African countries, maize is one of the local
+Sprouting: Maize is soaked in water for two or more days. Drain off                  sources of flour for the baking industries. It is used in the
+the water and cover with clean wet jute bag for deliberate sprouting of              production of composite bread, muffins, fibers, pancakes,
+maize. Sprouting maize are used in recipes as desired.                               biscuits, and doughnut. Maize formulas often include wheat
+                                                                                     flour (composite flour) in production.
+Large scale utilization
+                                                                               v.    Pop-corn Production:     Popcorn is a popular snack.
+Maize is major cereal crop. It is consumed in diversified forms to meet              Consumers’ wants popcorn that is tender, good tasting, free
+taste, preference and environment. Maize utilization pattern as human                from hulls.
+food is changing tending more toward the fast foods. The demand for
+
+
+
+                                   25                                                                               26
+               Grits Maize                                               Large scale processing
+
+ vi.    Fermentation and Distilling:                                     Major industrial Processing of maize is based on maize types and kind.
+                                                                         Three methods of industrial processing exist (Omueti, 1999)
+               Various alcoholic beverages and industrial products are
+               produced by maize distilling and fermentation             -      Industrial dry milling
+               industries. Malting converts maize starch to sugar with
+               the help of amylase enzyme that are found in the          -      Industrial wet milling
+               embryo of maize. The fermentation ability of maize
+               starch and sweeteners has also made it an important       -      Industrial fermentation
+               feedstock for ethanol manufacture. Ethanol is being       i.     Dry milling of maize grain generally involves the physical
+               used both as a complete fuel substitute in gasoline              separation of the parts of the grain as clearly as possible. (see
+               engines and in medicine.                                         figure 13)
+vii.    Breakfast Cereal: Cornflakes, custard
+
+viii.   Fortified Foods
+
+ ix.    Maize Oil: Can be extracted using the industrial wet milling
+        process.
+
+        Soy-Vita- Whole maize is roasted, milled and sieved to obtain
+        maize flour. 25% of soy flour is mixed with 75% of the maize
+        flour to obtain soy vita that is in high demand by many homes,
+        schools, hospitals or clinics.
+
+       Soy-vita contains about 13.25% protein, 9.6% fat, 3.4%
+moisture and 1.4% crude fiber.
+
+
+
+
+                                  27                                                                         28
+Fig. 13: Brief Description of Dry-Milling of Maize
+
+Operation                             Objectives                       Production
+
+1.     Corn Cleaning                  Remove foreign materials         Clean grains
+2.     Washing (Fresh water)          Remove foreign materials         Clean grains
+3.     Tempering                      (a) Toughens the tip cap         Toughened tip cap of grain
+                                           So it stays with the bran
+                                      (b) Loosen, soften, mellow       Soft endosperm
+                                           the Germ.
+                                      (c) Hydrates the endosperm       Unbroken endosperm
+                                          to obtain maximal grit
+                                          yields and minimum flour.
+4.    Degerming
+      Using l
+      Attrition mill
+      Cooling/Aspirating              Remove hulls                     degermed grains
+       & Sifting
+         Drying
+5.     Aspirating/Expelling           Remove crude oil                 defatted grits
+6.     Sifting                        Separation of particles          Flaking grits
+7.     Roller Milling                 Reduction of particle size       Brewers: grit
+                                                                       Corn meal
+                                                                       Corn flour
+8.     Excursion cooking              gelatinization of starch         Pre-gelled flour
+
+Source: Omueti, O. (1999)
+
+
+
+
+                                            29
+Industrial Wet Milling
+Wet milling involves not only the separation of parts of the grain but in addition effects
+the separation of the parts of grain into their anatomical parts (see fig. 14)
+                                                    MAIZE (GRAIN)
+                                                       STORAGE
+
+                                                      CLEANERS
+
+                                                    STEEP TANKS
+
+STEEP WATER EVAPORATOR                                    DEGERMINATORS
+
+                                              GERM SEPARATORS
+
+
+
+                                 GRINDING            WASHING AND DRYING GERMS
+      FEED DRIERS
+                                 WASHING                            OIL EXTREACTION
+
+              FIBER                      CENTRIFUGEAL               CRUDE OIL
+   CORN OIL MEAL
+                                          SEPERATORS
+                                                                      FILTER
+                GLUTEN                      STARCH
+                                          WASHING FILTERS            DEODORIZERS
+
+                STARCH DRIER              CORN AND SUGER              FILTERS
+                                          CONVERTERS
+DRY STARCH               DEXTRINS         REFINING                    REFINED OIL
+
+                         SYRUP       DEXTROSE
+FIG. 14 SIMPLLIFIED WET-MILLING FLOW CHART
+
+
+
+                                                    30
+Industrial Fermentation
+In brewing industry, corn syrup is used as source of fermentable in beer and malt liquor, various alcoholic
+beverages are produced by maize distillation. Alkali cooking is a process which involves cooking of corn
+again in boiling lime solution and steeping overnight (Fig. 15)
+                        WATER                     CORN                            LIME
+
+
+                                                  COOKING
+
+                                                  STEEPING
+
+                                                  WASHING AND DRAINING
+
+                                                  MIXTAMAL
+
+                                                  MASA
+
+
+SHEETING & CUTTING                       SHEETING & CUTTING                       EXTRUSION
+     SHEETING& CUTTING
+                                                                    OR
+                                                                 SHEETING & CUTTING
+     BANKING                             BANKING
+
+                                         FRYING                  FRYING           FORMING AND FRYING
+
+
+
+      TORTILLAS                          TORTILLA CHIPS          CORN CHIPS            TACO SHELLS
+
+FIG.15: PRODUCTS FROM ALKALINE-COOKED CORN AND MASA
+
+
+
+                                                   31
+Marketing
+Maize production and marketing costs
+
+Quality aspects
+
+Raw maize specifications as raw material for animal feed and
+cereal food
+   In order to sell maize to agro-processors it is extremely
+important that the grains meet several quality specifications. If
+these specifications are not met, the maize may be rejected by the
+buyer.
+
+The following specifications apply:
+    Maize: white or yellow
+    Foreign matter: maximum 0.9%
+    Broken small grains: maximum 8.0%
+    Germinated grains: nil
+    Hectolitre weight 70.0 kg/hl
+    Moldy grains: nil
+    Moisture content: 12.0%
+    Heat damaged grains: maximum 1.0%
+    Insect damaged grains: 1.0%
+    Weather damaged grains: maximum 2.0%
+    Dis-colored grains: maximum 2.0%
+
+
+
+
+                              32
+     Figure 16: Marketing channel for Maize in Northern Nigeria.
+
+                          Farmer/Producer
+                             (Manoma)
+
+
+
+
+                           Urban/Regional Wholesaler
+                           Rural Assembler
+
+
+
+                  (Yan-Buhuna, Yan-Jabali, Yan- Kamassio
+
+
+                             Urban Consumer         International Markets
+    Processing Industry                             (Yan-Buhuna, Yan-Jabali,
+                                                    Yan-
+                                                    Kamassio, Yan-Ajawo
+
+(Yan-Kamassio
+
+
+
+                                        33
+Supporting services                                                  An approach for improving protein quality in maize-based diets is
+In addition to the direct functions within the value chain,          to grow and to use quality protein maize (QPM) varieties. The
+supporting services are required for the system to function          promotion of these new varieties of superior nutrient qualities has
+efficiently. These supporting services can be represented by         been low hence potential farmers/users of QPM are not yet aware
+interconnected chains, such as equipment and input supply (each      of them. The QPM varieties have nearly double the percentages
+of which has its own value chain), pure services (such               of lysine and tryptophan. Yellow maize contains vitamins A,
+management services to operate storage silos or extension            while white maize does not. While this vitamin can make a
+services to provide advice to the farmers) or financial services     contribution to human nutrition the amounts of the vitamin
+(including investment capital, working capital, or insurance) cuts   present is insufficient to meet the needs. The nutritional disease
+across each component of the value chain. Many of the                pellagra is sometimes associated with maize-based diets; resulting
+supporting services may be imbedded in the functions of a            from a deficiency of niacin. One approach for improving niacin
+supplier of another input - for instance seed or input suppliers     intake in maize-based diets includes complementation with foods
+have a strong incentive to carry out farmer awareness and            rich in niacin such as groundnuts and fish. (Kling 1991)
+extension services to increase the sale of their products.
+Commodity exchanges, where the product can be transparently          Several factors affect the nutritive value of maize dishes:
+traded, are an important service within the value chain though           Variety of maize
+this currently under developed.                                          Production environment
+                                                                         Condition of the grain
+                                                                         Presence of pathogens
+CONSUMPTION
+                                                                         Portion of the kernel utilized
+Consumer education promotion                                             Method of preparation
+Maize is an excellent source of carbohydrate and good quality oil.       Complementation with other foods
+The energy value of maize is complete when milled whole.
+Although maize contains about 10% protein, about half of the         Storage
+protein consists of zein, which is especially low in lysine and      Maize grain has generally good storage properties. Moisture
+tryptophan essential amino acids). Diets that rely heavily on        content is the principal influence on storability because the maize
+maize as an energy source may be deficient in certain amine acids    kernel is fairly hygroscopic. Rats, mice and other rodents are
+(components of protein) and vitamins.                                important source of damage to stored maize grain. They cause
+It is therefore essential to consume foods that complement the       loses by consuming grain, fouling grain with faeces, urine, hairs
+protein and vitamins present in maize (protein foamy legume have     and dead bodies, by transmitting disease through body excreta and
+higher lysine and tryptophan). Researchers have tried to correct     by destroying containers and bags.
+this deficiency by developing Quality Protein Maize (QPM)
+varieties which are rich in both amino acids.
+
+
+
+                                 34                                                                    35
+Beneficial uses of the commodity/Superiority to others
+Maize kernel is made up of endosperm (82.9% of total dry               Market Channel: The basic commodity marketing channel for
+weight), germ (11.1%), pericarp (5.3% and tip cap, 0.8%). The          which Maize will ultimately pass typically involves six steps.
+endosperm consists of starch granules embedded in a protein                1. It may begin with the farmer who produces the crop.
+matrix, with floury granules. Maize is an energy source; the               2. The second person is the rural buyer that buys from the
+cereals compare favorably with the root and tuber crops and are                farmer and transports the commodities to the accumulating
+similar in energy value to dried legumes. Cereals are important                rural assemblers in the nearest market.
+contributors of (vitamin, riboflavin, and niacin). Maize is a staple       3. The next step would be the rural wholesale who buys from
+food in Nigeria, can be utilized by small-scale processors and at              the rural assembler and then sells either to local processors
+industrial level to formulate and package various types of food. It            or consumers
+is now a common snacks in boiled or roasted forms and eaten                4. After the rural wholesaler is the transporter who bulks up
+with various other foods.                                                      the commodities he needs and transports them to the
+                                                                               processor or to the larger cities of industrial users.
+Marketing Maize                                                            5. Alternatively they will be delivered to the commodity
+Nigeria’s maize platform has several new market opportunities for              market in the major cities, and distributed to different
+farmers through contract farming, promoting soybean production                 family enterprises that comprise the distributing
+and livestock sub-sector. This range from the provision of high                wholesalers.
+yielding improved varieties, extension services, seed supply               6. The maize is then sold either directly indirectly to
+systems by community seed schemes and seed companies, supply                   consumers or to the retailers. These retailers, many of
+of capital items and production/marketing consumables, provision               whom are women, may be dealing with other
+of credits and risks cover and product development. Every effort               commodities.
+which support these endeavors also promote maize.                      The predominant market model in maize value chain includes but
+                                                                       not limited to the following:
+Indeed the challenges to maize value chain are mostly based on         Private business model:
+factors associated with production, processing and marketing           As complex and fragmented as it might appear it was developed
+indicators which involve different actors.                             by the private, profit conscious, traders and may thus have
+The basic marketing channel for maize in Nigeria is very similar       evolved into the optimal business efficient for the economy in
+to that found in most developing countries in Africa. It is a highly   which it is operating.
+fragmented marketing channel based on individual family
+enterprises. One problem with the fragmented marketing channel         Cooperative Business Model: Co-operative societies are
+is that market volume for each family enterprise is so small that      emerging and applying themselves to cooperative marketing and
+the mark-ups have to be large enough so that the traders can make      in the process becoming increasingly active in shaping the prices
+a modest profit.                                                       of their commodities. Although the model reduces transaction
+
+
+
+                                  36                                                                       37
+cost it is often administratively cumbersome which may impact         References
+on its competitiveness.
+Cell Phones                                                           Adeyemi, I.A (1993) Quality considerations in the industrial utilization
+Cell phones can be used to facilitate market information services           of maize p 233 – 238. In M.A.V. Fakorede, C.O Alofe & S.K.
+to smoothen distribution of margins along MVC. in order to
+reduce transaction costs, it is critical for farmers or rural agro-   Adeyemi, I.A (1994) Quality considerations in the industrial utilization
+                                                                            of maize. In: Maize improvement, production and utilization in
+dealers to have easy access to several rural assemblers who buy
+                                                                            Nigeria (MAAN)
+maize through ICT providers.
+                                                                      Kling G. Jennifer (1991) Quality and Nutrition of maize. IITA Research
+Consumer Promotions and natural resource management                          Guide 33. Kim (eds) Maize improvement, production and
+The ongoing promotion of maize by agricultural transformation                utilization in Nigeria Maize Associations of Nigeria (MAAN),
+agenda as well as the call for use of maize in mixed cropping                Ibadan Nigeria
+scheme with soybean has potential for increased soil fertility
+improvement.                                                          Mittal, J. P. and R. N. Kaul (1983) Performance Surveys on Village
+                                                                              Level Grain Grinding in Selected Villages in Zaria Local
+Small and medium scale Local processing                                       Government, Nigeria Food J. I. Agric Science 3: 187 – 195.
+Local processing and consumption:
+                                                                      Olowoniyan. F. O (1991) Preparation of Maize Recipes. Sasakawa
+Opportunity for promoting the diversified consumption of Maize
+                                                                            Global 2000/   NAERLS
+through local processing will assist the fortune of the crop.
+Although currently local processing into tuwo, masa, and other        Omueti, O. (1999) Maize Utilization Prospects For Industrial Uses in
+staple food commodity are evident expansion of maize based                   Nigeria. In proceedings of the 4th National Workshop of the
+products will increase demand for maize.                                     Maize Association of Nigeria IAR&T.
+
+
+
+
+                                                                                                          39
+                                38
+

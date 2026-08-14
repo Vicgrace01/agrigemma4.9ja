@@ -1,0 +1,816 @@
+FEED FORMULATION AND FEEDING PRACTICES IN
+                       FISH CULTURE
+
+
+
+
+                   Extension Bulletin No. 152
+
+
+
+                      Fisheries Series No. 7
+
+
+
+
+                          Published by:
+
+
+
+
+    National Agricultural Extension and Research Liaison Services,
+                      Ahmadu Bello University,
+                                Zaria.
+
+
+
+
+                                2002
+                         ACKNOWLEDGEMENT
+
+        A key feature of scientific (technical) bulletins is that they usually
+contain information that are put together from different sources to address a
+subject matter. For this bulletin, the works of various authors was consulted in
+order to present fairly documented information that is simple to farmers in the
+art of fish feeding. These sources of information are referenced and duly
+acknowledged.
+        The Management of NAERLS funds the publication, while the
+Publication and Publicity Programme together with the Publication Review
+Committee painstakingly did the editorial work and organization of the work
+to make it presentable to the intended audience. These are acknowledged.
+
+
+                              Bolorunduro P.I.
+                                   TABLE OF CONTENT
+Acknowledgment.........................................................................................        2
+Table of Content............................................................................................   3
+1.0    Introduction......................................................................................      4
+2.0    Feedstuffs in fish culture...............................................................               5
+3.0    Choosing the feedstuffs................................................................                 8
+       3.1     Trial and Error Method...................................................                       8
+       3.2     Pearson’s Square Method...............................................                          9
+4.0    Supplementary feed formulation...............................................                           12
+4.1    Nutrients Requirement of the Fish.............................................                          12
+       4.2     Nutrient Composition of Feedstuffs...........................                                   13
+       4.3     Processing of the Feedstuffs...................................                                 13
+       4.4     Feed Formulation.............................................................                   13
+       4.5     Production of Pellets and Ground Ingredients........                                            15
+       4.6     Examples in Feed Compoundment........................                                           15
+5.0    Feeding the Fish..............................................................................          17
+       5.1     Fish Feeding Habits........................................................                     17
+       5.2     Quantity of Feed...............................................................                 18
+       5.3     Methods of Feeding Fish...............................................                          20
+       5.4     Golden rules in Feeding Fish .................................                                  24
+6.0    Bibliography...................................................................................         26
+
+
+
+
+                                                               2
+1.0   Introduction
+      Fish food consists of natural food and artificial (supplementary) feeds.
+      When fish have balanced diet to eat, they grow fast and stay healthy. In
+      natural waters and well-fertilized ponds, microscopic plants
+      (phytoplankton), microscopic animals (zooplankton), insects,
+      crustaceans, copepods and molluscs are examples of natural foods.
+      When natural foods are not available in sufficient quantities to provide
+      adequate nutrition for fish growth, feeds that are manufactured or
+      grown outside of the fishpond may be fed at regular intervals (daily,
+      weekly, etc.). These feeds supplement natural foods. They are not
+      nutritionally complete, and will not adequately support fish growth in
+      the absence of natural foods. Natural food organisms in the water will
+      provide essential nutrients. In the absence of natural foods,
+      nutritionally complete manufactured feeds that contain all essential
+      nutrients must be fed to fish. This is applicable to commercial oriented
+      fishfarms or high technology based culture systems. Some examples
+      of supplementary feeds that are acceptable to fish are commercially
+      produced rations for chickens and pigs. Rice brans, cassava leaves,
+      kitchen refuse, oil seed cakes or other agricultural products and by
+      products. These are used in extensive or semi-intensive culture
+      system.
+      Artificial feeds are well-compounded mixture of feedstuffs and can be
+      in mash or pellets form that could be fed to fish. Mash feeds are good
+      for fries and pellets (0.8m-1mm) for fingerlings, juveniles (2mm-
+      3mm)and adults (4.5mm) depending on pellet sizes. Although the use
+      of artificial feeds may be costly, especially the commercially
+      compounded ration, they have the following advantages in fish
+      culture:
+      1.      Enable high stocking density (stocking maximization)
+              especially in Polyculture system.
+      2.      They promote faster growth of fish, since food will al
+               ways be available.
+
+                                     3
+      3.      High fish yield is guaranteed relative to the stocking density.
+      4.      Uneaten artificial feeds in the pond water will be biologically
+              degraded. This acts as fertilizer to promote plankton growth.
+      5.       A fish farmer while feeding the fish can study the behavior
+              of fish and monitor their health.
+      Generally in fish culture, the major factors affecting fish growth are
+      stocking rate, stocking density, the water temperature, the quantity
+      (adequacy) and quality of feeds, and the feeding method and
+      frequency. It can therefore be seen that foods and feeds availability
+      and the feeding practices used by farmers will determine to a large
+      extent the success or otherwise of a fish culture enterprise.
+      Recommended dietary crude protein (CP) requirements for fast and
+      healthy growth of fish vary with fish species. Generally requirements
+      are:- semi-intensive culture with natural foods (20-25%CP), intensive
+      culture for fingerlings (40-48%CP) and juveniles/adult fish in
+      intensive culture (30-35%). The dietary protein requirement of some
+      locally cultured fish species are shown in Table 1.
+
+2.0   Feedstuffs in Fish Culture.
+      Feedstuffs are classified into major groups in fish culture - energy
+      feedstuffs and protein supplements.
+      1.     Energy Feedstuffs.
+             These are feedstuffs containing less than 20% crude protein.
+             They are essentially of plant origin. Examples are cassava,
+             wheat offal, rice bran, maize, guinea corn, etc.
+
+      2.     Protein Supplements.
+             These are feedstuffs containing 20% crude protein or more.
+             They are made either of plant or animal materials. Protein of
+             animal origin are of higher quality than those of plant
+             origin. Examples of animal protein sources in fish culture are
+
+
+                                    4
+ fish meal, bone meal, blood meal, etc. Soybean meal, groundnut cake
+and cottonseed cake are some examples of plant protein materials.
+A wide range of local feedstuffs such as agricultural by-products,
+animal meals, and on farm products are available in Nigeria for
+farmers to utilize in fish culture (Table 2). The conversion ratio in
+Table 2 presents the dry weight of feed needed to produce one unit wet
+weight of fish. A low conversion ratio means that fish will convert the
+feed into flesh more efficiently. High ratios indicate less efficient
+conversion. For example it takes about 4 to 6kg of ground maize, but
+10 to 20kg of cassava peel to produce 1kg of fish flesh. .
+       Table 1: Dietary Protein requirements of some locally cultured fish species
+                                  Local Names
+            Fish                  Ibo     Yoruba     Hausa       %Crude
+                                                                 Protein
+                                                                 requirement.
+            Tilapia           Ikpopo    Epere        Tarfasa
+            (Oreochromis
+            niloticus)
+            Fry                                                  50-55
+            Fingerlings                                          35 - 40
+            Juveniles                                            30 - 35
+            Adult                                                25 - 30
+            Catfish           Alala     Abori        Tarwada
+            (Clarias
+            gariepinus)
+            Fry                                                  50 - 55
+            Fingerlings                                          40-45
+            Juveniles                                            35-40
+            Catfish           Echim     Aro          Ramboshi
+            (Heterobranchus
+            bidorsalis)
+            Fry                                                  50 -55
+            Fingerlings                                          42 - 45
+            Adult                                                35 - 40
+            Common Carp
+            (Cyprinus
+            Caprio)
+            Fry                                                  50-52
+            Fingerlings                                          38
+            Juveniles                                            30-35
+            Adult                                                25-30
+            Grass Carp
+            (Ctenopharynglo
+            n idella)
+            Fry                                                  50
+            Fingerlings                                          41 - 43
+            Juveniles                                            30
+            Adult                                                25
+                      Source - NIFFR Extension Guide Series No. 4
+
+
+
+                                           5
+Table 2: Nutrient Composition of some local feedstuffs and expected conversion ratio of
+ feed to fish flesh
+___________________________________________________________________________________
+Feedstuffs         % Protein  %Fat %Fibre       %Carbo- %Dry         %Mineral       Conversion
+                                                Hydrate     Matter                   Ratio
+___________________________________________________________________________________
+Maize (white)           9.3   5.0   2.4         70.9          88.0 1.8              5
+Maize (Yellow)          10.8  3.6   3.5         71.2          88     1.9            5
+Guinea Corn             11.2  2.5   2.3         74.1          88     1.8            5
+Palm kernel Cake        19.1  7.6   43.2        17.9          -      5.5            8
+Cotton Seed Cake        40.1  8.3   31.9        12.4          91     5.1            5
+Rice Bran/Husk          9.9   4.4   40.2        8.7           91     21.8           5
+Groundnut Cake          48.0  13.2  8.1         18.9          93     6.3            5
+(Industrial)
+Groundnut Cake          40.6  23.4  6.0         19.0          93     6.2            5
+(Kulikuli)
+Raw Soyabean            40.7 22.0  6.3          16.6          90     6.4            4
+Soyabean Meal           46.2  24.8  4.7         17.2          90     7.9            4
+(toasted slightly)
+Soyabean Meal           48.1  23.9  4.1         20.7          90     7.9            4
+(toasted severaly)
+Fish Meal (Tilapia) 57.7      1.8   5.2         -             92     33.6           2
+Clupeid (large size) 71.3     8.0   1.1         -             92     20.2           2
+Clupeid (Small size) 68.5     8.0   0.4         -             92     17.8           2
+Cow Blood Meal          86.0  0.7   2.1         6.5           92     5.0            2
+Millet                  9.0   5.0   0.7         83.2          90     2.3            5
+Flour Mill Sweepings 12.5     14.5  7.5         58.0          -      -              -
+Brewers Waste           22.8  17.8 18.8         46.4          93     -              10
+Cassava (Peeled)        2.6   0.5   0.4         94.1          88     2.4            18
+Cassava (peels only) 5.3      1.2  21.0         66.6          88     6.0            18
+Cassava (Unpeeled) 2.7        0.5   3.1         91.0          88     2.7            18
+Cassava leaves          14.7  8.4  15.6         45.2          88     16.1           18
+Mucuna                  28.5  0.7   9.5         57.2          91     4.0            4
+Water leaf              21.1  1.5  10.3         87.4          -      4.6            -
+
+________________________________________________________________________
+Source - Compiled from various sources.
+
+
+
+
+                                             6
+3.0       Choosing the Feedstuffs.
+          Single feed ingredients may be fed to fish to supplement available
+          natural food in a pond. However, combining ingredients may make
+          better quality supplemental feed. Fish would grow well on a feed
+          containing 20 to 30% crude protein, of which 7 to 10% of the protein is
+          from animal sources. When natural food is abundant and fish are
+          stocked at low densities, a 20 to 25% protein content is suitable. A
+          30% or more crude protein content is more suitable for commercial
+          operations where fish are stocked at higher densities.
+          From Table 2, it is possible to choose a feed mixture of desired protein
+          level when preparing supplemental feed. Two simple methods can be
+          used to determine how much of a selected ingredient should be used
+          for making a fish feed with a desired crude protein content. These are
+          discussed below:
+
+3.1       Trial and Error Method
+          To chose a combination of ingredients that will provide a feed
+          containing between 25 to 30% crude protein (from Table 2).
+           Ingredient               Amount of                % Crude Protein
+                                    Ingredient (kg)
+           Rice bran                       40                         9.9
+
+           Brewer Waste                     20                       22.8
+
+           Soyabean meal                    28                       46.2
+
+           Fish meal                        12                       57.7
+
+           Total                            100
+
+      Note: To calculate the required % CP in feed, E.g Rice bran =40x9.9=3.96)4.0
+                                                                    100
+
+
+
+
+                                             7
+This feed would contain 28.4kg of crude protein if 100kg of the listed
+ingredients were combined as indicated. This would make a feed containing
+approximately 28% crude protein by weight since
+28.4kg x 100kg = 28.4% protein content.
+100
+
+3.2    Pearson’s Square Method.
+       This method may be used for two or more feed ingredients and is
+       preferable to the trial and error method. Examples of feed formulations
+       with two and more ingredients are shown.
+       Example 1: - Two Ingredients.
+       Find the proportions of rice bran and fish meal (Tilapia) required to
+       make a feed containing 30% crude protein. For ease of calculations
+       the %CP figures are rounded up e.g. 57.7 = 58.
+1.     Draw a square (see Pearson’s Square 1 Diagram)
+2.     Place the desired protein level at the center of the square. In this case,
+       30%.
+3.     Place the two ingredients on the two left corners of the square along
+       with the protein content of each.
+4.     Calculate the difference in crude protein content of the two ingredients
+       (58 and 10) and record this number (48) near the lower left corner of
+       the square.
+5.     Subtract the desired protein level (30%) of the feed from the protein
+       content of each ingredient. Ignore positive or negative signs. The
+       difference between percentages of protein in rice bran and in the feed
+       (20) represents the amount of fish meal needed. The difference
+       between fish meal and the feed (28) represents the amount of rice bran
+       needed.
+6.     Add the differences obtained at the right corners of the square
+       (20 and 28) and record their sum (48) near the bottom right
+       corner. The sum in the right corner should equal the difference in
+       protein content recorded near the lower left corner of the square.
+
+
+                                       8
+7.     Divide the differences obtained in step 5, which were 20 and by 28 by
+       the sum obtained in step 6, which was 48 and then multiply each by
+       100 to obtain the percentage of each ingredient needed for the feed.
+       Thus, 42kg of fish meal and 58kg of rice bran are combined to make
+       100kg of fish feed containing 30% crude protein. The feed can also be
+       described as being composed of 42% fish meal and 58% rice bran.
+
+
+        Pearson’s Square 1 Diagram
+
+         Fish meal (58% protein)                               20    20 x 100 = 41.7
+                                                                     48
+
+                                   30% Desired Protein Level
+
+
+
+
+                      Rice bran (10% protein)                   28       28 x 100 = 58.3
+                                                                         48
+
+                      Difference = 48                                  Sum = 48
+
+
+        Example 2: - Three or more ingredients
+
+
+In this example, find the proportions of soybean meal cake, fish meal, yellow
+maize and brewers waste needed to make a fish feed with a 30% crude protein
+content.
+1)       Draw a square and place the desired protein level (30%) at the center of
+         the square. (Pearson’s Square 2 Diagram).
+2)       Group the ingredients into energy sources (crude protein less than
+         20%) and protein supplements (crude protein greater than 20%).
+3)       Calculate an average for the crude protein (CP) contents of each group
+         of ingredients (Table 1).
+
+
+                                                9
+Protein Supplements:
+Fish Meal            =    58%CP
+Soybean Meal
+Cake                 =    46%CP
+        __________________________________
+Total                =    104%CP
+Average: 104÷2       =    52%CP
+
+Energy Sources:
+Yellow Maize            =      11%CP
+Brewers Waste           =      23%CP*
+       _______________________________
+       Total            =      34%CP
+       Average: 34÷2 =         17%CP
+* Note that Brewers waste has a slightly higher crude protein content as an
+energy feedstuff.
+4)     Place the averages obtained above at the left corners of the square.
+5)     Calculate the difference in crude protein content between the protein
+       supplements and energy sources and record this near the lower left
+       corner of the square. The answer in this case is 35.
+6)     Subtract the desired protein level (30%) of the feed from the combined
+       protein content of the protein supplements and energy sources and
+       place the difference in the opposite diagonal corners. Ignore positive
+       or negative signs. Results are 22 and 13, respectively for the protein
+       supplements and energy sources.
+7)     Add these differences and record the sum near the lower right corner of
+       the square. In this case, the answer is 35 on the left and 35 on the right
+       side.
+8)     Divide the left side sum (35) into each difference obtained in step 6 (13
+       and 22) and multiply by 100 to calculate the percentage of protein
+       supplement and energy source needed for the feed. The respective
+       answers are 37% and 63%.
+9)     One half of the protein supplement (18.5%) is provided by fish
+
+                                       10
+meal and one half is provided by soybean oil cake. One half of the energy
+sources (31.5%) is provided by yellow maize and one half is provided by
+brewer’s waste meal.
+Thus, to make 100kg of fish feed containing 30% crude protein from a
+combination of ingredients including fish meal, soybean meal cake, yellow
+maize and brewer’s waste the following proportions would be mixed
+Fish                  18.5kg
+Soybean meal cake 18.5kg
+Yellow Maize          31.5kg
+Brewer’s Waste        31.5kg
+
+            Pearson’s Square 2 Diagram
+
+            Protein supplements:
+
+            (Fish meal + Soybean cake) = 52%                                  13%        13 x 100
+                                                                                    = 37%
+                                                                                         35
+
+
+
+                                                  30% Desired Protein Level
+
+            Energy Sources:
+
+
+            (Yellow maize + Brewers waste ) 17%                               22%    22 x 100 =
+                                                                                    63%
+                                                                                    35
+
+                                Difference: 35                                Sum: 35
+
+
+4.0   Supplementary feed Formulation
+      For a successful fish feed formulation, a fish farmer must be
+      acquainted with the following information:
+4.1   Nutrient requirement of the fish.
+      Essential nutrients required by fish include
+      1. Protein and amino acid - for body building, growth main
+           tenance and reproduction.
+      2. Carbohydrates - for needed energy in body activities.
+
+                                                    11
+      3.       Fats and fatty acids - for energy and normal body functioning.
+              Lipid also function as sparing nutrient for protein synthesis.
+      4.      Vitamins and minerals - for growth maintenance and
+              reproduction.
+4.2   Nutrient Composition of Feedstuffs
+      These are either energy feedstuffs or protein supplements. Refer to
+      Table 2 for some locally available feedstuffs used in fish culture.
+4.3   Processing of the Feedstuffs
+      Most feedstuffs have anti-nutritional factors, which will be harmful to
+      fish. The anti-nutritional factors are substances, which alter the
+      nutritional value of the feedstuffs and at the same time affect the health
+      of fish. They may be inherent in the foodstuffs or contaminants on the
+      feedstuffs. They prevent easy digestion of protein in the feed. The
+      best way to destroy anti-nutritional factors is to heat treat the
+      feedstuffs. Heat destroys such factors e.g. tripsin inhibitors in raw
+      soybean or groundnut and gossypol in cottonseed.
+4.4   Feed Formulation
+      This is the method of combining selected ground feed ingredients in
+      varying proportions to comply with predetermined nutrient
+      requirements. When feedstuffs for desired % crude protein content
+      have been chosen (as in section 3.0 of this bulletin), they can be
+      prepared/compounded through a process of milling, mixing and
+      pelleting.Milling can be carried out with the hammer milling (Figure
+      1).
+
+
+
+
+                       Figure 1.     Hammer Mill
+                                     12
+Mixing of ingredients including the premixes can be performed by hand
+before adding warm/hot water with stirring to form dough. If cereals in the
+formular are not adequate to bind the particles of the feed mixture, cassava
+starch may be added as a binder. A mechanical mixer can be used for large
+scale feed production (Figure 2).
+
+
+
+
+                       Figure 2.Mechanical Mixer
+
+Some companies are fabricating pelleting machines locally. The Product
+Research and Development Agency (PRODA), Enugu fabricated some
+attached with hammer mill for ease of feed production. The common kitchen
+hand cranker can also be used for pelleting by small-scale farmers. (Figure
+3).
+
+
+
+
+                           Figure 3: Kitchen hand Crack3er
+
+
+                                    13
+       After pelleting, the pellets should be dried in the sun or oven and
+       packed in water impermeable bags e.g. nylon bags. This is to
+prevent attack by mould and other pests.
+4.5    Producing of Pellets and Ground Ingredients
+       i        Get good quality feed ingredients
+       ii       Particle size of ground ingredients should be uniform. Fine
+                grinding is preferable. Leaf meals should be sun or oven dried
+                before grinding.
+       iii      Measured ingredients should be mixed thoroughly in desired
+                proportions.
+       iv       Determine what pellet type to produce i.e. whether floating or
+                sinking types for surface feeders or bottom feeding fish
+                respectively. Sand may serve as sinker when added to pellet.
+                For floating pellet, add or spray oil.
+       v        Particle size of pellets for most fish range from 2mm-9mm in
+                diameter.
+       vi       Dry rations, such as rice bran, ground maize and leaf meals,
+                may be stored in a cool, dry place for several weeks. Portions
+                may be taken as needed to feed fish.
+       vii      Moist rations can be prepared daily by adding about 350ml of
+                water per kg of ingredients to form a dough-like mixture. This
+                ration may be stored in plastic bags or containers and divided
+                for morning and afternoon feeding.
+       Examples in Feed Compoundment
+       The examples illustrated below are based on the use of standardized
+       weight measures (kilogram and litre) and equivalents, using local
+       measures (Tiya and milk-tin). Table 3 shows the standardization of
+       home gadgets.
+
+
+
+
+                                     14
+Table 3. Standardization of Home Gadgets.
+Volume                              Weight of Water Equivalent
+1 litre of water                    1 kg of water
+1 mudu of water (8 milk tin)        1 kg of water
+1 tiya of water (16 milk tin)       2 kg of water
+2 tiyas (1 gallon)                  4 kg of water
+1 bucket (4 gallons)                16 kg of water
+1 kerosine tin (5 gallons)          20 kg of water
+1 head pan (3 gallons)              12kg of water
+
+Source:- Aduku (1992)
+
+Example 1. To prepare Vitamin Premix
+                                KG.                     Milk Tins
+Blood meal              -       2.6                     18
+Fish meal               -       1.0                      8
+Wood Ash                -       0.5                     10
+Red Pepper              -       0.5                      6
+Total                   -       4.6kg                   42 Milk tins
+
+Example .2.   44% CP for Fish Fingerlings
+                     KG                       Tiya/M.Tin
+Soyabean meal -      100.00                 40.00 tiya
+Salt          -          0.5               2.00 m.tin
+Vit. Premix   -        0.25               1.90 (2m.tin)
+
+Example 3.       35% CP for Juvenile/Adult Fish
+                                KG              Tiya/M.tin
+Soyabean         -              80.00           32.00 tiya
+Maize            -              17.00            6.8
+Bonemeal         -              2.25            0.5 tiya (1 mudu)
+Salt             -              0.50            2.00 m.tin
+Vit. Premix      -              0.25            1.90 (2m.tin)
+     Source . Aduku (1992).
+
+
+                                        15
+5.0   Feeding the Fish
+      Feeds are provided to increase fish yields, and are especially
+      beneficial;
+      i.      When fertilization is not practiced
+      ii      When a pond does not respond well to fertilization
+      iii.    When fish are stocked at high density in a pond
+      iv.     When fish are confined in a cage, pen or other culture media.
+       v      When fish are held in tanks.
+       Fish usually feed to satisfy their energy requirements. The quantity of
+      feed fish would consume depends on various factors such as the fish
+      appetite initiated by hunger for food, the feed quantity as well as its
+      palatability. All things being equal, a well-fed fish will grow well and
+      a poorly fed fish will have retarded growth and prone to diseases.
+      Farmers must supply fish under culture with nutritious diet on regular
+      (daily or weekly) basis at the required level (recommended rates).
+
+5.1   Fish Feeding Habits.
+      Generally, fish species have different feeding habits.
+      Some fish are carnivores i.e. they feed mainly on flesh foods like
+      fingerlings crustaceans and worms in the water environment e.g. the
+      Tiger fish, Hydrocynus forksali. Some are omnivores i.e. they feed on
+      both plant and animal materials e.g. Tilapia. While some are
+      herbivores i.e. feed mostly on plant materials e.g. Grass carp. Most
+      fish under culture are able to feed on plant and animal food materials
+      and accept supplementary feeds.
+      In a polyculture system, fish species can exploit different levels of the
+      pond for food. Surface feeders include the Tilapias, mid water feeders
+      include Clarias while Heterotis is a typical bottom feeder. A fish
+      culturist should take these feeding habits into consideration in
+      planning pond stocking.
+
+
+
+                                     16
+5.2   Quantity of Feed
+      Feeding rates may be adjusted on a monthly basis by estimating the fish
+      biomass (total weight of fish in a pond). There are several ways of
+      determining this. The two most common ways are:
+      i.     Catch small number of fish and weigh them. Use the average weight
+             of the sample to multiply the number of fish stocked to calculate the
+             fish biomass in the pond. Then feed them at 3-5% of the biomass
+             daily.
+      It is recommended that at least 100 fish samples per hectare of fish
+      farm should be randomly taken. Then use the following equation to
+      estimate the quantity of feed required for daily ration.
+      F        =     WxSxP
+                     1000 x 100 kg/ha/day
+      Where,
+      F      =        Weight of feed
+      W      =        Weight of fish
+      S      =        Stocking rate
+      P       =       Percentage body weight
+      Example
+      A farmer has 3000 fingerlings in an hectare of fish farm with average
+      weight of 15g. The quantity of daily ration at 5% body weight can be
+      calculated as follows.
+      F       =       15 x 3000 x 5         =       2.25kg/ha/day
+                       1000 x 100
+
+      The feed should be divided into two equal portion i.e. 1.13kg and fed
+      twice daily - morning before sunrise and evening before sunset. Daily
+      ration for fry can be divided to 4 to 8 and fed at intervals.
+      ii.     Another way to adjust feeding rates is to assume a growth rate
+              for the fish based on previous experience that a farmer has.
+
+
+                                       17
+Growth rate will differ depending on the amount of natural food in the
+pond, the type and amount of supplementary feed given, fish species and
+size, the stocking rate, and the water temperature. Table 4 shows what
+percentage of body weight should be fed to Tilapia of a certain size. This
+information may be used as a rough guide to determine feeding rates. The
+following formula can be used in calculating the daily ration (based on
+Table 4).
+
+   F       =       S x W x P kg/ha/day
+                       100
+   Where,
+   F      =        Weight of feed
+   S       =       Stocking rate
+   W       =       Average Weight of Fish (determined from average
+                   length reading)
+   P      =        Percentage Body Weight
+   Example.
+   A farmer has 3000 fingerlings of Tilapia in a hectare of fish farm with
+   average length of 16cm. The quantity of daily ration at 5% body
+   weight can be determined thus:
+   F      =       3000 x 90 x 5 =        13.5kg/ha/day
+                      100
+   Note:- The value for w (average weight) is read from value for average
+          length in Table 4.
+
+
+
+
+                                    18
+Table 4:
+
+Approximate length/weight relationships for tilapia and appropriate feeding rates.
+________________________________________________________________________
+_____
+        Fish Size (cm)      Average Individual                 Percentage of Body
+                                                               weight
+                            Fish Weight (g)                    Fed Daily
+                2.0                  1                         ---------------------------
+                3.0                  5
+                7.5                10
+                9.5                20                                            5%
+               11.0                30
+               12.0                40
+               13.0                50                          ---------------------------
+               14.0                60
+               14.5                70
+               15.0                80                                            4%
+               16.0                90
+               16.5                100                         ---------------------------
+               17.0                110
+               17.5                120
+               18.0                130
+               18.5                140
+               19.0                150                                           3%
+               19.5                160
+               20.0                175
+               20.5                185
+               21.0                200                         --------------------------
+________________________________________________________________________
+
+
+                                     Source - ICA (1991)
+
+
+
+
+                                         19
+5.3 Methods of Feeding Fish
+      Fish can be fed supplementary feeds in two ways - Manually or
+      Mechanically.
+      1.     Manual Feeding
+             This is carried out by a process called broadcasting i.e.
+             throwing feeds into the pond by hand either on one spot in the
+             pond or over a wide area (Figure 4). Broadcasting is a good
+             method of feeding fish because the farmer can observe the
+             behavior of the fish. This practice is however labor intensive,
+             especially in large fish farms. It is however very suitable for
+             small-holder aquaculturists. When a farmer feeds the fish
+             from one spot in the pond, feeding frames can be placed at one
+             or 2 spots in the pond to minimize feed wastage (Figure 5).
+
+
+
+
+            Figure 4. Feeding Fish in the pond by broadcasting.
+
+
+
+                                    20
+                 Figure 5. Feeding Frames in a Fish Pond.
+
+
+2.   Mechanical Feeding
+     This is suitable for large-scale commercial fish farms. The method
+      is capital intensive and is performed by mechanical feeders, which
+     could either be demand type or automatic.
+     i        Demand Feeder.
+              This makes feeds available to fish on “demand”. It operates
+              through a simple funnel shaped device with a metal trigger
+              hanging into the water. A measured amount of feed is placed in
+              the funnel and the feed is released when the fish shakes the
+              metal trigger (Figure 6).
+
+
+
+
+                                   21
+            Figure 6. Demand Feeder.
+
+ii   Automatic Feeder
+     This is a clock work programmed device that discharges a
+     measured amount of feed at specified intervals in a day. It is
+     highly capital-intensive and not suitable to small-scale fish
+     farmers (Figure 7).
+
+
+
+
+                           22
+5.4   Golden Rules in Feeding Fish
+      RULE 1:         Always feed fish at the same time and place.
+      Fish become trained and learn when and where they are fed. Two
+      feedings per day are normal. Half of the daily amount is given about
+      mid-morning and half in the early afternoon.
+      RULE 2:          Never overfeed the fish
+      Give only as much feed as the fish will consume in 20 minutes or less.
+      Uneaten feed will pollute the water and increase the cost of raising
+      your fish. When accumulated uneaten feed decomposes water may
+      become low in dissolved oxygen. In such ponds, fish will usually be
+      seen at the pond surface in the predawn hours gulping air. They will
+      die if the oxygen concentration in the water becomes too low. Steps
+      must be taken to exchange or aerate the pond water. Feeding should be
+      temporarily suspended when dissolved oxygen is low to improve
+      water quality.
+      Signs of overfeeding are listed below.
+1.    An obvious inability of the fish to consume all of the feed
+      offered within a 20-minute period. A farmer can walk into the
+      feeding area of his pond 20 minutes after feeding and feel the
+      pond bottom. If a large amount of feed is stirred up, too much
+      feed is being offered. Feed may also be placed on trays or plat
+      forms, which are lowered into the water. These platforms can
+      then be pulled up after feeding to determine the quantity of feed
+      consumed.
+2.    A foul smell in the water when the bottom sediments are disturbed. A
+      handful of bottom sediment picked up from the feeding area should not
+      be black and foul smelling.
+3.    An overabundance of phytoplankton. Overfeeding can make
+      plankton become so abundant that a submerged object can only be
+      seen at depths less than 25cm. This should be a warning sign to
+      farmers that indicates possible overfeeding.
+
+
+                                   23
+RULE 3:         Do not feed on harvest day
+Stop feeding fish 24 to 48 hours before they are harvested. This allows them to
+clean their intestines and makes them better able to survive the stress of
+handling and transportation. It will also save feed.
+
+RULE 4 Regulate feed quantities at cold season
+The daily ration for fish should be halved during cold season (<20 c temperature)
+                                                                       o
+
+
+
+
+Most fish will not feed on floating pellets at such season, continuous feed addition to
+the pond, since there will be low feed utilization.
+At such periods sinking pelletes are preferable. Most tropical fish are off-feed
+when temperature is below 20 c   o
+
+
+
+
+                                          24
+                           Bibliography
+1.   Aduku,.A.O (1992). Practical Livestock Feeds Production in the
+     tropics. Asekome and Co.Publishers, Zaria.
+
+2.   Bolorunduro P.I (1994) Feeding and Management of Fish in P o n d s .
+     Technical Paper for training of ADP Subject Matter Specialists in
+     Monthly Technology Review Meetings.
+
+3.   Bolorunduro P.I. (1995) Practical Method of Formulating Com
+     pounded Feeds using Locally Available Ingredients for Small Scale
+     Producers of Poultry and Fish. Technical paper for training of
+     ADP Subject Matter Specialists in Monthly Technology Review
+     Meetings.
+
+4.   Eyo. A.A. (1996). Fish Feed Formulation NIFFR Extension
+     Guide Series NO. 4. In collaboration with GTZ and NAERLS.
+
+5    Eyo. A.A. (1996). Feeding Practices in Fish Farming. NIFFR
+     Extension Guide Series NO. 7. In collaboration with GTZ and
+     NAERLS.
+
+6    ICA (1991) International Centre for Aquaculture and Aquatic
+     Environments. Feeding your Fish. Water Harvesting Manuals.
+     GTZ. Auburn University.
+
+
+
+
+                                 25
+

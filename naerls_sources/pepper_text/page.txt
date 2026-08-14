@@ -1,0 +1,591 @@
+                                             TABLE OF CONTENT
+
+                              TITLE                                  PAGE
+                              TABLE OF CONTENT                         2
+                              AKNOWLEDGEMENT                           3
+                              INTRODUCTION                             4
+                              DESCRIPTION OF PEEPER CROP               4
+IRRIGATED PEPPER PRODUCTION   VARIETIES                                5
+                              VARIETIES FOR MARKET                     5
+                              MILD VARIETIES FOR PROCESSING            7
+                              CLIMATIC REQUIREMENTS                    9
+                              SOILS AND FERTILIZERS                   10
+                              PEPPERS IN THE CROPPING SYSTEM          11
+                              PROPAGATION                             12
+                              GROWING PLANTS FOR TRANSPLANTING        12
+                               IRRIGATION                             15
+                              WEED CONTROL                            15
+                              MANUAL WEED CONTROL                     15
+                              CHEMICAL WEED CONTROL                   15
+                              INSECT PESTS AND THEIR CONTROL          17
+                              APHIDS                                  17
+                              CUTWORMS                                18
+                              EUROPEAN CORN BORER                     19
+                              FLEA BEETLES                            19
+                              HORNWORMS                               20
+                              PEST CONTROL                            21
+EXTENSION BULLETIN No. 240    DISEASES AND THEIR CONTROL              21
+                              Damping –off                            24
+                              Blue Mold                               24
+                              Bacterial Spot                          25
+                              GENERAL PRECAUTIONS                     27
+                              METHODS OF PARASITIC DISEASE CONTROL    29
+                              HARVEST AND PREPARATION FOR MARKET      29
+                              PICKING                                 30
+                              CONCLUSION                              30
+                              REFERENCES                              30
+
+
+
+
+                  1                                   2
+AKNOWLEDGEMENT                                                        1.0     INTRODUCTION
+                                                                      Peppers are Vegetable crops belonging to the family of Solanaceae
+NAERLS wishes to acknowledge the financial support of Katsina         and genus Capsicum, which are native to tropical America and
+State Government and FAO for the production of this bulletin.         Africa. In Nigeria, pepper is mainly grown around the Savanna
+The bulletin has been updated with current information on the         ecological zones as a crop mixture or mono crop both during the
+Pepper production under irrigation. Production and value addition     rainy season and dry season under irrigation. Pepper is an
+of these perishable crops are of great importance to the well-being   important vegetable consumed by human beings in Nigeria and is
+of our farmers.                                                       used in fresh form or as paste, pure and juice or ground with other
+                                                                      vegetables in the preparation of stew and soup.
+                                                                              Although the crop is widely cultivated in Nigeria, the
+AUTHORS:                                                              estimated yields of 9t/ha obtained on farmers’ fields are often very
+                                                                      low, compared with the estimated yields of 15t/ha obtained in
+M. M. Jaliya, B. M. Sani, Adamu I. Arab and Adamu Yakubu              Western Europe. The low yields obtained in Nigeria have been
+                                                                      attributed to a number of production constraints that include
+                                                                      problems of diseases, pests and poor weed management. Capsicum
+                                                                      annum is popular and widely distributed in different ecological
+Revised January, 2016                                                 zones. It has two fruit types that are prevalent in the country and
+                                                                      known by various local names. These are: Attarugu (Hausa) -
+                                                                      Round shaped fruit and hot and Tattase (Hausa) - Bell          shape
+                                                                      fruit, mildly hot.
+
+                                                                      2.0     DESCRIPTION OF PEPPER CROP
+                                                                              Pepper (Capsicumannum) has its flowers borne singly in
+                                                                      the leaf axils. When ripe, the fruits are red, yellow or brown, but
+                                                                      immature fruits of the large mild kinds are often picked while still
+                                                                      green for use in salads. These species are generally large - fruited.
+                                                                      In contrast the flowers of capsicum fruitescens are borne in cluster
+                                                                      of two or more in the leaf axils. The fruits are, in general, much
+                                                                      smaller than those of Capsicum annum, bright red in colour and
+                                                                      with a wide range of shapes and sizes. Pungency is again variable,
+                                                                      but in general it is greater than in capsicum annum. The crop can
+                                                                      be raised entirely under irrigation. Both the moisture content in the
+                                                                      soil and the prevailing temperatures affect the growth and yield of
+                                                                      pepper. The bulletin is aimed at providing practices and
+                                                                      requirements for pepper production under irrigation.
+
+
+                                3                                                                      4
+3.0      VARIETIES                                                      3.1.2 California Wonder – Matures in about 75 days. Fruit
+3.1      Varieties for Market                                           about 11.4cm long 9.5cm in diameter, mostly 4 –lobed, little or no
+         The most popular mild-fleshed pepper varieties for use as a    taper, very smooth and attractive. Slightly smaller and earlier (65
+fresh vegetable are 10.2 to 12.7cm long and have maximum                to 70 days) strains of this type are also available under the name of
+diameters nearly as great as their length. They are typically three     early California Wonder.
+or four – lobed and tapered only slightly toward the blossom end        3.1.3 Chinese Giant – Matures in about 82 days. Fruits about
+(fig. 1). Some of the longer more tapering varieties are satisfactory   11.4cm long, diameter nearly as great, 3 – or 4 – lobed, little taper,
+for use in salads, but are losing in popularity because they are not    blossom ends tend to be crumpled and rough.
+so       well suited for use in stuffed pepper dishes. Summary of       3.1.4 Florida Giant- Matures in about 75 days. Fruits similar to
+the varieties is shown in table 1.                                      California Wonder but slightly larger and block shaped with little
+                                                                        taper and smooth.
+                                                                        3.1.5 Keystone Resistant Giant – Matures in about 74 days.
+                                                                        Resistant to tobacco mosaic virus. Fruits about 11.4cm long, 7.6 to
+                                                                        8.9cm in diameter, block shaped, somewhat tapered, ridged.
+                                                                        Similar to Florida Giant.
+                                                                        3.1.6 Neapolitan – Matures in about 60 days. Fruits about 10cm
+                                                                        long, 5cm in diameter, 3-lobed, tapered, yellowish green to
+                                                                        greenish yellow when immature, bright red when mature.
+                                                                        3.1.7 Ruby king- Matures in about 68 days. Fruits up to 12.7cm
+                                                                        long, 6.4 to 7.6cm in diameter, typically 3 – lobed, distinctly
+                                                                        tapered, often irregular
+                     Figure 1. Florida Giant.                           3.1.8 Windsor – A – Matures in about 58 days. Fruits about
+                                                                        11.4cm long, 5.7cm in diameter, 3 – lobed, tapered only slightly
+        All the varieties except Neapolitan included in this group      except near blossom end, tend to be slightly crumpled or irregular.
+are dark green when immature and turn brilliant scarlet at maturity.    3.1.9 World-beater – Matures in about 70 days. Fruits up to
+They are generally used green (the Neapolitan, yellow), but             12.7cm long, 9.5cm in diameter, distinctly 4- lobed, little taper, but
+sometimes they are used in the full-ripe stage because of the           not crumpled or irregular.
+attractive red colour. Brief description of some of the more            3.1.10 Yolo Wander – Matures in about 74 days. Resistant to
+important varieties is presented. (The number of days given is the      tobacco mosaic virus. Fruits about 10cm long 7.6 to 8.9cm in
+approximate time from transplanting to first harvest at the green –     diameter, block shaped, smooth. A strain of California wonder.
+mature stage).
+3.1.1 Burlington – Matures in about 75 days. Resistant to
+tobacco mosaic virus. Fruits
+Similar to World Beater, medium large, oblong. A strain of World
+Beater developed for the use where tobacco mosaic virus is
+prevalent.
+
+                                 5                                                                        6
+3.2 Mild Varieties for Processing                                       susceptible to disease in the field. These two disadvantages have
+     These varieties are by far the main canning varieties of           limited the acceptability of the Spanish to growers in most
+     pepper (fig. 2).                                                   localities.
+
+
+
+
+               Figure 2. Perfection.
+                                                                                            Figure 3. Spanish paprika.
+3.2.1 Perfection. Matures in about 80 days to red ripe. Fruits
+about 8.9cm long, 7.6 to 9.5cm in diameter, smooth and                  Table 1
+symmetrical, top shaped or short conical sometimes described as         S.N. Variety          Maturity       Size        Shape
+heart shaped, well-unused thick and firm, suiting the variety for                             Period
+canning.                                                                                                  Length
+3.3     Paprika Varieties. Practically all of the types of paprika      1      Burlington     About    75 Diameter       Medium large &
+peppers grown have been introduced from Southern Europe.                                      days        12.7cm         oblong
+Selections have been made for Colour, shape and thickness of            2      California                 9.5cm          4 – lobed, little or
+pods, and flavour of the ground product.                                       wonder         About    75                no taper
+3.3.1 Hungarian paprika- 5 to 12.7cm long, depending upon                                     days        11.4cm
+the strain, shapes vary from conical pointed to oblong tapering         3                                 9.5cm          3 or 4 – lobed, little
+with a thin wall. When first introduced, some strains were slightly            Chinese                                   taper, blossom end
+pungent, but non-pungent strains with improved flavor have been                Giant          About    82                tend to be crumpled
+selected.                                                                                     days           11.4cm      and rough
+3.3.2 Spanish paprika - Fruit 12.7 to 22.9cm long, walls thin.          4                                    9.5cm
+Ground powder is bright red and has a very desirable flavour. The                                                        Block shaped with
+Spanish type is easily distinguished from the smaller Hungarian                Florida        About    75 11.4cm         little taper and
+type (fig. 3). The large, thicker fleshed pods of the Spanish are the   5      Giant          days        9.5cm          smooth
+more difficult to dry successfully. The Spanish is also more
+                                   7                                                                     8
+                                                    Block      shaped             The small (10.0cm long x 7.6cm in diameter) to very small-
+        Keystone       About     74 7.6cm           somewhat tapered      fruited (10.0cm long x 5.0cm in diameter) varieties are more
+        Resistant      days         8.9cm           and ridged            tolerant to hot weather than are the large fruited varieties. All
+6       Giant                                                             large fruited varieties tend to drop many of the flowers that form
+                                                    Shape vary from       after several fruits have started to develop on a plant. After some
+                                      5.1cm         conical pointed to    or perhaps most of these early fruits have been harvested, fruit
+7       Hungarian      -              12.7cm        oblong tapering       setting will be resumed if weather and soil conditions are
+        Paprika                                     Similar but larger    favourable.
+                                                    than     Hungarian            In general maximum growth occurs in the temperature
+                       -              12.7-         type                  range of 21 – 27o c. Early blossoming and maturing of fruits are
+        Spanish                       22.9cm                              favoured by high temperatures, which also tend to reduce the
+        paprika                       long                                setting of fruit. At later stages of blossoming, a lowering of
+                                                                          temperature therefore result in enhanced fruit setting. Peppers
+4.0    CLIMATIC REQUIREMENTS.                                             require warm weather, but suitable varieties are available for all
+         Peppers require more heat and are more sensitive to cold         except the coolest parts of the country. They can be grown in any
+than most common garden crops grown in this country. Pepper               soil that is suitable for other vegetable crops, which is a well-
+will fail to thrive during cool periods when temperatures are             drained, fertile soil of heavy loam type. Poorly drained soils can
+between 4.4o to 15.6oC. Most varieties require a little more              cause the plant to shed their leaves and to be susceptible to
+warmth than tomatoes – a daily average temperature of about               diseases, resulting in poor yields. Cultural requirements and
+23.9oC. The larger, longer growing varieties, such as perfection,         practices are similar to those for tomatoes. The pepper plant,
+pimiento and Tobasco, require considerably more warmth. A few             however, requires somewhat more careful handling and a little
+early varieties, such as early Giant and Windsor – A, can be grown        warmer weather (21 – 27oc) than does the tomato and it does not
+successfully in many parts of the country especially in the               recover so well after unfavorable moisture, temperature or other
+Northern states. None are well adapted to the cool mountainous or         conditions that retard growth.
+high northern plains. At least 3 months of warm weather for plants
+in the field or garden are required for good yields of the earlier        5.0 SOILS AND FERTILIZERS
+varieties adapted to the more northerly parts of the country, and 4             Good crop of peppers can be grown on any good soil. They
+to 5 months for most other varieties.                                     are grown successfully on many kinds of soils, ranging from fine
+         Despite the pepper’s need for plenty of warm weather, the        sands through many loams, clay loams, and silt loams, but sandy
+extreme heat experienced in many parts of the country is too much         loams and loams are preferred. The soil must be well drained.
+for fruit setting in most varieties. Above 32.2oC blossom dropping              The pepper plant is not especially sensitive to soil acidity.
+becomes excessive, and many fruits that set at mean temperatures          Strongly acid soils, however, should be limed to a moderately or
+above 26.7oC are likely to be small or poorly shaped because of           slightly acid condition (pH 5 – 6). If the soil is not naturally
+heat injury to the blossoms. Above 35oC few, if any, fruits will          fertile, manures or green manures and inorganic fertilizers such as
+set, especially if the air is very dry or if there are dry winds. Fruit   single super phosphate (SSP) and NPK compound fertilizer will
+setting will begin again with the return of milder weather.               need to be applied because a rich soil is necessary for producing
+                                                                          high yield and good quality peppers. To maintain the soil organic
+                                  9                                                                       10
+matter, 25 to 37.5 tons of stable manure compost, or green manure       5.2 PROPAGATION
+per hectare should be turned under annually.                            5.2.1 Planting in Place
+      Peppers should be fertilized in approximately the same way as             Although much of greater part of the total hectarege of all
+tomatoes, but with a little more nitrogen and potash. It is perhaps     kinds of peppers is grown from transplants, seed is sown directly in
+even more important than with tomatoes to ensure that there is          place in the open field, principally in some of the warmest parts of
+ample fertility to make th e plants start off and grow rapidly after    the country. 10 to 12 seeds can be planted 45cm apart on rows
+transplanting lest they start blooming and set fruit while they are     75cm apart and later thinned when 8 to 10cm tall to 2 plants per
+too small. Fruit setting on small plants definitely stunts their        stand. The costs of production by sowing in place are nearly the
+growth so that they fail to develop the plant size necessary to         same as by transplanting, because of the costs for much more seed,
+produce a good crop of fruit. Pepper plant generally makes rather       thinning, and additional cultivation to control weeds. Sowing in
+poor recovery from any serious stunting                                 place is not generally recommended, even in places where the
+      On loam and heavier soils of fair to good fertility, 250 to 500   season is long enough to permit its use.
+kg/ha (5 to 10 bags) of compound fertilizer 15:15:15 should be
+thoroughly mixed with the soil along the rows, about a week             5.3    Growing Plants for Transplanting
+before transplanting the plant. When the plants have set several        5.3.1 Large Scale Nursery Beds.
+fruits, additional nitrogen is needed to prevent the plant from                Many hectares of plant beds in the open field are used to
+slowing down in vegetative growth. At this time about 65kgN/ha          grow pepper plants for sell to farmers. However, pepper plants are
+should be applied as a top dressing near the rows and cultivated        somewhat more difficult to grow, transport to long distance and
+into the soil. On lighter sandy soils, 750 to 1000 kg/ha (15 to 20      deliver to the field in good condition for transplanting. Pepper
+bags) NPK 15:15:15 or 25-10-10 fertilizer should be worked into         plants are harmed more than tomato plants by unfavorable
+the soil before transplanting time, and a top dressing of about         conditions in the plant bed, at transit, or upon delivery. Tansported
+65kgN/ha fertilizer should be applied at fruit –setting time. On        plants therefore, are used for a smaller percentage of the total
+these lighter sandier soils, 22.7kg of murate of potash should be       pepper hectarage than for the tomato hectarage.
+added to the nitrogen during top dressing.
+                                                                        5.3.2 Nursery Bed Management and Transplanting
+5.1 PEPPERS IN THE CROPPING SYSTEM                                              The seedbed for raising seedlings is made 120-150cm wide
+        As peppers are grown in different parts of this country         and as long as necessary. The soil is pulverized by forking and
+along with a large variety of other vegetable and field crops on        breaking up the clods and removing stones and straw. After the soil
+individual farms, it is not practicable here to recommend specific      has been loosened, add well-rotted manure or compost at the rate
+crop rotation that includes peppers. More important than fallowing      of three buckets per 6.0m2 bed (fig.4) or compound fertilizer NPK
+in particular rotation over many years is the precaution to avoid       15:15:15 is applied at the rate of 22g/m2.
+growing peppers on the same soil more often than once in 3 or 4
+years. As tomatoes and peppers are subject to some of the same
+diseases, neither should follow the other in successive seasons in
+the same soil. Soil used for plant beds should have had no peppers
+grown in it for 4 or 5 years, preferably never before.
+
+                                 11                                                                      12
+                                                                              transplanting to one can per day. This will harden the seedlings so
+                                                                              that they can better overcome the shock of moving. When the
+                                                                              seedlings emerge, the mulch is removed gently (fig.8).
+
+
+
+
+Figure 4. Addition of rotted manure to the seedbed.                Figure
+5. Place the seed in the row by hand.
+
+Seeds are then sown thinly with fingertips into the rows or drills            Figure 8.Remove the grass mulch gently as soon as seedlings
+about 10 to 12cm apart (fig. 5). No special seed treatment is                 emerge.
+required other than that seeds should be extracted from a mature
+fruits, and should be well clean and properly kept before sowing.               In the rainy season, the beds should be raised about 15cm above
+                                                                              the surrounding ground to enhance drainage and lowered during
+                                                                              the dry season for water retention. For peppers grown during dry
+                                                                              season, the nursery must be near a good source of water for
+                                                                              irrigation, although peppers are able to withstand longer period of
+                                                                              drought than tomatoes and eggs plants. Pepper can be planted
+                                                                              towards the end of the rains, in September in northern Nigeria to
+                                                                              make use of the residual moisture in the soil at that time, which can
+                                                                              be supplemented with irrigation water during the flowering periods
+                                                                              or when the rains ceases.
+                                                                                       Ridge width for growing pepper may be 75cm –90cm, with
+Figure 6. Use grass to mulch the nursery bed.   Figure 7. Water the nursery   an interplant spacing of 45 to 60cm. When planted on the flat, a
+bed with a watering-can.                                                      closer spacing of 60 x 60cm may be adopted for sweet pepper
+                                                                              (Capsicum annum). Seedlings should be uprooted with ball of
+After sowing, the bed is mulched by spreading dry grass evenly                earth using hand trowel. Transplanting on ridges of 75cm size
+over the bed so that no light reaches the soil (fig. 6). Mulching is          should be spaced 45cm between plants (one plant per stand) to
+done to avoid rapid drying of the topsoil. The bed is then heavily            give plant population of 29,630 plants per hectare.               For
+but carefully watered so as not to wash out the seeds (fig. 7).               transplanting on flat, plots, of 6m x 4m is recommended, with plant
+Watering of nursery seedbed should always be done with a                      spacing of 45cm apart in 60cm spaced rows. Transplanting should
+watering-can or a perforated tin. Put two watering-cans of water              be done early in the morning or late evening to minimize
+per 6.0m2 bed, once a day. Reduce the amount three days before                transplanting shock. Six weeks old uniformly sized pepper
+                                    13                                                                           14
+seedlings should be transplanted, and gap filling be done to replace   pepper plant nursery beds and production field are goosegrass,
+missing stands about a week later.                                     lovegrass, banyard grass, and pig weed. Examples of herbicides
+                                                                       used for chemical weed control is presented below.
+6.0 IRRIGATION
+        Peppers, like many other vegetable crops, require a            7.2.1 Chemical Weed Control in Plant Beds
+reasonably uniform soil – moisture supply during the growing                   The thick stand of peppers in seedbeds has made it difficult
+season for best production. Long dry period may cause shedding         to effectively remove broad-leaved weeds and weed grasses.
+of flowers and young fruits, and the plants are likely to make a       Large amounts of hand labour have been required, but now most of
+rather slow recovery after drought injury. The most popularly used     these weeds can be controlled with herbicides applied as soil
+systems are basin and furrow irrigation system. Peppers are            fumigants before planting of peppers. An example of the
+estimated to require between 600 – 800mm of water per season.          chemicals used to control weeds in plant beds is methyl bromide.
+An average of 15 to 20 irrigations are required to produce a crop of           Methyl bromide as a soil fumigant that controls weeds,
+peppers depending on when irrigation season starts.                    fungi, bacteria and nematodes in the soil, is effective for the
+Furrow irrigation system is commonly used for applying water. In       control of many weeds in plant beds. Prepare the soil as for
+this method the pepper transplants are set at the side of the furrow   seeding, omitting the final smoothing or compaction operation.
+at transplanting time.                                                 Cover the area to be treated with an airtight plastic film. Burry the
+                                                                       edges and support the center a few centimeters above the soil
+7.0 WEED CONTROL                                                       surface. Release the volatile liquid (Methyl bromide) at the rate of
+7.1 Manual Weed Control                                                276.8g per 10 square metres to be treated. The cover may be
+         No special methods are required in cultivating peppers.       removed after 24 hours.
+Shallow hand weeding, not more than 2.5 to 5.0cm deep is often                 The chemical does not persist in the soil; hence sowing
+enough to control weeds effectively. A total of three hand weeding     may be done safely 72 hours after removing the plastic cover. Soil
+at three weeks intervals commencing from three weeks after             moisture should be optimum for the rapid germination of weed –
+transplanting is enough to produce a good pepper. Care should be       seed at the time of treatment and soil temperature should be 10oC
+taken to avoid cultivation or other work on the soil when it is too    or above at a depth of 15cm.
+wet. Repeated transplanting during successive harvests tends to
+pack the soil to an undesirable degree if it contains much clay or     Caution: Methyl bromide is a highly toxic gas. Follow carefully
+silt, especially when it is walked upon while the surface is wet.      the precautions and directions on the container labels. Other soil
+Pepper plant stems and branches are brittle and are more easily        fumigants available for pre-planting use are Furadan – 3G and
+broken by wind or by farm implements than the stems and                Basamid. The soil is prepared for treatment as described above for
+branches of most crops. Care should be taken to avoid striking or      Methyl bromide, and the chemicals are applied in water solution
+roughly pushing the plants about while working among them.             with a sprinkler, which can be followed by a light overhead
+                                                                       irrigation to seal the soil surface. For most effective weed control,
+7.2 Chemical Weed Control                                              the weed seed germination soil temperatures should be 14oC or
+       A number of herbicides have been found to consistently          above at the depth of 5cm.
+combine effective weed control with high yields, comparable with
+those achieved with hoe weeding. The most common weeds in
+                               15                                                                       16
+7.2.2 Chemical Weed Control in Production Fields
+        In Nigeria for example, mixtures of alachlor (linuron plus
+chlobromuron) at 1.0 + 0.5 kg a.i./ha and 1.0 + 1.0kg a.i./ha
+respectively, and (pendimethalin plus metobromuron) at 2.0+1.0kg
+a.i./ha are effective in controlling weeds with a supplintary hoe
+weeding. Glyphosate at the rate of 4.0L/ha should be sprayed two
+weeks before land preparation to control stoloniferous and
+rhizomatous noxious weeds.
+
+8.0 INSECT PESTS AND THEIR CONTROL                                                                Figure 9. Aphids.
+Peppers are attacked by many kinds of insects, the most important
+of which are aphids, cutworms, flea beetles, hornworms, the              8.2     Cutworms
+pepper weevil, pepper maggot, and leaf miners. Some of these             Cutworms attacking pepper plants, principally Feltiasubtenanea
+insects are widely distributed; others are serious pests in limited      (Fabricus) and Pendromasaucia (Hubner), are stout, soft bodied
+areas only. Descriptions of few pests as examples are as follows.        smooth larvae, colored dark gray, brown or black sometimes
+                                                                         spotted or striped (fig.10). Up to 3.8cm long, they curl up when
+8.1     Aphids                                                           disturbed. They cut off the young plants near the soil surface.
+        Aphids (or plant lice), notably the potato aphids,               Some cutworms climb plants and cut off the leaves and buds.
+Macrosiphumeuphobiae (Thomas), and the green peach aphids,               They are found wherever peppers are grown.
+Myzuspersicae (Sulzer) are small soft-bodied insects found mostly                Cutworms can be controlled by applying toxaphene as a
+on the underside of pepper plant leaves or on the stems and              dust or spray to the plants and to the soil around their bases at the
+terminal clusters (fig.9). They are the most common and widely           rate of 2.268kg per hectare. A bait containing 3 percent of
+distributed of the insect pests of peppers. It is important to dust or   toxaphene in bran is effective when moistened with enough water
+spray the plants as soon as the first infestation is evident and as      to make a crumbly mash. Apply the bait to the soil around the
+often as necessary thereafter. Controlling a light infestation is        young plants preferably in the evening, at the rate of 45.35kg/ha.
+usually not difficult, but if control measure is neglected until the
+peppers are heavily infested, the damage may be serious and the
+success of the application doubtful. Aphids on peppers can be
+controlled with dusts or sprays containing endosulfan or with
+demton sprays. 0.5 to 1.0kg/ha of 25 percent endosulfan WP or 0.5
+to 1.0litre/ha of 25 percent endosulfan EC, or 0.5litre square/ha of
+25 percent demeton EC.
+
+
+
+
+                                                                                               Figure 10. Cutworms.
+                                 17                                                                     18
+8.3     European Corn Borer
+        The European corn borer, Pyraustanubilalis (Hubner), has
+become a serious pest of peppers grown. It is a small pale pink or
+brown caterpillar with a dark brown head (fig.11). The full-grown
+larvae are about 2.5cm long. It feeds within the stalks and pods.
+For control, spray each week with Cymbush E.C. or E.D. at the
+rate of 2L/ha.
+
+
+                                                                                          Figure12. Flea beetles.
+
+
+                                                                     8.5    Hornworms
+                                                                            The tomato hornworms Protoparcequinguemaculate
+                                                                     (Hawarth), and the tobacco hornworm, P.sexta (Johanson), are
+                                                                     large green worms with diagonal lines along the sides and a
+                                                                     prominent horn on the rear end (fig. 13). They devour the leaves of
+                                                                     pepper plants and when numerous may entirely strip them.
+                                                                     Ordinarily in small fields they can be controlled by handpicking.
+                                                                     For large fields, hornworms can be controlled by dusting or
+            Figure 11. Corn borer adult and larva.                   spraying with insecticides such as Cypermethrin and Dimethoate
+                                                                     (Perfecthion) at the rate of 500mls/ha.
+8.4     Flea Beetles.
+Flea beetles, Exitrixspp, are small, black, brown, or striped
+Jumping beetles (fig.12). They damage peppers wherever this
+plant is grown. They feed extensively on the small plants and at
+the same times numerous enough to cause serious damage to large
+plants. Flea beetles can be controlled by applying a dust or
+sprayed at the rate of 1.2L/ha.
+
+
+
+
+                                                                     Figure 13. Tobacco hornworm. Left, larva on leaf. Right, adult
+                                                                     moth resting on a leaf.
+
+                               19                                                                    20
+8.6     PEST CONTROL                                                      important factors in the production of profitable pepper crops. The
+6.6.1 Using Dust and Sprays                                               disease that most commonly cause losses of peppers are damping
+Insects infesting pepper can be controlled best by the use of             off, blue mold, bacterial spot, frog eye leaf spot, southern blight,
+insecticide dusts or sprays. These can be applied most effectively        phytophthora blight, fusarium wilt, anthracnose, mosaic disease,
+during calm periods of the day, usually early in the morning or late      blossom-end rot, and sunscald.
+in the afternoon. Care should be taken to have the duster or the
+sprayer in good working order. See that none of the nozzles are
+clogged, and that they are properly adjusted at the right heights and
+angles so that all parts of the plants will be thoroughly covered
+with the insecticide (fig.14 & 15).
+
+
+
+
+Figure 14. Ultra low volume (ULV) sprayer. Figure 15. Knapsack sprayer.                         Figure 16 Phytophthora blight
+
+The rate of application will vary with the equipment, the size of the                    Diseases are classed as parasitic or non-parasitic.
+plants, and the type and strength of the material. In general, where             Most of the common diseases of pepper plants are caused
+the application is made with traction or power equipment, 28.35kg                by parasitic organisms, chiefly fungi. Other parasitic
+of dust or 567.5 to 1420 litres of spray per hectare is needed.                  organisms attacking peppers are a few bacteria (represented
+When hand equipment is used and plants are small enough to be                    in the above list by bacterial spot only and eelworms
+treated individually, 17 to 22.68 kg of dust or 567.5 to 681.9 litres            (notably the root knot nematode). Parasitic diseases must
+of spray per hectare is sufficient. If emulsifiable concentrates are             be controlled by the application of specific chemicals such
+used, as little as 113.6litres of spray per hectare may be sufficient.           as Ridomil and Dithane M45 (2-3kg/ha), Bavistin (1L/ha)
+Wettable powders require good mechanical agitation to prevent                    as dust or sprays that will destroy the parasites or prevent
+clogging of the spray nozzles.                                                   their spread.
+                                                                                         Virus diseases, although considered by some not to
+9.0 DISEASES AND THEIR CONTROL                                                   be caused by organisms, are usually thought of as
+Peppers are subject to a number of diseases that reduce both field               parasitically induced. After fungi, viruses cause most of
+and market value of the fruit. Disease control is one of the most                the diseases in peppers. Virus disease requires a clean
+                               21                                                                         22
+method of handling the plants and cultivating them, and        9.1     Damping –off
+paying attention to insect carriers.                           9.1.1 Description
+        So-called non-parasitic diseases are caused by                 Damping off of pepper seedlings is caused by certain fungi
+unfavourable soil and climatic conditions (Poor                Rhizoctoniasolani and Pythiumspp.; those often are present in the
+environment). In the above list, blossom end rot and           soil. These fungi may rot seed or kill the seedlings before they
+sunscald exemplify diseases caused by poor environment.        emerge from the soil. They also may attack the soft stems of the
+The measures for control of non-parasitic disease are          young seedlings after they emerge and cause water soaking and
+largely good cultural methods and the use of fertile, well-    shriveling of the stem at the ground level. Plants attacked in this
+drained soils. Losses from many pepper disease can be          way soon fall over and die. Damping off is usually most damaging
+avoided by the use of:                                         on very moist soil. Seedlings should not be over watered,
+1       Clean seed protected by chemical treatment,            particularly in cool, moist weather, and should be grown in rows
+2       Seed bed sanitation                                    far enough apart to allow plenty of ventilation to keep down the
+3       Crop rotation                                          humidity.
+4       Fungicides, bactericides, or insecticides applied to
+        the plants as sprays or dusts, generally when          9.1.2 Control
+        needed.                                                         Treating pepper seed with certain fungicides to protect the
+Description of some few examples of important diseases         young seedlings until they emerge from the soil can reduce losses
+and their control is given below. The summary of the           from damping –off. This material includes preparations of such
+description is presented below (Table 2).                      chemical as thiram. It should be used at the rate recommended by
+                                                               the manufacturers. The seed and chemical dust are placed in a tight
+                                                               container e.g. plastic Jeri can, which should not be over half of the
+                                                               container. They are then shaken together for 1 or 2 minutes. The
+                                                               excess dust is screened off and the seed is ready to plant. Damping
+                                                               –off in the seedbed (or fields) can be checked immediately after
+                                                               planting the seed by wetting the soil with a suspension of 2kg of
+                                                               captan to 455litres of water applied as a spray. This is applied at
+                                                               the rate of 4.5litres to each 11.6 square metre of soil. Ordinary
+                                                               wetting, perhaps by means of a sprinkling-can, is at the rate of
+                                                               22.7litres to 9.29 square metre. Damping–off has been very severe
+                                                               in the seedbed, it can be controlled by chemically disinfecting the
+                                                               soil of the bed.
+
+                                                               9.2    Blue Mold
+            Figure 17: Blossom end rot                                Blue Mold, or downy mildew, occasionally causes serious
+                                                               losses of pepper seedlings. It is caused by fungus (
+                                                               Perronosporatabacina ) that can develop and spread very rapidly in
+                                                               cool, moist weather.
+                        23                                                                     24
+9.2.1 Description
+        Pepper seedlings affected by blue mold show pale spot on
+the leaves. These spots become covered with a pale blue coating
+of fungus spores on their undersurface. Very young plants may be
+killed and the bed will look as though it had been sealed. On older
+plants infected leaves drop and the plant usually recover when the
+weather is again warm and dry.
+
+9.2.2 Control
+       Blue mold can be controlled by spraying the seedbeds with
+preparations of ferbam or Zineb. Dusting with one of these
+materials also should check the disease. If blue mold appears in
+the vicinity, the seedlings should be treated before the disease
+occurs in the seedbeds.
+
+9.3     Bacterial Spot
+        Bacterial spot causes severe problem to sweet peppers but
+is not a serious disease of hot peppers. The disease is caused by a
+bacterium, Xanthomonasvesicatortia that also causes bacterial spot
+of tomatoes. The most serious injury of peppers accurs on leaves
+and fruits. Stems are affected to a lesser degree.
+
+9.3.1 Description
+        On young leaves the spots are small, yellowish green and
+slightly raised on the underside of the leaf. On older leaves the
+spots are first dark, water soaked, and not noticeably raised. When
+spots are few they may enlarge to 0.3 or 0.6cm in diameter. Such                            Figure 18:     Bacterial Spot
+spots have dead, show- coloured centers with a darkmargin. When
+very numerous, the spots are brown, severely spotted leaves turn          9.3.2 Control
+yellow and drop. Seedlings infected in the plant bed often lose all              Control of bacterial spot in the seedbed is the best way to
+but the leaves at the top of the plant. Plants in the field also may      prevent losses in the field. Seedlings should be grown on soil that
+lose many of their leaves.                                                has not been planted to pepper for several years. If soil must be
+        On the fruit the small, blister like spots are roughly circular   used in which peppers have been grown, it is safest to disinfect it
+and may be 0.6cm in diameter. These spots turn brown and                  with a suspension of 2kg thiran or captanto 455litres of water
+develop a cracked roughened, and warty appearance.                        applied as a spray, at the rate of 4.5litres to each11.6m2 of soil.
+
+                                  25                                                                      26
+Pepper seedlings should not be transplanted to fields where                          stems of the young     thiram.
+peppers or tomatoes occurred the preceding year.                         Bacterial   seedlings after they
+                                                                         Spot        emerge and cause       Spraying      the
+9.4      General Precautions                                                         water soaking and      seedbeds     with
+         Chemicals that are used to kill fungi in the soil or used to                shriveling of the      preparations of
+kill fungi or bacterial of the pepper plants, or used to kill fungi of               stem at the ground     ferbam or zineb
+the seed, are injurious to man and animals if not handled with care.                 level.        Plants   can control blue
+Therefore users should follow the precautions below.                                 attacked in this       mold.     Dusting
+1.     Keep chemicals from getting into the mouth, eyes or nose                      way soon fall over     with one of these
+2.     Do not allow the liquids to remain in contact with the skin,                  and die.               materials    also
+       and wash promptly with soap and water.                                        Pepper seedlings       should check the
+3.     When treating a large quantity of seed with a dust or when                    affected by blue       disease. If blue
+       dusting plants in the field, wear a respiration or dust mask.                 mold show pale         mold appears in
+4.     Avoid applications when there are drifting winds and avoid                    spot on the leaves.    the vicinity, the
+       the disposal of chemicals into ponds, lakes and streams                       These          spots   seedlings should
+5.     Clean thoroughly all vessels used in preparing a spray                        become      covered    be treated before
+       solution.                                                                     with a pale blue       the       disease
+6.     Keep the chemicals in a safe place out of reach of children                   coating of fungus      occurs in the
+       and pets.                                                                     spores on their        seedbeds.
+                                                                                     undersurface.
+Table 2 summarizes pepper diseases, description and their control.                   Very young plants      Control           of
+                                                                                     may be killed and      bacterial spot in
+S.N. Disease  Description                 Control                                    the bed will look as   the seedbed is
+1    Damping- Damping off of              Treating pepper                            though it had been     the best way to
+     off      pepper seedlings is         seed with certain                          sealed.                prevent losses in
+              caused by certain           fungicides     to                                                 the           field.
+              fungi                       protect       the                          On young leaves        Seedlings should
+              Rhizoctoniasolani           young seedlings                            the spots are small,   be grown on soil
+              and Pythiumspp.;            until        they                          yellowish      green   that has not been
+              those often are             emerge from the                            and slightly raised    planted to pepper
+              present in the soil.        soil can reduce                            on the underside of    for several years.
+2             These fungi may             losses      from                           the leaf. On older     If soil must be
+     Blue     rot seed or kill the        damping     –off.                          leaves the spots are   used in which
+     Mold     seedlings    before         This     material                          first dark, water      peppers        have
+              they emerge from            includes                                   soaked, and not        been grown, it is
+              the soil. They also         preparations of                            noticeably raised.     safest            to
+3             may attack the soft         such chemical as                           When spots are         disinfect it with a
+                           27                                                                      28
+                   few they may          suspension     of              are harvested in both the mature – green and red-ripe stages. Most
+                   enlarge to 0.3 or     2kg thiran or                  hot peppers are harvested red ripe for drying. Some however, are
+                   0.6cm in diameter.    captan         to              harvested either green mature or red ripe depending on whether
+                   Such spots have       455litres      of              they are to be sold for fresh use or for canning. The harvesting is
+                   dead,        show-    water applied as               usually done manually.
+                   coloured    centers   a spray, at the
+                   with a darkmargin.    rate of 4.5litres              10.1     Picking
+                   When           very   to each 11.6m2                          Peppers are generally broken from the plants with the stems
+                   numerous,       the   of soil.                       left attached to the fruits. For sweet peppers strong cloth picking
+                   spots are brown,                                     bags, which are suspended from the shoulders of the pickers are
+                   severely    spotted                                  preferable to baskets or boxes. Both hands are free for rapid and
+                   leaves turn yellow                                   careful removal of the fruit from the plants. Also hard picking
+                   and drop.                                            containers may become rough and sandy and so cause damage to
+                                                                        the peppers. Pepper fruits later carried to a central, point where
+                                                                        they are graded and packed in standard baskets or put in containers
+9.5     Methods of Parasitic Disease Control                            for delivery to market or processing plant. The red-ripe peppers are
+        Non-parasitic diseases are caused by unfavorable soil or        sometimes sun dried and stored in bags.
+climatic conditions. The measures for their control are largely
+good cultural methods and the use of fertile, well-drained soils.       11.0 CONCLUSION
+Parasitic disease, however, must be controlled by use of resistant      Pepper production is a profitable venture for farmers in Nigeria
+varieties or other biological methods or by application of specific     due to its high market value. Achievement of peppers benefit by
+chemicals that will destroy the parasites or prevent their spread.      farmers depends on the crop management in both nursery and
+Fungicides and bactericides play a large part in reducing losses        field. In addition to the climatic and soil conditions that favour
+from parasitic disease                                                  pepper production farmers should be very careful to follow all the
+                                                                        production requirements as stated in this Bulletin. Once the
+10.0HARVEST AND PREPARATION FOR MARKET                                  production stages are followed as described above, pepper
+        Mild- fresh or sweet peppers grown for fresh use should be      (Capsicum annum) is expected to yield up to 15t/ha. Pests and
+harvested when they are at good marketable size (10cm long and          diseases management is very essential in the production of pepper;
+5cm in diameter) with dark green colour. They should be firm and        therefore care should be taken to control their infection
+crisp, but not so mature as to have begun losing their desirable        immediately to prevent their spread.
+greenness. Small young peppers are rather soft and yield readily to
+mild pressure of the fingers. Although quite edible at such stage,      References
+they are lacking optimum quality and food value. Growers who            Cook A.A., T.A. Zitter, and H.Y. Ozaki (1977). Delray Bell, A
+harvest soft fruit will not be getting the potential yield from their      Virus-Resistant Pepperfor Florida. Agricultural Experiment
+crops. In addition, because immature peppers are more subject to           Stations. Institute for Agricultural Sciences, University of
+quality deterioration in the process of marketing, buyers may              Florida, Gainesville. Circular S 251. P5.
+discount such fruit in price. The sweet peppers grown for canning
+                                 29                                                                     30
+Denton, A.O., KD Alason, M.A. Adegoro (ed) 2000 NIHORT 25
+  years of research into horticultural crops development in       Victor, R. Boswell, S, P. Doottle, Leon M. Pultz, A.L. Taylor’ L.L.
+  Nigeria (1975 – 2000).                                             Damelson and Roy E. Campbell (1964), Pepper Production
+                                                                     Entomology Research Division, Agricultural Research Service.
+Gez Cornish and Tom Brabben (2001). Field Guide on Irrigated
+   Agriculture for Field Assistants. HR Wallingford, UK and       Walter Ebeling (1959). Subtropical Fruit Pests. University of
+   International Programme for Technology and Research in           California, Division of Agricultural Sciences. Los Angeles,
+   Irrigation and Drainage (IPTRID) in Collaboration with           California. P162-388.
+   Department of Irrigation, Malawi. P 79-98.
+
+Greenleaf, W.H; M.H. Hollingsworth; Hubert Harris; K.H. Rymal
+   (1969). Bighart-
+  Improved Variety of Pimiento Pepper. Agricultural Experiment
+   Station, Auburn
+  University, Auburn Alabama. Leaflet 78. P7.
+
+Joseph Aremu Adigun (1984).       Effect of period of weed
+   interference and chemical weed control on Rainfall and
+   Irrigated peppers (Capsicum spp). MSc. Agronomy thesis.
+   Unpublished (ABU Zaria).
+
+Lamido Aliyu (1994). Growth and yield of pepper (Capsicum
+   annum as influenced by N. and P levels and plant density Ph.
+   D Agronomy thesis Unpublished(Department of Agronomy
+   ABU Zaria)
+
+Usman Inuwa Shehu 1990. Effect of age of seedlings and nitrogen
+  on the growth and yield of pepper (Capsicum frutescent) M.Sc.
+  Agronomy thesis. Unpublished        Department of Agronomy
+  ABU Zaria.
+
+Uvah, I.I. and M.D. Alegejo 1988.         Chemical control of
+   Bemisiabataci. Vector of leaf curl virus on pepper. Terminal
+   report to the horticultural crops programme         Research
+   Review Committee. Institute for Agricultural Research,
+   Ahmadu Bello University
+  Zaria
+                              31                                                                  32
+

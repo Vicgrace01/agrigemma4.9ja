@@ -1,0 +1,1004 @@
+    ECONOMICS OF AQUACULTURE PRODUCTION
+
+
+
+
+                Extension Bulletin No 107
+
+
+
+                  Fisheries Series No. 5
+
+
+
+
+                        Published by
+
+
+
+
+National Agricultural Extension and Research Liaison Services
+                  Ahmadu Bello University
+                           Zaria.
+
+
+
+
+                           2000
+                        ACKNOWLEDGEMENT
+
+The information in this bulletin were pooled together to assist
+prospective and practicing fish farmers to understand the economics
+and cost analysis of aquaculture enterprise This is to serve as stimulus
+for profitable fish culture business. All sources of information duly cited
+in the bibliography are acknowledged. The management of NAERLS
+funds the publication, while the NAERLS Publication Review
+Committee did a painstaking job in transforming this bulletin to simple
+language for easier understanding by readers- Also worth mentioning is
+the NAERLS Publication and Publicity Program staff who worked
+tirelessly to edit this work. All the aforementioned are highly
+acknowledged.
+
+
+
+                   Amos T. T. and Bolorunduro P.I
+                                TABLE OF CONTENT
+
+Acknowledgement............................................................... 2
+1.0 Introduction................................................................. 3
+2.0 Aquaculture Practices................................................. 4
+3.0 Commonly Cultured Fish Species................................ 4
+4. 0 Risk Management in Aquaculture................................ 9
+5.0 Factors to Consider for Profitable Enterprise............... 11
+6.0 Record Keeping.......................................................... 14
+7.0 Cost Components to Consider..................................... 17
+8.0 Farm Business Analysis.............................................. 20
+9.0 Investment Analysis Method....................................... 21
+10.0 Conclusion.................................................................. 23
+Bibliography......................................................................... 29
+
+
+
+
+                                                2
+1.0 INTRODUCTION
+
+      Aquaculture (Fish Farming) is the art and science of controlled
+      rearing of fish in ponds, farms and in some instances natural water
+      bodies from hatchlings (freshly hatched” fishes) to matured size.
+      Unlike fish that grow in natural water bodies without human
+      interference, in aquaculture, feeding, fertilization, stocking
+      combination, reproduction and harvesting are controlled.
+
+  Aquaculture is a relatively new practice in Nigeria. For this reason it
+  is important for potential and practicing fish farmers to know some
+  basic necessities of its management and economics in order to
+  boost the returns of their efforts. Like any economic activity in life,
+  balancing investment cost and returns in favour of farmers are
+  important in aquaculture. It is always useful for fish farmers to know
+  the profitability of fish culture in order to guide their decision making.
+  This bulletin is put together to enlighten both practicing and
+  prospective fish farmers on how to make profitable investment in
+  fish farming The major cost components, investment analysis and
+  profitability calculations are explained in simple language as much
+  as possible.
+
+2.0     AQUACULTURE PRACTICES
+
+      A wide range of aquaculture practices exists. Aquaculture involves
+      the controlled culture of fin-fish and other aquatic animals like frogs,
+      lobster, oyster and Cray fish (Macrobracium). This could be done
+      based on different criteria.
+
+
+
+
+                                       3
+2.1 Types of Fish Ponds
+Fish ponds can be classified using the following criteria
+         a. Construction design
+         b. Level of management input
+         c. Fish culture practices
+         d      Scale of production
+
+2.1.1 Construction Design
+I.   Earthen ponds: These are constructed by digging soil in a
+     carefully selected site that is good enough to retain water for fish
+     culture, Where the soil structure is weak to retain adequate water,
+     dug out earthen ponds can be reinforced with concrete to make it
+     suitable for fish culture. (Figure 1)
+
+2     Concrete: These are ponds constructed with concrete.
+      They are usually above the ground surface with concrete walls•
+      Concrete ponds are used to raise fish in places the soil is porous
+      or very sandy, at house backyards or where land scarcity exist. In
+      general, concrete ponds are more expensive to construct and
+      maintain than earth ponds. Earthen ponds are known to be more
+      productive in terms of fish yield and are therefore more profitable.
+
+
+
+
+                          Figure 1. Earthen Ponds.
+
+                                    4
+                   Figure 2. Concrete Ponds
+
+3    Barrage ponds: These are ponds constructed by building a
+     wall across slow running streams in low valleys. The wall
+     ensures enough water retention for fish growth
+.
+4    Diversion Pond: These are ponds created by water diverted
+     from a river/stream through a channel. Such a pond is also
+     known as a relief pond.
+
+5    Rosary Pond: When ponds are built in a string and each drains
+     into the other and are all managed as a single unit due to their
+     inter connection, they are called rosary system ponds.
+
+6.   Parallel ponds: These are ponds located In the same area with
+     each having its own inlet and outlet. Various pond designs listed
+     above have peculiar cost implications.
+
+                                 5
+2.1.2 Level of Management Input
+         Depending on the level of management inputs (especially in
+feeding, fertilization and liming), pond culture systems can be
+classified as extensive, semi-intensive or i n t e n s i v e . R e t u r n s o n
+investment for each other differ depending on the level of input.
+1.      Extensive Culture System: When food base of a pond is
+        exclusively dependent on nature without supplementation
+        (either by feeds or fertilizer) the culture system is an extensive
+        one. Extensive culture attracts less cost, but are often less
+        productive and less profitable.
+2.      Semi-Intensive Culture System: In this system,
+        there is occasional supplementary feed addition
+        and natural food supply is augmented with manure. This attracts
+        more cost, but better productivity and profit are assured
+        compared with the extensive culture system.
+3.      Intensive Culture System: This system demands the highest
+        level of management input. Protein rich feeds are intensively
+        applied following appropriate recommended rates. The ponds
+        are occasionally disinfected against para site and diseases.
+        Fish grow very fast when intensively managed and grow least in
+        extensive management. Intensive culture system requires high
+        expertise. It also demands high level of supervision. Investment
+        cost is comparatively higher but commensurate higher
+        productivity and profit are certain.
+
+
+
+
+                                       6
+2.1.3 Fish Culture Practices
+         Culture practices can be classified as monoculture,
+polyculture or Integrated.
+
+     1.    Monoculture: This is the practice of culturing only
+           one species of fish in one or more pond units. Un
+           der monoculture; the farmer may grow for example
+           only Tilapia or Clarias in the pond. One disadvan
+           tage of this practice is that the farmer will only know
+           more about the management of that fish than other
+           species that can be cultured. However, the pur
+           pose of culture determines the investment cost.
+           Growing one type of fish could limit the maximum
+           exploitation of natural and supplementary food in
+           the pond, thereby affecting pond optimal utiliza
+           tion.
+
+   2.     Polyculture: This is the practice of culturing more than one
+          species of fish in the same pond e.g. Clarias and Tilapia.
+          Fish yield under polyculture can be high because food
+          items in the pond are properly utilized since the different
+          fish species exploit food at different levels. Well managed
+          ponds under polyculture can he highly profitable since food
+          utilization is maximized and less risk of project failure is
+          assured.
+
+   3.     Integrated Culture: This involves rearing fish with other
+          animals or vegetable gardening. Integration of fish culture
+          with livestock/gardens can maximize production space
+          and productivity. Understanding the know-how of
+          managing such integration is important to a farmer in order
+          to maximize profitability of this culture integration.
+                                 7
+2.1.4 Scale of Production
+       1. Homested/Backyard Ponds. This is a fishpond that is
+       managed to augment family protein intake. The size of such a
+       pond could vary according to land space available- e.g. from
+       25m to l00m . Such ponds can be homestead/backyard or
+              2        2
+
+
+
+
+       located in farm.
+
+      2. Commercial Fish Ponds/Farms: This usually has an area of
+         land not less than half a hectare under culture (for earthen
+         ponds). Such a farm will demand more attention from the fish
+         farmer, since income generation is the rnajor purpose behind
+         its establishment A large capital base is also required for
+         commercial farms. However concrete ponds of 100-200m        2
+
+
+
+
+         can also be utilized for commercial purpose especially under
+         intensive management.
+
+3.0    COMMONLY CULTURED FISH SPECIES
+       Generally the purpose of rearing fish is to have enough to eat
+       and generate additional income especially in commercial farms.
+       Not all fish -species perform creditably well in culture. For a
+       profitable venture, the fish farmer’s ideal candidate species
+       must have some of the following qualities.
+
+       i.         Fast grower e.g Heterobranchus and Clarias
+       ii.        Accept and utilize supplementary feeds properly. e.g
+                  Tilapia or clarias.
+       iii.       Hardy and resistance to disease, e.g Clarias
+       iv.        Tolerant to poor water quality e.g Clarias
+       v.         Easy to breed in captivity e.g. Tilapia
+       vi.        Attract low production cost (Tilapia/Clarias)
+       vii.       Acceptable (marketable) to consumers, e.g. Carp and
+                  Heterotis, Tilapia and Clarias.
+                                   8
+In Nigeria. certain fish species that are found only in freshwater bodies
+(that is rivers and lakes) do well under culture (Table 1). Some other
+species that inhabit the marine environment can be cultured in brackish
+water (lagoons and estuaries) (Table 2).
+
+Table 1: Commonly Cultured Fish Species In Freshwater Ponds In Nigeria
+   COMMON NAME                 SCIENTIFIC NAME
+   Tilapia*                    Oreochromis, niloticus
+                               Tilapia melanopleura
+                               Tilapia guineensis
+                               Sartherodon galilaeus
+   Mud cat-fish…………..          Claria gariepinus
+   Common Carp*………             Cyprinus, carpia
+   Spotted Cat-fish**…..       Synodontis filamentosus
+   Redmud Catfish………           Heterobranchus bi-dorsalis
+   Niger perch**……….           Lates nilotus
+   African bony tongue**.      Heterotis nilotcus
+   Grey cat-fish………….          Chrysichthys nigrodigitatus
+   Trunk-fish**…………..          Gymnarchus niloticus
+   Silver catfish………….         Bagrus bayad
+   African Carp**………...        Labeo coubie
+   Moon fish**………….            Citharinus citherus
+
+Table 2: Commonly Cultured Fish Species In Brackish Water Ponds
+   COMMON NAME                 SCIENTIFIC
+   Flat head grey mullet*      Mugul cepalus
+   Tilapia                     Tilapia zilli
+                                   Tilapia guinensis
+    Atlantic Tarpon**              Meggalops atlanticus
+    Ten pounder**
+    (West African Lady fish)       Elops lacerta
+    Grey cat fish**                Chysichthys nigrodigitatus
+    African red snapper**          Lutijanus gorensis
+
+                                          9
+       *      Casual labor/maintenance wages.
+       *      Transportation maintenance {fuel, etc)
+       *      Consultancy cost where necessary.
+       *      Other consumables.
+
+
+8.0   FARM BUSINESS ANALYSIS
+
+This is often used to show the levels of cost, return and profit that
+accrue to a fish farm. The profitability of each option is determined to
+show the strength and weakness of any acuaculture system. It is the
+difference between the total revenue and total cost of production. The
+revenue include items such as fish sold, harvest consumed at
+home/farm, those given as gift and change in inventory.
+Below (Table 6) is an empirical cost and returns analysis of a typical for
+a two-fish combination under polyculture- This could also be dune for
+the monoculture and multi-species combination in polycultur. Based
+on the assumption that the two-fish types have been accepted as the
+most feasible. Other profitability ratios can then be derived. Of course it
+could be derived for the other aquaculture types and comparison
+made. These could be used to determine the efficiency of the
+enterprise chosen.
+These ratios serve different purposes on the farm. For instance, if a
+farmer uses labour on hired basis, the rate of return on operating cost is
+very essential. These indicators are useful for both the fish farmers and
+other stakeholders in the fishing industry -
+
+The cost and returns analysis is not static; consideration should be
+given to some of the variations and interactions of factors affecting
+production and profit.
+
+
+                                    10
+     trial, and domestic effluents to prevent pollution and subsequent
+     death of fish. Fish could easily be wiped out by pollution leading
+     to great economic losses to farmers.
+
+4.   Security
+     Natural and man-induced enemies of fish exist Natural enemies
+     include snakes, frogs. turtles, etc. These can cause substantial
+     losses to a farmer since they are predators of fish. Cleaning the
+     surroundings of pond site of bush and grasses will minimize risk
+     of attack by predators. Human poaching on ponds can also
+     result in great losses. Efforts must be made to provide adequate
+     security.
+
+5.   Natural Disaster
+     Natural disasters may not be within the ability of a farmer to
+     control, but exercising caution can make a fish farmer to avoid or
+     limit its impact to the barest minimum. Fishponds should not be
+     sited in flood plains and hilly lands that are subject to flooding.
+     When constructing a. pond, adequate provision should be made
+     for a well-compacted pond wall (clay), inflow and outflows, and
+     spillway to take. care of possible flood.
+
+6.   Management practices
+     Abuse of aspects of management practices can make a
+     farmmer incur great economic losses making the whole fish
+     culture enterprise un-interesting. Recommended stocking,
+     feeding, fertilization and liming rates should be adhered to, for
+     profitable fish culture business.
+
+7.   Gestation period
+     Initially, the gestation period    for fish reaching the table or
+                                 11
+      market size could appear long to a potential investor. But with
+      good management, the pay back period on loan could still be
+      achieved. Most fish under semi-intensive and extensive system
+      can be harvested within period of 9-12 months. A farmer can
+      then hervest periodically as planned under intensive culture, a
+      growth cycle of 6 months for fish to reach table size of 1-1.5kg id
+      possible.
+
+8     Marketing of Products.
+      Fortunately, marketing risk is not pronounced in aquaculture in
+      Nigeria. Fish products have an unsaturated market demand
+      with annual demand-supply deficit of between 35-45%.
+      However, the fish farmer should be aware of the attitude of
+      consumers within the locality to the species of fish that the
+      farmer wants to culture. This is more important to a large-scale
+      farmer that is interested in quick investment turnover. Fish
+      species that are likely to attract high market prices should be
+      grown. Such include Gymnarchus niloticus, Clarias gariepinus
+      and, Heterotis niloticus etc.
+
+5.0   FA C T O R S T O C O N S I D E R F O R P R O F I TA B L E
+      AQUACULTURE
+      Under the right condition, aquaculture can be very profitable.
+      The following checklist of questions can help determine whether
+      an aquaculture enterprise is feasible for a particular situation or
+      not. This does not over look the other aspect of accounting
+      principles that are dealt with later in the bulletin. Also answering
+      “yes” to cost of items/issues raised would not guarantee
+      success just as answering “no” does not guarantee automatic
+      failure. It is very advisable to contact your local extension agent
+      for more technical details.
+
+                                   12
+5.1     Management
+        The role of management is central to the success of any
+ business enterprise. Management involves the integration of
+ manpower, materials and money in a judicious way, such that
+ anticipated profits can be assured. Practicing and potential
+ aquaculturists should be guided by the following questions.
+     !    Do you already have suitable pond or a site suitable for
+          ponds?
+     !    Do you have most of the machinery and equipment
+          needed?
+     !    Do you have the necessary financial resources?
+     !    Is the potential of profit higher in aquaculture than that of
+          other possible enterprises?
+     !    Will the expected profit be adequate compensation for your
+          labor, management and risk?
+     !    Will investment and operating capital interest rates permit a
+          reasonable profit?
+     !    Is mono culture, polyculture or integrated the most suitable
+          for your
+     !    condition?
+     !    Will you be able to forego income until you sell your fish
+          crop? Are you able to absorb occasional losses?
+     !    Are you willing to devote daily the time and effort required?
+
+      Aquaculture is capable of significantly expanding the availability
+      of fish products and the basic economic law of demand and
+      supply will cause prices to fall as supplies increase.
+
+
+
+
+                                  13
+5.2.      Marketing
+         In fish farming. market has key role to play in the management
+decisions taken on any aspect. Management decisions, which affect
+customers, are part of marketing and must be considered from
+marketing point of view.
+Marketing strategies for fish farmers involve the following procedures.
+1.     Identify changing demands of market places
+2.     Match production to market need
+3.     Select ideal candidate fish species for culture i.e. fast growers,
+       hardy, and good feed converters•
+4.     Evaluate market acceptance of fish species to be grown
+5.     Attempt satisfying buying pattern of consumers. More demand
+       should lead to farm expansion.
+6.     Match production and consumers needs to available resources.
+7.     Apply the marketing mix concept. (4ps)
+      a) Product planning and development
+      b)      Place for transfer of product to consumer i.e. ideal selling
+               location.
+      c)      Promotion of product sales by advertisement and other
+               sales promotion
+      d)     Price determination and pricing policy
+
+ Relevant questions in marketing the fish are: -
+  v Do you know any established market for your fish?
+  v Will the market for your fish at the planned sales time be
+     available?
+  v Are there suitable arrangements for harvesting your fish?
+  v Can you be flexible and harvest fish during the off-season?
+  v Is there an alternative marketing strategy which you hope to fall
+     back to in case there is a problem with current arrangement?
+
+
+                                   14
+5.3       Physical Conditions
+          Good physical conditions that are required for fish to grow well
+          under culture are prerequisites to successful enterprise.
+          Topography, soil structure, regular water supply, and security
+          issues are important. Consider these questions in meeting
+          adequate physical. conditions
+      v    Is the topography of the area suitable for pond construction?
+      v    Will the soil retain water?
+      v    Are there enough water supplies to replace any water loss?
+      v    Is the pond area liable to flooding?
+      v    Are the drains adequate for proper water drainage?
+      v    Can wild fish be prevented from entering the pond?
+      v    Is the pond bottom stump-free to prevent difficulties in
+           harvesting?
+      v    Is the pond close to your residence for prompt management and
+           monitoring?
+
+5.4    Production
+Major factors of production that are indispensable in economics are:
+land, labor and capital. In aquaculture, the source of fingerlings,
+adequacy of feed inputs and drugs, availability of technical support
+(extension and consutancy) and feed storage facilities are also
+important production factors.
+Farmers should face the challenges of the following questions for
+enhanced production: -
+      !    Are good quality feeds readily available at competitive
+           prices?
+      !    Do you have reliable supply of drugs and other
+           vaccines?
+      !    Is the source of your fingerlings reliable?
+
+
+                                     15
+      !      Do you have dependable labor?
+      !      Is your feed storage facility a good one?
+      !      Do you know the extension agent/fishery officer in
+             your area?
+
+6.0     RECORD KEEPING
+Many at times the major problem of most farm enterprise is lack of
+reliable economic data. The best source of data is farm record either in
+commercial, pilot or experimental farms. There are many forms of
+records, but most of them simply list the input and output operation
+both in physical (kg) and monetary terms. The collection and analysis
+of data on costs and returns based on farm records provide among
+others the information necessary to:
+      !     determine the relative profitability of various production
+            techniques or systems,
+      !     compare the productivity of major inputs, such as
+            land, labor, and capital, with that of alternative production
+            activities and
+      !     improve the efficiency of the farm operation.
+
+Seasonal records on the other hand are annualized data to show
+production and marketing trends over the years Such records enable a
+farmer to respectively assess farm performance and project future
+production trends for possible new investments.
+There are two types of farm record, namely, daily and seasonal
+records. Daily records are important so that the performance of the
+farm operations can be fully evaluated. It is therefore necessary to
+keep this record as simple and comprehensive as possible. A record
+per pond can be kept. On the other hand, records on a number of ponds
+in similar condition could be kept• In any case, each record can he kept
+in a separate book or on separate pages of the same record book.
+
+
+
+                                   16
+ Where computers are handy separate file can be kept for each pond
+or a number of ponds as the case may be. However, it is always
+advisable to keep back- up copies of such files elsewhere either in hard
+copies from time to time or in a soft copy on flash discs, diskettes, CDs,
+etc. Types of information that can be kept in records of aquaculture
+farms are discussed below:
+
+6.1           Input records
+There are two kinds of inputs: -variable and fixed, Variable inputs are
+those which vary with the level of production such as fingerlings,
+feeds, fertilizers, labor, drugs fuel, electricity and water. Variable inputs
+often have variable costs. Fixed inputs on the other hand, are those
+that do not change with the level of farming activity. Included in this
+category are items such as rent on land, tax, interests, insurance
+premiums, depreciation on fixed assets, and staff salaries. It is very
+important to describe each of the variable input and or cost in as much
+detail as possible. For example, if polyculture is practiced, then the
+stocking materials should be classified by stocked species and by
+sizes such as fingerlings, juveniles and adult fish. Feeds that are used
+should be well specified in relation to the kind, e•g. pellet, rice meal,
+ground-nut cake etc. In the ease of fertilizer, the kind should also be
+specified e.g. poultry or pig manure, inorganic fertilizer etc. Table 3
+shows a typical example of how each could he recorded in terms of
+amount, unit and total cost.
+Table 3: Daily records of a Typical Fish Farm
+Date   Item                Kind             Quantity      Unit cost (N)   Total Cost
+       Variable Inputs
+       -Fingerlinsgs       Clarias etc      250           10.00           2500
+       -Feed               Rice Bran        3 bags        150.00          450.00
+       -Fertilizer         Poultry Manure   3 Trucks      200.00          600.00
+       -Water              Up Stream        40,000lt      0.20            8,000.00
+       -Fuel/Electricity   Diesel           3000 Litres   22              6,6,000.00
+
+
+
+
+                                             17
+Aquaculture practices other activities such as pond fertilization,
+stocking, feeding, pond maintenance, harvesting and marketing.
+These activities require labor. In that case it is very important to keep a
+separate record for labor. The kind of labor should always be specified
+in terms of adult, children, male, female. All wage payments should be
+recorded too. One other important variable is farmer’s family labor.
+This must be adequately recorded. (Table 4)
+  Table 4: Labour Input Record for a Typical Fish Farm
+  Date      Economic Activity Kind of Labour Duration (Day,                Wage Rate         Total Labour
+            2                  3                  Hour)                    (per Man-         Cost 4=x5
+                                                  4                        day N) 5
+            Pond Preparation Adult Male           3 Man-days               150.00            450.00
+            Feeding            Adult Female       4 hours                  15.00             60.00
+            Harvest            Male Children      5 hours                  12.00             60.00
+                                                                           Total             570.00
+
+A list of fixed assets with their initial or current cost and their estimated
+years of economic life is needed for calculating depreciation• The
+easiest and commonest is the straight-line method. In this, the cost of
+the asset is divided by the expected economic life span of the asset.
+Where there is a salvage value, it is deducted from the initial cost
+before annual depreciation is calculated. Where an asset has been
+used for same years, the current replacement cost should be used
+instead of its original cost of purchase. It is important to note that if the
+fixed asset is shared between aquaculture and other far, activities, an
+appropriate proportion should be determined for the fixed asset before
+computing depreciation. Table 5 below shows hypothetical fixed asset
+and depreciation.
+
+Table 5: Fixed Asset Record of a Fish Farm
+  Item     Year of    Cost (N)     Current     Salvage      Depreciable   Estimated   Proportion   Depreciation
+           purchase                market      Value (N)    Balance       Economic    Used for
+                                   value                    (N)           Life(yrs)   fish
+                                                                                      Farming
+           1          2            3           4            5             6           7            8=5/6x7
+  Pond     1996       2000.00      800.00      150.00       1850.00       10          100          185
+  Water    1997       1100.00      160,000.0   200.00       900.00        5           80           144
+  Pump     1996       150,000.00               100,000.00   50,000.00     40          50           625
+  Office
+
+
+
+
+                                                             18
+6.2 Output Record
+The following are important items that should be included in output
+record: Date of harvest, species harvested, (with amount and unit
+price), and the, disposition of product. When determining or computing
+gross revenue on the farm, cash and credit sales of the product should
+be recorded. In addition computed values of home-consumed products
+as well as those given out should be recorded. To get the computed
+values of the home consumed or those given out, it is advisable to use
+the current market prices of the fish. It is also important to have a record
+of inventory at each period of accounting. Thus beginning and closing
+inventory should be kept. At the end of each cycle or the year, the
+quantity and value of production by species and the operation cost by
+items of each fishpond or a group of ponds in similar conditions should
+be summarized and presented in a single sheet The purpose of this is
+to be able to know at a glance the farm’s production situation.
+These records are important for various reasons as stated below:
+         1.        Records help the farmer to establish a number of
+                   facts or efficiency standard which form the basic tools
+                   of diagnosis and planning
+         2.        Records can provide the farmer with information on
+                   production situation in the farm
+         3.        A good record provides an effective mechanism for
+                   monitoring and evaluating the farm
+         4.        Records provide information for appraisal which may
+                   show the strength or weakness of management
+                   pattern the farmer adopted on the farm.
+         5.        Records give data that may be used to formulate
+                   plans and provide estimates
+         6.        Records could be used for meeting some
+                   legal/contractual arrangements
+
+
+                                    19
+        7.         Records add credibility to the claim of many
+                 business organizations
+        8.       Records may be used to create the spirit of
+                 competition among farmers/workers, it could also
+                 form the true basis for giving incentives to workers.
+
+7.0          COST COMPONENTS TO CONSIDER
+The cost items as earlier explained are composed of the fixed and
+variable costs. While the fixed cost include items such as salaries of
+staff, interest payment on loans depreciation on assets, taxes and
+rents on land. The items of variable cost include payments for casual
+labor, feeds, fingerlings, fuel and other consumables.
+In a typical fish farm, the fixed arid variable cost items are outlined
+below.
+
+      A) Fixed cost items.
+      *     Land (purchase) taxes and rents)
+      *     Pumps/tanks and accessories and ether farm
+      equipment.
+      *     Farm structure (buildings, pond structure, etc)
+      *     Brood stock acquisition
+      *
+      *     Interest payment on loans,
+      *     Depreciation on assets.
+
+     B) Variable cost items.
+      *      Fish seed/Feed/Medication
+      *      Fertilizers/manure/lime
+
+
+
+                                  20
+       *      Casual labor/maintenance wages.
+       *      Transportation maintenance {fuel, etc)
+       *      Consultancy cost where necessary.
+       *      Other consumables.
+
+
+8.0 FARM BUSINESS ANALYSIS
+This is often used to show the levels of cost, return and profit that
+accrue to a fish farm. The profitability of each option is determined to
+show the strength and weakness of any acuaculture system. It is the
+difference between the total revenue and total cost of production. The
+revenue include items such as fish sold, harvest consumed at
+home/farm, those given as gift and change in inventory.
+Below (Table 6) is an empirical cost and returns analysis of a typical for
+a two-fish combination under polyculture- This could also be dune for
+the monoculture and multi-species combination in polycultur. Based
+on the assumption that the two-fish types have been accepted as the
+most feasible. Other profitability ratios can then be derived. Of course it
+could be derived for the other aquaculture types and comparison
+made. These could be used to determine the efficiency of the
+enterprise chosen.
+These ratios serve different purposes on the farm. For instance, if a
+farmer uses labour on hired basis, the rate of return on operating cost is
+very essential. These indicators are useful for both the fish farmers and
+other stakeholders in the fishing industry -
+
+The cost and returns analysis is not static; consideration should be
+given to some of the variations and interactions of factors affecting
+production and profit.
+
+
+
+                                    21
+        Table 6
+         Cost and Returns of Tilapia-Clarias combination in a Poly-culture System.
+
+   No                   Item                          Tilapia – Claris             % of Total
+                                                                                   Cost
+   1      Cost                               Unit    Quantity      Value
+                                             price
+                                             (N)
+   A.     Operating Cost
+          Labor                                120 126 Man-days          15,000        12.4
+          Feed                                  5      2600kg            12,500        10.3
+          Seed/fingerlings                       -        -                 -           -
+              Tilapia                           5     2,400 No           12,000        9.9
+              Clarias                           15    3,000 No           45,000        37.3
+          Fertilizer                            30     400kg             12,000        9.9
+          Lime                                   -        -                 -           -
+          Other                                  -        -                 -           -
+          Total Variable Cost                    -        -              96,500        80.0
+          Fixed Cost                             -        -                 -           -
+   B      Salaries                            2,000  12 months           24,000        19.9
+          Depreciation                           -        -                 -           -
+          Taxes                                  -        -                 -           -
+          Interest Payment                       -        -                 -           -
+          Total Cost                             -        -              120,500       100
+   2.     Production and Revenue Output
+                Tilapia                        20         600            12,000           -
+              Clarias                          100        1200           120,000          -
+          Gross Income                          -           -            132,000          -
+   3      Profitability
+          Net Income (132-120.5) ‘000                                    11,500
+          Rate of Return on Investment                                    9.5%
+          Rate of Return on Operating cost                               11.9%
+          Production per man day                                         14.4Kg
+          Value of production per man -day                               N1056
+
+
+9.0 INVESTMENT ANALYSIS
+
+For a sound decision to be made a good analysis of records and data
+on the farm is necessary. We shall consider a farmer who is trying to go
+into either monoculture or polyculture practices for better
+understanding. He has to determine how profitable the venture would
+be and then make a choice. Below are the various profitability
+measures, which he can use.
+
+
+
+                                                     22
+9.1 Payback Method: -It is simply the time taken for expected
+enterprise to fully recover the initial investment. In order words, it is the
+time taken for the investment choice to fitly pay the exact amount
+invested in the project. Depreciation. interest and tax charges are
+usually not included in this computation. For example, consider the
+options shown in Table 7 below. The payback time is 5 years for option
+I, since by end of the fifth year enough cash has been generated to
+recover the initial investment of N 2,900.00 with N 600.00 to spare. For
+option ll, the payback time is 3 years. By the end of 3 years enough
+profit has been made to recoup the initial investment ofN2,900.00. With
+regards to option 111, (Tilapia-Bargus-Clarias) the payback time is 6
+years. The payback method is useful for closing the project, which
+repays the initial investment in the shortest time. According to this
+method therefore, Option II(Tilapia — Clarias) is preferable as the initial
+investment is recovered within 3 years as against 5 years for option I
+(monoculture of Tilapia) and 5 years for Option (polyculture of Tilapia-
+Bagrus Clarias). Payback period method builds on the need to avoid
+risk by valuing early returns highly. But then, returns beyond the
+payback period are ignored, hence some very profitable opportunities
+may be forgone.
+
+      Table 7: Illustration of Payback Periods for different stocking combinations
+                                  Option        Option II         Option III Tilapia
+                                  Tilapia       Tilapia-Clarias   Bargrus-Clarias
+                                          N              N                     N
+         Year 0                       (2,900)         (2,900)               (2,900)
+         Year 1                         700            1,000                  510
+         Year 2                         700            1,000                  510
+         Year 3                         700            1,000                  510
+         Year 4                         700            2,000                  510
+         Year 5                         700            2,500                  510
+         Year 6                         700              0                    510
+         Year 7                         800              0                    510
+         Year 8                         900              0                    450
+         Year 9                           0              0                    510
+         Year 10                          0              0                    900
+         Cumulate Net Cash Flow        3000            4,600                 1,000
+
+
+
+                                                23
+The other advantages of this method are;
+a.    It is a simple cash flow, easily understood by farmers
+b.    It values early returns and keeping liquidity (cash at hand) in a
+      situation of cash storage
+c.    Projects needing small capital outlays that payback early in their
+      expected life are easily identified without spending much time
+      on more complex studies
+d.    It helps to isolate poor projects that have a long pay back time.
+e.    This method helps in a situation where a risky project needing
+      quick recovery of fund is concerned. It thus saves time by
+      automatically accepting or rejecting many possible
+      investments.
+Nevertheless, one of the major disadvantages of this method is that it
+does not take into account the time value of money.
+
+9.2 The Peak-Profit Method:
+This involves presenting the level of profits in the best year as a
+percentage return on the sum invested. Using the figures in Table 7 for
+Option Il, (Tilapia), the highest profit was obtained in the 8th year
+(N900.00) which is 3% of the original investment. For Option (Tilapia-
+Clarias) and Ill (Tilapia-Bagrus-Clasias) their peak-profit was 51.0%
+(5 year) and 20.4% (10 year) respectively. Therefore Option II (Tilapia-
+  th                    th
+
+
+
+
+Clarias) with the highest peak profit is preferable to the other options.
+
+This method assumes that peak profit is a reliable guide to average
+profitability of a project. The use of this method has some
+disadvantages though. Some projects reach their peak profit early
+while it may take a considerable time for others. A project with a low,
+early and consistent profit that give higher profit later can be a good
+option as early profit may be re-invested. Therefore, overall profit
+maximization may likely involve more than maximizing peak profit.
+
+
+                                   24
+9.3 Net Present Value
+This is sometimes called excess present value. It is the present value of
+future net cash in flows minus the initial capital cost. That is, the
+present value of the surplus profits expected after repayment of
+principal and interest. This is based on the understanding that a Naira
+today is better/higher than a Naira tomorrow. Consider the three
+options with an initial capital outlay of N 2,900.00, and the streams of
+incomes as shown in columns 2,4 and 6 in Table 8. If the streams of
+profit are capitalized i.e exchanging the streams of future receipts for a
+single, discounted value, we can then compare the projects more
+easily.
+
+Given some time preference rate, each year’s net cash flow can be
+reduced to a present value by multiplying it by l/(l+r) Where r = Interest
+                                                     n.
+
+
+
+
+Rate and n is the year considered. This process is known as
+discounting. This may be difficult to calculate using the above formula.
+Luckily there are tables which gives the value of 1/(1+r) for a wide
+                                                             n
+
+
+
+
+range of values of r and n. The figure obtained is known as the discount
+factor. The present values of all the annual net cash flows can then be
+summed up to give the Total Present Value. If the initial investment is
+subtracted from the total present value, the result is called the Net
+Present Value (NPV).
+
+For example, assuming that the three aquaculture projects with initial
+capital outlay of N 2,900.00 gave different returns (profit) for different
+years as outlined in Table 8, the Net Cash flows have to be brought to
+their present values (discounted). These values can then be compared
+and a choice made depending on how favourable the venture to be
+chosen is. This has been done and presented in Table 8 below,
+
+
+
+
+                                   25
+   Table 8 Net Present Value (NPV) of three aquaculture system
+      Year            Discount   Project 1 Tilapia            Project II Tilapia-          Project III Tilapia
+                      factor                                  Clarias                      Bagrus-Clarias
+                      20%        NCF          PV              NCF           PV             NCF           PV
+      0               1          2            3=1x2           4             5=4x1          6             7=6x1
+      1               1          (2900)       (2,900)         (2,900)       (2,900)        (2,900)       (2,900)
+      2               0.8333     700          583.31          1,000         833.3          510           424.98
+      3               0.5787     700          405.09          1,000         578.7          510           295.14
+      4               0.4823     700          337.61          2,000         964.6          510           245.97
+      5               0.4019     700          281.33          2,000         803.8          510           204.97
+      6               0.3399     700          237.93          -             -              510           173.35
+      7               0.2791     700          195.37          -             -              450           125.60
+      8               0.1938     800          186.08          -             -              510           118.63
+      9               0.1615     -            -               -             -              900           174.42
+      10              0.1615     -            -               -             -              700           113.05
+      Cumulative NCF                 2,800           NA           4,100             NA         2,020             NA
+      Total Present Value             NA          2,712.8          NA            3,071           NA        2,230.25
+      Less Initial Investment         NA          2,900.00         NA           2,900.00         NA        2,900.00
+      Net Present Value               NA           -187.2          NA             171            NA        -669.75
+
+
+PV = Present Value
+NCF=Net Cash Flow
+
+When the training of the net cash flow is accounted for, it is clear that
+only Option II (Tilapia-Clarias) can repay the capital cost with an
+interest of 2O percent in ten years. Option II is the most favored and
+therefore chosen. In this case an average of 20% has been used for
+explanation purposes. Using a discount factor of say 16 per cent may
+show a different picture of the options. It is worthy to note that a
+reasonable discount rates that takes the rate of inflation and interst
+into consideration is preferred. This is because different rates
+give.different ranking between projects. It should-be noted that when
+using the Net Present Value, a negative figure shows that the project
+considered is not worth investing in but if a choice must be made the
+one with the lowest negative value is chosen. The major disadvantage
+
+
+                                                             26
+ of this is its inability to give an adequate indication of what choice to
+make in the case of different options. Another simpler tool that could be
+used is the Benefit cost ratio. It shows the ratio of the accrued benefits
+of the project to the expended funds. A ratio of less than one shows that
+the project is not viable.
+
+9.4 Internal Rate of Return (IRR)
+
+This is perhaps the most commonly used method of capital investment
+analysis. It considers net earning over the entire life span of the
+investment. Simply put, it is the rate at which the net present worth of
+the cash flow equal zero. It could be represented mathematically using
+our example in Table 8, we can calculate the IRR which could be
+termed a response to a question in the mind of the investor. This
+question is, what interest rate will this option (II) earn considering the
+fact that it has a positive Net Present Value that is highest among the
+three options? We equally have a question such as what is the earring
+power of the money invested in this option? This is termed IRR. It is
+calculated using the following method (It uses two discount factors as
+follows).
+
+IRR=Lower discount rate+ Absolute difference                  (Present worth of cash
+between the two flow at the lower discount rate) Discount rates       (Absolute
+difference between the present worth of the cash flow at the two discount rates)
+                                   = 10+6(2,194.6)
+                                            (786.8)
+                                   = 26.7
+                                   = 27%
+
+
+
+
+                                         27
+The IRR for the Tilapia-Clarias project is therefore 27%. The major
+advantage of this is that the outcome of this analysis is often stated in
+percentages. The actual rate of returns as could be seen is that found
+by an interpolation between discount rate to say 10 per cent or by
+increase it to 25 per cent as deserved. The implication of the result
+above is that every naira invested in the project will generate 27k.
+The IRR for Options I and III, are 18% and 14% respectively using the
+above formula and thus confirming our earlier choice using other
+methods. It should be noted that, it is usually a project that has an IRR
+above the cost of borrowing of capital that is accepted, Projects are
+ranked in order of the value of IRR. It is not that this method is error
+proof, but major problems that could arise due to trial and error can be
+overcome especially by using good electronic calculators. Another
+problem is that of over simplification in assuming a uniform return that
+is constant over a period of time and constant inflation rate that is dealt
+with through the process of discounting.
+
+
+
+
+                                    28
+10.0 CONCLUSION
+
+Fish culture is an interesting enterprise that can be highly profitable.
+Prospective investors should know the basic investment analysis that
+will guide them in taking decision. This is what this bulletin has tried to
+provide, With detail preparation of feasibility of projects, financial
+institutions and some non-governmental organization will have
+adequate information to assist prospective fish farmers. It is hoped that
+the information in this bulletin will go a long way in helping fish farmers
+to keep production and financial records for sustainable and profitable
+enterprises.
+
+
+
+
+                                    29
+                               BIBLIOGRAPHY
+
+Amos T. T. (2000). Sustainable Fish Culture Practice in Kano Stale
+     Nigeria: An Economic Analysis. Unpublished Ph.D thesis. Dept
+     of Agric. Econs ABU., Zaria. 120p
+
+Bolorunduro P.I. and .J. Awelewa (1994). Fishpond Sit Selection and
+      Construction. NAERLS Extension Bulletin No.98 Fisheries
+      Series No.2 20p
+
+Bolorunduro P.I.      and A. Abdullahi (1996)   Water Quality
+      Management in Fish Ponds. NAERLS Extension Bulletin No 98
+      Fisheries Series No 3.52p
+
+Norman Hilton. (1983). Farm Planning in the Early Stages of
+     Development FAO Agricultural Services Bulletin No 1.105p
+
+Olukosi, J O. and Erhabor P.O. (1987). Introduction to Farm
+     Management Economics. Agitab Publishers Ltd, Zaria. 95p
+
+Shell, E. W. (1983). Fish Farming Research. Alabama Agricultural
+       Experiment Station. Auburn University, Alabanta. 108p.
+
+Yung C. Shang. (1981). Aquaculture Economics: West view Press,
+     London. 153p.
+
+
+
+
+                                30
+

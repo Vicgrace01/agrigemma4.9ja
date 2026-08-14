@@ -1,0 +1,853 @@
+             FISH CULTURE IN PONDS
+
+
+
+                 Extension Bulletin No. 103
+
+
+                    Fisheries Series No 4
+
+
+
+
+                       Published By
+
+
+
+
+National Agricultural Extension And Research Liaison Services
+   Federal Ministry of Agricultural and Natural Resources
+                  Ahmadu Bello University
+                     P.M.B. 1067, Zaria
+                           Nigeria.
+
+
+                            1999
+                        ACKNOWLEDGEMENT
+
+        Relevant scientific information pooled together for this bulletin were
+sourced mainly from the National Institute For Freshwater Fisheries Research
+(NIFFR) New Bussa, special thanks go to NIFFR’s for assistance in providing
+the needed results of their research work. Other authors indexed in the
+bibliography are greatly acknowledged.
+        The support of the Director and Management of NAERLS, the
+painstaking work of the Publication Review Committee of NAERLS, and the
+efforts of the Publication and Publicity Programme all combined made this
+bulletin production possible.
+
+
+
+                              Bolorunduro P.I.
+                             TABLE OF CONTENT
+      Acknowldgment................................................................          2
+      Table of Contents...............................................................       3
+1.0   Introduction........................................................................   4
+2.0.  Pond Culture Systems........................................................           4
+      2.1.    Construction design..............................................              4
+      2.2.    Level of Management Input..................................                    8
+      2.3.    Fish culture practices............................................             8
+      2.4.    Scale of production...............................................             10
+3.0.  Commonly cultured fish species......................................                   10
+4.0.  Site Selection....................................................................     13
+      4.1.    Homestead Fish pond............................................                13
+      4.2.    Commercial Fish Farm..........................................                 13
+5.0.  Land survey and fish farm design.....................................                  15
+6.0.  Hints on pond construction..............................................               16
+7.0.  Pond Fertilization..............................................................       17
+8.0.  Stocking............................................................................   18
+9.0.  Liming Practices...............................................................        21
+10.0. Feeding pond fish.............................................................         24
+11.0. Control of diseases/predators..........................................                26
+12.0. Cropping/Harvesting pond fish........................................                  28
+13.0. Keepng farm records.......................................................             29
+      Bibliography......................................................................     31
+
+
+
+
+                                                    2
+1.0. Introduction
+Fish culture involves the controlled cultivation and harvesting of fish for either
+family consumption or sales in the market. Although fish culture is over thirty
+years old in Nigeria, it is yet to develop relatively when compared with arable
+agriculture and livestock production.
+A wide range of practices exist in culturing fish. Fish can be cultured in marine
+(sea water), brackish (mixture of sea and freshwater i.e. lagoons) or freshwater
+(rivers, streams and lakes in the inland), Depending on the facilities designed
+to serve as enclosures in rearing, fish can be grown in earthen ponds, concrete
+tanks, cages, pens, or run-ways. The level of mangement practices can make a
+fish farm to be extensive or intensive system. When species combinations are
+taken into consideration, culture systems can be either monoculture (rearing
+only one type of fish) or polyculture (rearing two or more species of fish
+together).
+A fish pond is an enclosure (earthen or concrete) built to retain water for the
+purpose of growing fish. Wooden troughs, fibre glass and plastic tanks are
+other media of growing fish. Growing fish in ponds from which they cannot
+escape allows feeding, breeding, growing and harvesting of the fish in a well-
+planned way.
+
+2.0. POND CULTURE SYSTEMS
+Fish ponds can be classified mainly using the following criteria:-
+       (a)     Construction design
+       (b)     Level of management input
+       (c)     Fish culture practices
+       (d)     Scale of production
+2.1. Construction Design
+       1.      Earthen Ponds: These are constructed by digging soil in a
+               carefully selected site that is good enough to retain water for
+               fish culture. (Figure 1a) Where the soil structure is weak to
+               retain adequate water, dug out earthen ponds can be reinforced
+               with concrete to make it suitable for fish culture.
+                                        3
+2.   Conrete/Embarkment Ponds: These are pond constructed on
+     the ground, that is above the ground surface with concrete wall
+     (Fig. 1b). Concrete ponds can be used to raise fish in a place
+     with porous or sandy soil or within living premises.
+3.   Barrage Ponds:         This is a type of pond constructed by
+     building a wall across a stream running in a low valley. The
+     wall ensures enough water retention for fish growth (Fig. 1c)
+4.   Diversion Ponds:       Ponds supplied by water diverted from a
+     river/stream through a channel are called diversion ponds.
+     Such pond, is also known as Relief Pond (Fig. 1d)
+5.   Rosary Ponds:        These are ponds built in a string and each
+     drains into the other and are all managed as a single unit due to
+     their water connection.
+6.   Parallel Ponds: These are ponds located in an area with each
+     having its own inlet and outlet. (Fig. 1f).
+
+
+
+
+               Figure 1a: Earthen Ponds
+
+
+
+                            4
+         Fig 1b: Concrete Ponds
+
+
+
+
+Fig 1c: Barrage Ponds
+
+
+
+
+    Fig 1d: Diversion Ponds
+
+                   5
+Fig 1e: Rosary System Ponds
+
+
+
+
+    Fig 1f: Barrage Ponds
+
+           6
+2.2. Level of Management Input
+Depending on the level of management inputs, especially in feeding,
+fertilization and liming, pond culture systems can be classified as Extensive,
+Semi-Intensive or Intensive.
+1.       Extensive Culture System:               When food base in a pond is
+exclusively naturally occcuring without supplementation ( either by feeds or
+fertilizer), the culture system is an extensive one. This practice is popular with
+small-scale producers
+2.       Semi-Intensive Culture System           In this system, there is
+occasional supplementary feeds addition and natural productivity is
+augumented with manures.
+3.       Intensive Culture System               This demands a higher level of
+management input. Feeds and fertilizers are intensively applied following
+appropriate recommended rates. Suitable liming materials like agricultural
+lime are also applied to stimulate productivity and disinfect the pond of
+parasite and diseases. Fish grow very fast when intensively managed and
+grow least in extensive management. Most commerical farms adopt this
+approach.
+4       Hyper intesive culture system: Th system demands the highest leel of
+management inpouts. Ths culture environment is completely under control.
+Feeding is totally with highly formulated pellets. Mechanical, and automoted
+feeders are used. The main features are intensive recyclatory with biofiltration
+tanks. Highest fish yield obtained in this system.
+2.2 Fish Culture Practices
+Pond can be classified as monoculture or polyculture.
+1.       Monoculture: This is the practice of culturing only one species of fish
+in a pond unit (Fig. 2a). Under monoculture, a farmer may grow only Clarias
+in the pond. He will be able to know more about the management of Clarias
+than other fish species.
+
+
+                                        7
+2. Polyculture: This is the practice of culturing more than one species of fish
+in the same pond. Fish yield under polyculture (Fig. 2b) can be higher and
+foods in the pond properly utilized, since the different fish species exploit
+food at different trophic levels.
+
+
+
+
+                                       8
+2.4. Scale of Production
+1. Homestead/Rackyard Ponds: This is a fish pond that is managed to
+augument family protein intake. The size of such a pond could vary according
+to land space available e.g. 10m x 10m.
+2. Commercial Fish Ponds/Farms: This , usually have an area of land not less
+than 0.25 hectare under culture. Such a farm will demand more attention from
+the fish farmer, since income generation is the major purpose behind its
+establishment. Concrete tanks units of not less than 200m can also be intensive
+                                                         2
+
+
+
+
+as commercial ventures.
+
+3.0. COMMONLY CULTURED FISH SPECIES
+Generally the purpose of rearing fish is to have enough to eat and generate
+additional income especially in commercial farms. Not all fish species
+perform creditably well in culture. For a profitable venture, the fish farmer’s
+ideal candidate species must have either of these qualities:-
+i.      Fast grower e.g. Heterobranchus
+ii.     Accept and utilize properly, supplementary feeds e.g. Tilapia
+iii.    Must be hardy and resistance to disease, e.g. Clarias
+iv.     Must be tolerant to poor water quality e.g. Clarias
+v.      The fish must be easy to breed in captivity. E.g. Tilapia
+vi.     It must attract low production cost (Tilapia/Clarias)
+vii.    Acceptable and marketable to consumers, e.g. Carp Clarias.
+
+
+
+
+                                      9
+TABLE:1 Commonly Cultured Fish Species in Freshwater Ponds in Nigeria
+
+ COMMON NAME                       SCIENTIFIC NAME
+ Tilapia*                      Oreochromis niloticus (Tilapia nilotica)
+                               Tilapia guineensis
+                               Tilapia melanopleura
+                               Sarotherodon galilaeus
+ Mud Cat-fish*                 Clarias (garinpinus)
+ Common Carp*                  Cyprinus Carpio
+ Spotted Cat-fish**            Synodontis filamentosus
+ Red mud cat-fish**            Heterobranchus bi-dorsalis
+ Niger perch * *               Lates niloticus
+ African bony tongue* *        Heterotis niloticus
+ Grey cat-fish* *              Chrysichthys nigrodigitatus
+ Trunk-fish* *                 Gymnarchus niloticus
+ African Carp* *               Bagrus bayad
+ Moon fish* *                  Labeo coubie
+ Cat-fish* *                   Citharinus citerus
+from the
+          Fingerlings readily available in hatcheries
+          Fingerlings not readily available in hatcheries, but can be collected
+           from the wild.
+Source – Ita E,O, 1989.
+
+
+     TABLE 2: Commonly Cultured Fish Species in Brackish Water
+     Ponds
+           COMMON NAME               SCIENTIFIC NAME
+
+              Flat head grey mullet *           Mugil cephalus
+              Tilapia*                          Tilapia Zilli
+                                                Tilapia guinensis
+                                                Tilapia melanotheron
+              Atlantic Tarpon * *               Megalops atlanticus
+
+              Ten Pounder * *
+              (West African Lady fish)          Elops lacerta
+              Grey Cat-fish * *                 Chrysichthys nigrodigitatus
+              African red Snapper **            Lutjanus agennes
+
+                     Fingerlings and feeds readily available
+                     Fingerlings not readily available in hatcheries but can
+                      be obtained from the wild.
+                     Source - Ita E.O. 1989.
+
+
+                                           10
+In Nigeria, certain fish species are found only in freshwater bodies (that is
+rivers and lakes) and do very well under culture (Plate 1). Some other species
+inhabit the marine environment, but can be cultured in brackish water
+(Lagoons and estuaries) (Plate 2).
+
+
+
+
+                     Plate 1.Fresh water fish species.
+
+
+
+
+                   Plate 2. Brackish water fish species
+
+
+                                        11
+4.0.   SITE SELECTION
+
+4.1. Homestead Fish Pond              For homestead fish culture, the house
+backyard is suitable. (Fig. 3). Earthen/Concrete pond can be used for this
+purpose. Soil at site of the earthen pond should be able to retain water.
+
+
+
+
+4.2. Commercial Fish Farm              In commercial fish farming, the first
+requirement is the choice of a suitable land for the establishment of the farm.
+Such a land must be sited near water with suitable topography for pond
+construction (Fig. 4). The water source can be river/stream, spring, well or
+borehole. The water must be free from pollutants. Water is the medium for
+culturing fish; as a result the supply of water must be guaranteed throughout
+the culture period. The topography of the land should not be too hilly or too
+flat. A slightly depressed marshy land that can retain water for a long time is
+ideal for pond construction.
+
+
+
+
+                                      12
+                   Fig 4. A typical fish pond in farmland.
+
+Soils that are too porous (sandy soil) or too clayey are not good for fish culture.
+In sandy soils, the water retention capacity is very low, while pond soil with
+high proportion of clay (above 40% composition) will be turbid
+(concentration of suspended solids). This is dangerous for fish. A suitable
+soil is that which has a good proportion of clay and loam (i.e. 40%:60%)
+simple test of soil for water retention includes the following:-
+1. Dig the soil to about 10cm deep and take a soil sample at that depth. Wet a
+handful of the earth with water and rub it on the palms. If it forms a continuous
+thread, then it can retain water and is good for fish pond construction (Fig. 5).
+2. Squeeze a little amount of the moist soil, if it holds shape, them it is good
+and suitable for pond (Fig. 5).
+3. A bucket full of water can also be poured into the dug hole. If the
+percolation rate (rate of disappearance of the water) is fast, (i.e. within 1min)
+the site is not good enough for fish pond construction.
+Soil experts can also be consulted for analysis in case of large scale farming
+with huge capital investment.
+
+
+
+                                        13
+                Fig 5. Testing good sol for Pond Construction
+
+
+5.0.    LAND SURVEY AND FISH FARM DESIGN
+            Once a suitable land has been acquired, it should be surveyed by a
+registered surveyor and a topographic map produced to permit the design of
+fish ponds and other structures.
+        The design of a fish farm varies with the nature of the land. If the slope
+is gentle enough (a good valley of 1:2 slope) to permit chanelling of water
+from the stream or river into the farm, the construction of a storage reservoir
+may not be necessary. In most gentle sloping valleys, channelization may not
+be practicable hence it might be necessary to block the course of water in order
+to raise the water level. This is to permit diversion of water into ponds lined
+along (parallel to) the course of the river or stream. Such a dam may not
+necessarily form a stroage reservoir suitable for fish production because of the
+fast flowing nature of the river during the flood season and the difficulty of
+screening off the fish.
+
+
+                                       14
+  Fig 6. Small vallyes with gentle slope have excellent potential for pond
+                               construction
+
+6.0.    HINTS ON POND CONSTRUCTION
+          After conducting a feasibility study and planning on the type and size
+of pond to build on the site selected, construction work can start (refer to
+NAERLS Bulletin Fish Pond Site Selection and Construction for details).
+Depending on the nature of the surrounding land, the construction could be
+manual or mechanical. In marshy lands, the use of heavy aquipment is not
+advisable. The is due to the risks and difficulties of using such equipment in
+those kinds of terrain. Construction of a large farm may require the services of
+an Aquaculture Engineer or a Technical expert from any Fisheries institution.
+        The main parts of any fish pond to be constructed are the dam walls
+(dikes), the water inlet and outlet system (Fig.7). Pond dikes must be well
+compacted to prevent leakages. Concrete ponds are preferable in areas where
+the soil is too sandy for earthen ponds or enough land is not available or the
+pond is required within the living premises. Cost of construction of concrete
+ponds vary with the size of pond, location, availability and cost of labour,
+source of water and cost of inputs such as cements, sand, gravel, plastic pipes,
+solid blocks, etc.
+
+                                      15
+7.0.    POND FERTILIZATION
+           Two types of fertilizers can be used for pond fish culture. These are
+organic manures and inorganic or agricultural fertilizers. Application rates of
+these fertilizers are shown in Table 3.
+Fertilizer helps in enriching water nutrients for plankton production on which
+fish feed. There should be regular application of fertilizer to keep the water
+colour green. Bright green colour incates that the pond is fertile (rich in
+organic nutrients).Deep green colour of ponds water indicates over fertility. A
+farmier should guide against excessive fertilizer/manure application. To
+avoid depletion of dissolved oxygen in pond water The consequence of such
+is massive fish death.
+
+
+
+
+                                      16
+   TABLE 3:    Recommended Fertilizer Application Rate in Ponds
+      FERTILIZER TYPE       APPPLICATION                       COMMENTS
+                            RATE
+    ORGANIC
+    1. Cow Manure           500kg/ha/month              3,000kg/ha to be applied to bottom
+                                                        of new ponds before filling, if
+                                                        possible.
+    2. Poultry Manure       112-224kg/ha/wk             Or 1,000 ducks per ha. In combined
+                                                        culture or 350 layers per ha.
+                                                        Or 100 pigs/ha at ratio of 1:3 males
+    3. Pig Manure           560-1680kg/ha/week          to females in combined culture.
+
+    INORGANIC
+    1. Basic slag (15% of       36kg/ha/month            To be applied one week after
+         0
+       P2 5)                                             application of lime.
+    2. Triple Super
+       Phosphate (T.S.P)        60kg/ha/month            Applied twice monthly
+
+    3. Ammonium Sulphate        300-400kg/ha/month       Applied twice monthly
+       (A.S.)
+                                                         To be applied monthly for four
+    4. Mixture of TSP and     133-238kg/ha/month         months
+    A.S.
+         Source - Ita E. O. 1989.
+
+
+
+
+8.0.    STOCKING
+Stocking is the introduction of fish (fingerlings or adult fish) into the new pond
+environment. Two sources of stocking are possible. Fish can be collected
+from the wild (rivers, streams, lakes, etc) or from hatcheries/existing fish
+ponds where fish are already adapted to culture condition. The closer the
+source of getting the fish to the pond, the better; to reduce to the bearest
+minimum fish mortality during transportation. Fish should be collected with
+the water of the environment they have been used to. Hardy fish species like
+Clarias and Hetero branchus can be transported in plastic basins over a short
+and fair distance (Fig. 8). For longer distances, fish fingerlings should be
+transported in polythene bags containing water and oxygen (Fig. 9).
+
+
+                                              17
+              Figure 8. Containers for fish transportation
+
+
+
+
+    Fig 9. Polythene bag filled with water and oxygen used for fish
+                             transportation
+
+Test stocking (pre-stocking) should be practised by introducing few
+fish into the new environment. Test stocking period range from two days to
+
+
+                                   18
+one week. If the fish survive well, then the pond can be fully stocked.
+        Recommended stocking rate of fish (ratio of one species to another or
+male to female) and stocking density (number of fish per square metre of pond
+water) to avoid over-crowding, should be practised.              This will ease
+management problems and enhance the success of the fish culture. Some
+combination of fish under culture in Nigeria are shown in Table 4.
+
+     TABLE 4: Species Combination and Recommen ded Stocking Rates (Fingerlings) per
+     hectare.
+                                        Freshwater            Brackish Water
+
+1.     MONOCULTURE
+          Tilapia spp.                        10,000 - 20,000          10,000 - 20,000
+          Clarias (mudfish)                    3,000 - 5,000                  -
+          Heterotis                              500 - 1,000                  -
+          Carp                                  3,000 - 6,000                 -
+          Migil species                               -                10,000 - 20,000
+          Grey Cat fish                         7,000 - 8,000                 -
+       2. POLYCULTURE
+          Tilapia + Carp                       2,000 – 3,000+2500                -
+          Tilapia + Clarias                   40,000- 6,600                      -
+          Tilapia + Tarpon                           -                    6,000 + 4,500
+          Tilapia + Mulet                             -                    8,000 + 10.000
+          Tilapia + Mugil                             -                  10,000 + 10,000
+          Tilapia + Mugil +                           -
+          Grey Cat Fish                               -                  10,000 +2,500+1,000
+
+     Source: DFRRI 1988 Note stocking density can be quite higher under intensive recycling
+     system
+
+
+
+
+                                                  19
+9.0.    LIMING PRACTICES
+        (a) What is Liming?
+        Liming is the process of application of agricultural/industrial limes to
+        fish ponds. If pond soils/or water are not acidic, liming may not be
+        necessary. Soil and water may be tested in a laboratory or with a water
+        analysis kit to determine whether liming is required.
+
+         (b) Why Should A Pond Be Limed?
+                 Liming of fish ponds is important for the following reasons:-
+1.   Lime corrects the acidity of pond water to the suitable PH range(Hydrogen
+     Ion Concentration). A of 5 – 9 is considered suitable for fish gro
+2.   Lime makes available phosphorus added in fertilizer for plant use.
+     Phosphorus promotes the growth of algae (the microscopic plants) which
+     are the base of natural fish food production in ponds.
+3.   Lime acts as disinfectants of pond bottom, especially in newly constructed
+     ponds or ponds in fallow.
+4.   Lime helps in reducing water turbidity i.e. in settling soil particles in
+     muddy ponds.
+
+        (c) How to Apply Lime
+        Lime can be applied to pond bottom before impoundment (in filling
+        with water) or to a flooded pond.
+        Pre-Impoundment Application
+        The following steps should be followed in applying lime to a
+        prepared pond.
+i. If lime is in lumps, break the lumps to fine powder by matching on the
+     bag.
+ii. Spread the lime evenly on the pond bottom (Fig. 10)
+iii. A disc harrow or rake can be used to mix the lime with the pond soil
+     manually.
+
+
+
+                                      20
+Precaution
+1. Wear protective clothes and shoes (preferably rain boots) in applying
+   lime to pond bottom.
+2. As much as possible, avoid inhaling the lime dust. This is dangerous to
+   health.
+3. After application, take a bath.
+
+Post-Impoundment Application.
+If the pond is already infilled with water, then take the following steps.
+1. Tie the mouth of the sack containing the lime material.
+2. Tie the bag to a pole and allow the lime to sip freely into water (Fig.
+     11).
+3. After about 48 hours (2 days) retrieve the sack from the pond. By this
+     time, the lime material must have sipped completely into the pond.
+
+
+
+                                    21
+(d) Liming Materials Good For Fish Ponds
+These include:-
+1. Limestone/Agricultural lime – CaCO    3
+
+
+2. Caustic/slacked or hydrated lime - Ca(OH)    2
+
+
+3. Quicklime – CaO
+Agricultural lime is the best liming material for fish pond. It is also the
+cheapest and readily available. They are by-products of cement factories and
+can be obtained from such places.
+(e)     Liming Rates
+The recommended liming rate using agricultural lime is shown below in Table
+5.
+
+
+
+
+                                    22
+TABLE 5: LIMING RATES OF POND USING AGRICULTURAL LIME
+
+  SOIL TYPE            NEW PONDS                   OLD PONDS
+
+  1.   Clay soil       1680 - 2240kg/ha/year       1120kg/ha/year
+
+  2.   Sandy soil      1120 - 1680kg/ha/year       560 - 1120kg/ha/year
+
+
+       Source: DFRRI (1988)
+10.0. FEEDING OF POND FISH
+Fish feed on a variety of foods. These include food produced from the natural
+pond environment and feeds given as supplement to the pond.
+
+ (a) Natural Fish Foods
+Living organisms are natural fish foods and they are produced in the water
+where the fish live.       Phytoplankton (microscopic plants), zooplankton
+(microscopic animals), and large aquatic organisms like insects, crustacea,
+molluscs, and aguatic plants are all examples of natural foods (Fig. 12)
+Fertilization increases their abundance..
+
+
+
+
+             Fig 12. Lager aquatic organisms consumed by fish
+
+
+                                     23
+ (b)Supplementary Feeds
+When natural foods are not availanble in sufficient quantity to provide
+adequate nutrition for fish growth, feeds that are manufactured or grown
+outside of the fish pond may be fed at regular intervals (daily, weekly, etc).
+These feeds supplement natural foods. Supplementary feeds should include
+finely divided artificiel food like egg yoke, bloodmeal, fish meal, shrimp
+flour, bean flour, oil cakes, bone meals, cereal brans, etc. Adult fish prefer
+feeds available in pellet form. Sinking pellets are more suitable to bottom
+feeders like Clarias and Heterotis spp., while for Tilapia, floating pellets are
+suitable. Pelleted feed of not more than 3.2mm in diameter is suitable for fish
+species. It is recommended to feed fish with pellets since the whole nutrients
+in the food will be readily taken by the fish. Good quality feed for fish
+farming purpose should have the following proximate composition.
+                 -       Protein      -          35%
+                 -       Minerals and Vitamins 32 – 33%
+                 -       Fat          -          11%
+                 -       Carbohydrate             6 - 10%
+Feed ingredients should be free of toxicants, e.g. Haemagglutinins in raw
+soyabeans and Gossypol in cotton seed meal. These toxicants can be removed
+by roasting the feed stuffing redients. The following are hints for feeding fish
+in ponds:
+1.      In polyculture, the feeding habits of fish species stocked should be
+        considered. A combination of species like Tillapia, Clarias and
+        Heterotis in the same pond will require sinking and floating
+        pellets/crushed meals.
+2.      Feed fish at definite points in the pond. This will make the fish to
+        respond more to feeding spots.
+3.      Feed fish on daily basis – best times are morning before 7.00 am and
+        evening around 6.00pm. Irregular feeding will retard the growth rate
+        of fish.
+4.      Avoid overstocking of pond with feeds. Overstocking can result
+
+
+                                      24
+in water pollution and death of fish. Feed fish according to the recommended
+rates.
+The recommended feed formular in preparing varying percentages of rich
+protein feeds is as shown in Table 6.
+Table 6:        Feed Formulae for Preparing Feeds of Various Crude Protein Levels
+
+                Using Locally Available Feed Ingredients.
+
+  %         Palm     Corn Bran    Rice Bran   Fish          Soya    G/nut     Total
+  Crude     Kenel    (kg)         (kg)        Meal          bean    Cake      Weigh
+  Protei    Cake                              (kg)          Meal    (kg)      t (kg)
+  n         (kg)                                            (kg)
+  20        45.30    45.30        -           3.1           3.1     3.1       99.99
+  20        -        35.80        35.80       -             11.20   11.20     100.00
+  35        -        24.0         24.0        17.3          17.3    17.3      99.99
+  40        21.2     21.2         -           19.2          19.2    19.2      100.00
+Source – NIFFR 1989. Annual Report..
+
+
+11.0       CONTROL OF DISEASES AND PREDATORS
+           (a) Common Fish Diseases
+               Fish diseases       are caused mostly by fish parasites.
+               Maintaining a hygienic pond environment is the best
+               preventive method of checking diseases outbreak. Diseases
+               can occur in fish pond due to:-
+               1.     Overcrowding, i.e. high density stocking.
+               2.     Poor water quality resulting in fish kill
+               3.     Erratic feeding practices. Starved fish are highly
+                      susceptible to diseases attack.
+               4.     Intrusion of predators into the pond. Most predators
+                      act as intermediate host to fish parasites.
+               5.     Over fertilization of pond water leading to high density
+                      algal bloom can reduce the amount of dissolved
+                      oxygen (DO), affecting fish health.
+
+                                              25
+               Broadly, diseases can be classified into:-
+               i.     Bacterial and viral
+               ii.    Fungal
+               iii.   Protozoan
+               iv.    Worms
+               v.     Crustacean
+               vi.    Environmental, and
+               vii.   Nutritional
+(A) Fish Fredators
+Predators are natural enemies of fish. Common fish predators that should be
+prevented from causing fish losses in ponds include water snakes, turtles,
+frogs, water birds (king fisher and water duck, etc), crocodiles, crabs, etc.
+Wild carnivorous fish intruding into ponds are also predators and as such
+should be prevented.
+       1. Ensure regular clearing of pond site. Predators hide in bushes.
+       2. As much as possible, the farmer should fence the pond site.
+       3. Most aquatic predators get into the pond through flood water.
+       Measures should be taken to protect the pond from flood water.
+       4. Hunt the predators, using traps or point blank killing.
+Common fish diseases, causative factors or agents, symptoms and treatment
+recommended are highlighted in Table 7.
+
+
+
+
+                      Fig. 13 Some common Predators of fish
+
+
+                                      26
+   Table 7: Common Fish Diseases, Causative Agents, Symptoms and Recommended Treatment
+DISEASE              CAUSATIVE                SYMPTOMS             TREATMENT
+                     FACTOR/AGENT
+1. Bacterial
+   Infectious        Pseudomonas Puntata      Swelling of belly    Antibiotic such as
+   abdominal dropsy                                                chloramphenicol. 1gm/kg of
+   (I.A.D.)                                                        feed or 5ml injection
+
+
+2.   Fungal
+a)   Gill or              Branchimyces            Red spots on the gill      Avoid dense stocking.
+     Branchiomyiosis      anguimis                                           Remove affected fish.
+                                                  Appears as fussy,          Isolate the fish and treat
+b) Saprolegnia            Saprolegnia             grey whitish               with CuS04 dust.
+   infection                                      blotches on skin
+
+
+3.   Protozoan
+     Ichtyophthirriasis   Icthyophthirius         Red patches on gill        Difficult to treat when
+                                                  & skin                     parasites are in the dermis.
+                                                                             Drain & lime the pond.
+4.   Worm Diseases
+a)   Fish Leeches         Piscicola geomatra      Skin covered with          Drain the pond. Put fish in
+                                                  the leach cause            solution of 1m1 Lysol and
+                          Dactylogyrus vastator   excessive weakness         5l of water for 5 seconds.
+b)   Fish Fluke                                                              Drain the pond. Treat fish
+                                                  Gills swells and turn      in salt solution of 25gm per
+                                                  grey                       litre of water for 10 seconds.
+5.   Disease Caused.
+     By Crusacean
+     Argutus Infection    Argutus foliaceus       The string of the          Drain and lime pond. Treat
+                                                  fish lice cause red        fish in solution of KMn04
+                                                  patches on the fish        or Lysol both 1gm/1tr. Of
+                                                  skin                       water for 40 seconds.
+6.   Environmental
+     Diseases                                                                    Apply 500kg of a
+a)   Acidic water         Low PH below 5          Fish skin covered with         CaCo3ha/ha of pond.
+                                                  whitish film, gills turn
+                                                  brownish. Mortality of
+                                                  fish
+                                                                                 Apply lime in a
+b) Alkaline water         High PH above 9         Mortality of fish              sufficient quantity
+                                                                                 according to PH level.
+
+                                                                                 Drain pond and change
+                                                                                 water
+b) Low DO                 Asphyxia                Fish regularly come out
+                                                  to gasp for atmospheric        Aerate the pond if
+                                                  air.                           device is available or
+                                                  Mass mortality of fish         flush fresh water by
+                                                  with wide open mouth           high velocity into the
+                                                  and gillss wide apart.         pond
+                          Enteritis               If abdomen is pressed          Use balance diet fed
+7.   Nutritional                                  lightly a yeloow-red           with high proportion of
+     Disease                                      liquid flows from the          protein or vitamin to
+                                                  anus Intestine is red          correct nutritional
+                                                  congested and highly           deficiency.
+                                                  inflamed
+
+
+
+
+                                                     27
+12.0. CROPPING (HARVESTING) POND FISH
+      In fish pond culture system, three types of cropping are practised in
+      routine management.
+      (a)     Test cropping
+      (b)     Partial harvest
+      (c)     Total pond harvest
+      (A) Test Croping: Fish pond should be test cropped routinely to
+      monitor fish growth and health. After examination, test cropped fish
+      should be returned to the pond water. A scoop net is suitable for test
+      cropping (Fig. 14). Wounding gears e.g Gull not should not e used for
+      test harvesting.
+
+
+
+
+                       Figure 14 - A Scoope Net for Test Harvesting
+
+
+(B) Partial Harvesting When different age group of the same fish species or
+different species combination are reared together in pond, the fish are bound to
+mature to table sizes at different times. Partial harvest of pond should be done
+with appropriate mesh size. Matured fish can be selected for market sale or
+family consumption while undersized ones should be returned to the pond.
+Periodical harvesting of pond fish enables a farmer to generate revenue
+periodically. Draw net is most suitable for harvesting pond fish.
+
+                                       28
+(C) Total Harvest: Ponds that have been used to rear fish for over 10 years
+can be totally drained and the whole fish harvested. Total pond harvest from
+management point of view can be carried out at the end of a production cycle
+or in cases of emergency like diseases outbreak. A Draw Net or Drag Net is
+most suitable for total cropping of pond fish. (Fig. 15). Nets should be
+cleaned and spread in the sun to dry after each harvesting operation. This is to
+preserve and prolong their operational life span.
+
+
+
+
+       Figure 15 - Nets are frequencly used to harvest ponds
+
+13.0. KEEPING FARM RECORDS
+It is important for prospective fish farmers to keep record of events and
+statement of expenditures and income throughout the production cycle of
+the fish pond.
+
+
+
+
+                                      29
+(a)   The Log Book This should contain information on the following:-
+1.    Location of fish pond
+2.    Nature of soil at site
+3.    Pond ownership type (whether private, cooperative/communal)
+4.    Pond area and depth
+5.    Sources of water supply
+6.    Date of commencement of construction
+7.    Date of completion of construction
+8.    Thickness of dam wall
+9.    Agricultural/Economic activities practised around
+10.   Date of pond impoundment
+11.   Sources of Fingerlings/breeders
+12.   Stocking rate
+13.   Species of fish stocked
+14.   Date of stocking
+15.   Water analysis result (where possible)
+16.   Fertilizers applied/fertilization practice
+17.   Limes/liming practices
+18.   Supplementary feeds applied, including sources and forms (i.e.
+      pellets or grounded).
+19.   Water management practices
+20.   Diseases identified
+21.   Record of fish mortality
+22.   Staff strength on farm
+23.   Number of days of contact with advisors, i.e. Extension/Research
+      staff.
+(B)   Total Expenditure This includes cost.
+      i.       Fixed Cost
+      1.       Land
+      2.       Pumps/Tanks and farm equipment
+      3.       Farm structures
+      4.       Brood stocks.
+                                 30
+       ii.     Variable Cost
+       1.      Fish seed
+       2.      Fertilizers
+       3.      Limes
+       4.      Feeds
+       5.      Labour/maintenance
+       6.      Medication
+       7.      Transportation
+       8.      Consultancy
+
+(c) Income Statement
+Income projection/record can be conclusive after harvest. Financial analysis
+for project profitability can be easily arrived at with proper records of
+expenditure and income.
+For details on profitability estimation, refer to NAERLS Extension Bulletin
+No 107, Economics of Aquaculture Production.
+
+
+
+BIBLIOGRAPHY
+Annual Report 1989. National Institute for Freshwater Fisheries Research,
+        New Bussa, Nigeria 45p
+Bard. J.P., et. al. 1976. Hand Book of Tropical Fish Culture. Centre
+        Technique forestier Tropical, France 165p.
+Ita E.O. 1980. Principles and practices of integrated commercial fish farming
+        in Nigeria. Technical report series No. 19, National Institute for
+        Freshwater Freshwater Fisheries Research, New Bussa.
+Viveen W.J.A., et. al. 1986. Practical manual for the Culture of African
+        Catfish (Clarias gariepinus) 93P.
+
+
+                                     31
+

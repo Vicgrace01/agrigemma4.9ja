@@ -1,0 +1,587 @@
+                                                 TABLE OF CONTENT
+
+                                 Title                                    Page
+                                 TABLE OF CONTENT                           2
+                                 ACKNOWLEDGEMENT                            3
+                                 INTRODUCTION                               4
+                                 HEAT TOLERANCE                             4
+  HEAT –TOLERANT TOMATO          Heat-Tolerant Tomato Varieties             5
+                                 ENVIRONMENTAL CONDITION                    7
+PRODUCTION UNDER IRRIGATION      TEMERATURE.                                7
+                                 SOIL TYPE                                  8
+                                 SITE SELECTION                             8
+                                 LAND PREPARATION                           8
+                                 NURSERY PROCEDURE                          9
+                                 SPACING AND TRANSPLANTING                 10
+                                 IRRIGATION                                10
+                                 FERTILIZER          RECOMMENDATION   AND  12
+                                 APPLICATION METHOD.
+                                 WEED CONTROL                               13
+                                 CULTURAL WEED CONTROL                      13
+                                 CHEMICAL WEED CONTROL                      14
+                                 PESTS AND DISEASES CONTROL                 14
+                                 PEST OF TOMATO                             14
+                                 ROOT ATTACKING PESTS                       15
+                                 FOLIAGE AND STEM PESTS.                    17
+                                 FRUIT ATTACKING PESTS.                     20
+                                 TOMATO PEST MANAGEMENT                     20
+                                 CULTIURAL METHOD                           20
+                                 CHEMICAL METHOD                            20
+                                 DISEASES OF TOMATO                         22
+                                 Fungal Diseases                            22
+                                 Bacterial Diseases                         25
+    EXTENSION BULLETIN No. 242   HARVESTING AND PROCESSING                  29
+                                 Yield                                      32
+                                 References                                 33
+
+
+
+                1                                          2
+ACKNOWLEDGEMENT                                                   1.0    INTRODUCTION
+
+NAERLS wishes to acknowledge the financial support of Katsina     Heat tolerance in tomato is defined as the ability of certain
+State Government and FAO for the production of this bulletin.     varieties of tomato to set fruits under high temperatures not lower
+The bulletin has been updated with current information on the     than 210C. Some tomato plants continue to produce even during
+Production of Heat-Tolerant Tomato under Irrigation. Production   periods of extreme heat and humidity or heat and drought. Heat-
+and value addition of these perishable crops are of great         tolerance is a phrase to look for when selecting the best varieties to
+importance to the well-being of our farmers.                      grow during hot dry seasons. This is because most tomato varieties
+                                                                  do not tolerate hot and humid weathers especially during fruit
+Authors:                                                          production and maturity. This is because such weather conditions
+M. M. Jaliya, B. M. Sani, A.A. Yakubu and Adamu I. Arab           cause fruit abortion, poor quality fruits and may also harbor pests
+                                                                  and diseases due to high humidity with is accompanied by warm,
+                                                                  humid nights that can lead to fungal diseases. Tomato
+Revised January, 2016                                             (Lycopersicon esculentum Mill) is an important vegetable crop in
+                                                                  many parts of the world including Nigeria. Tomato fruit is an
+                                                                  essential component of the diet of man and also an important
+                                                                  industrial commodity. Large scale tomato is grown in the
+                                                                  Northern Guinea and Sudan savannah of Nigeria, where relatively
+                                                                  high yield could be realized by planting between June and
+                                                                  December. Planting between March and May results in low yields
+                                                                  that cannot sustain demand. This low yield is due to the
+                                                                  prevalence of temperatures considered too high (above 320C,
+                                                                  day/night) for fruit set. The better night temperature for tomato
+                                                                  production is between 15.60C and 21.10C. Only few tomato types
+                                                                  have tolerance to high temperature fruit set, a character in great
+                                                                  demand by growers. Efforts are still in progress to come out with
+                                                                  varieties that would tolerate high temperature i.e heat tolerant
+                                                                  varieties.
+
+                                                                  2.0    HEAT TOLERANCE
+
+                                                                  Heat tolerance in tomato is defined as the ability to set fruits under
+                                                                  high temperatures not lower than 210C. This trait reportedly gives
+                                                                  indications of genetic complexity, with variation exhibiting a
+                                                                  continuous distribution and heutability values ranging from 5 –
+                              3                                                                     4
+19%, implying that the major part of the observable variation is      long stretches of warm nighttime temperatures, however, the plants
+environmental in nature.                                              will stop setting, causing a subsequent gap in tomato production.
+
+3.0 Heat-Tolerant Tomato Varieties                                    In recent years, a flood of new varieties has been bred for greater
+These are tomato varieties that will continue to produce fruit when   heat tolerance. Known as “heat-set” tomatoes, or “hot-set”
+temperatures are high.                                                tomatoes, some commonly grown hybrids are ‘BHN 216,’
+                                                                      ‘Florasette,’ ‘Florida 91,’ ‘Heatwave II,’ ‘Solar Fire,’ ‘Summer
+                                                                      Set,’ ‘Sunchaser,’ ‘Sun Leaper,’ ‘Sunmaster,’ ‘Sun Pride’ and
+                                                                      ‘Talladega.’ According to the specialist in Extension System, many
+                                                                      heat-set varieties also perform well in cool, rainy weather.
+
+
+
+
+Faced with long bouts of daytime temperatures higher than 85
+                                                                      Florida 91    Heatwave II    Solar Fire
+degrees Fahrenheit and nights above 72 degrees, tomatoes may fail
+to set fruit. The plants may look dark green and vigorous —
+                                                                      Some heirloom tomato varieties are heat-tolerant as well, and these
+evidence that all other growing conditions are favorable — but
+                                                                      include ‘Arkansas Traveler,’ ‘Eva Purple Ball,’ ‘Hazelfield Farm,’
+have blossoms that dry up and fall off.If the heat spell lasts no
+                                                                      ‘Homestead 24,’ ‘Illinois Beauty,’ ‘Neptune,’ ‘Ozark Pink’ and
+more than a week, the tomato plants will quickly recover. During
+                                5                                                                     6
+‘Tropic.’ Additionally, some “cold-set” varieties, such as              4.2     SOIL TYPE
+‘Stupice,’ are all-weather standouts because they’re able to            Tomato can be grown in a wide range of soil types from sandy
+function in hot weather, too. A handful of cherry tomato varieties,     loams to clay loams and in soils high in organic matter. However, a
+such as ‘Lollipop’ and ‘Yellow Pear,’ also do well in prolonged         well-drained fertile soil of medium texture and good depth is most
+stints of heat. Other varieties are T1 205 heat tolerant, T1 539 heat   suitable. It warms up quickly, possessed high available moisture
+tolerant T1, 206 heat tolerant, and T1 204 heat tolerant                holding capacity and provide an adequate rooting medium to carry
+                                                                        the crop through the dry season.
+Tomato growers often choose heat-tolerant tomato varieties for
+summer and fall production — a strategy growers farther north           5.0     SITE SELECTION
+may want to emulate now that climate change is causing hotter           The site selected for the crop should be protected from wind blow
+summers in most regions. When growing tomatoes in hot                   especially north and east winds in the northern part of Nigeria.
+temperatures, you can boost your success rate by planting deeper        Temporary wind breaks should be established where natural shelter
+(where the soil temperatures are lower), providing afternoon shade,     is absent. Shelter is needed most by the plants during the first
+watering in the morning and using thick organic mulch to keep soil      month in the open field, It may be a disadvantage later in the
+cool.                                                                   season when freely circulating air is required to help check the
+                                                                        spread of blight disease, Sometimes existing wall and buildings
+4.0    ENVIRONMENTAL CONDITION                                          may be used for shelter, The site should be accessible to market,
+                                                                        Tomato has a vigorous root system, and can be grown successfully
+4.1 TEMPERATURE.                                                        in either sandy or clay soils. However to obtain good fruits, it is
+The optimum growing temperature for tomato is between 22 to             best to select a field with deep fertile topsoil which has good
+260C in the day time and 14 to 160C at night. It is difficult to        drainage and water holding capacity. A fertile well drained (loamy)
+locate production site with this temperature range in the low land      soil devoid to insects particularly nematode should be selected.
+tropics, which have a shorter cool season than subtropical areas. In
+addition the higher temperatures of the tropics cause more pests        6.0     LAND PREPARATION
+and disease problems and have often produced lesser quality fruits.     Once a perfect site for planting tomato is selected, a time is then
+Fall and a writer season areas are generally cool and dry,              allocated and spend on land preparation. Land clearing is the first
+climatically, this is an ideal tomato producing area. Tomato grown      thing to be done in land preparation; shrubs, grasses and other
+under optimum temperatures are best for both flowering and fruit        debris should be cut, gathered in heaps and burnt. Soil testing is
+setting, Growth is not inhibited even if the night temperature drop     next after land clearing. It is done to know the soil PH, its nutrients
+to 130C. However the day temperature is should be above 150C for        and chemical contents. Knowing the nutrients and chemical
+good pollination. Too high temperature causes the flowers to drop       composition of the soil will provide a guide in selecting fertilizers
+and there is poor fruit setting. Heat tolerant tomato varieties have    to be used. Soil sample should be taken from selected points across
+the advantage of resisting the problem of too high temperature.         the planting area for testing. Tomato grow best in slightly acidic
+                                                                        soil with PH level between 6.0 and 7.0 – optimum level is between
+                                                                        6.5 and 7.0. If the soil’s PH isn’t within that range, some
+                                                                        adjustments need to be made. To lower the soil’s PH, put Sulfur
+                                 7                                                                         8
+into the soil and mix thoroughly. To raise the soil’s PH, put lime     seeds germinate to allow sturdy growth of the seedlings. The seed
+into the soil and mix thoroughly.                                      rate of 0.25-0.5kg/ha is recommended (Anon., 1987).
+For better land preparation, the land should be pre-irrigated, then
+ploughed and harrowed thoroughly to obtain a fine tilth. Farm          8.0     SPACING AND TRANSPLANTING
+yard manure can be incorporated during land preparation. The           Seedlings are considered to be ready for transplanting when they
+land should be well pulverized by breaking up all clods manually       are about 10 to 13 cm high, or when 4-5 leaves emerged. While
+or using any equipment for pulverization. Stones and weed should       uprooting the seedlings, care should be taken that roots are not
+also be removed to give an area of fine tilth.                         broken. For this reason it is advisable that seedbed be thoroughly
+To prevent nematode infection, chemical called Nemagon-20 can          watered or irrigated before uprooting. The seedlings could then be
+be mixed with the soil during land preparation at the rate of          uprooted separately either by hand or with a garden fork.
+70kg/ha. The land can be made into ridges or basins as required.       Transplanting is better done in the late afternoon or early morning
+                                                                       or on cloudily day and immediately after uprooting the seedlings.
+                                                                       Spacing of 45cm is appropriate between plants on ridges of 75cm
+                                                                       apart. In case of sunken beds or when a flat border is used, the
+                                                                       spacing is 45 x 45 cm. A uniform stand and spacing is necessary
+                                                                       for achieving uniform maturity and maximum yield of marketable
+                                                                       fruits.
+
+
+7.0     NURSERY PROCEDURE
+After preparing a well pulverized seed bed (Nursery bed) a very
+shallow grooves of about 1-2cm deep and 7-10cm apart could be
+drown out. The seeds are then thinly sown by hand to spread the
+seeds into the grooves and then covered tightly with soil, after
+which it is carefully watered and shaded by spreading dry grasses
+on top of the nursery bed. Irrigation of the nursery bed should be
+at 3 – 4 days interval depending on the soil type and the prevailing
+weather condition. The shade should be removed as soon as the          9.0     IRRIGATION
+                                                                       Due to its succulent nature, tomato has high water requirements
+                                                                       and yields better when grown under irrigation. Optimum
+                                                                       production is favoured by high level of moisture throughout the
+                                                                       vegetative and early flowering period followed by reduction during
+                                                                       fruits development and lower level during ripening.
+                                                                       Tomato needs to be irrigated 15-20 times during the growing
+                                                                       period at the frequency of five to seven (5 –to 7) days depending
+                                                                       on the soil type and prevailing weather condition. The amount of
+                                 9                                                                     10
+water required for optimum growth ranges from 400-600mm.                 10.0     FERTILIZER RECOMMENDATION AND
+Critical stages of growth of tomato that are sensitive to water stress            APPLICATION METHOD.
+are: flowering fruit formation and vegetative period particularly                 To maintain the fertility of any soil under cultivation for
+during or prior to start of flowering. Therefore framers should          guaranteed continuous high productivity, fertilizer and organic
+endeavor to supply adequate irrigation water during these periods.       manure should be applied. One of the various recommendations
+Irrigation methods suitable for tomato production are: furrow and        and application methods is to apply compost, lime and NPK
+basin irrigation methods. Furrows are small channels which carry         fertilizer at the rate of 125:50:50kg NPK/ha. All compost, lime
+water down the land slope between crop rows, while basins are flat       and P2 O5 and one –third of the N and K2O should be applied as a
+areas of land surrounded by low bunds which prevents water from          basal application. The remaining two –thirds of the N and K2 O
+flowing to the adjacent fields. The basin sizes could be either 2        should be splited into two equal parts, the first to be applied as a
+x2m, or 3x3m depending on the slope of the land. Whatever                top dressing 25 –30days after transplanting, and the second part to
+irrigation method used, it should not encourage water logging.           be applied 10 –15 days later (Anon., 1989).
+
+
+
+
+TOMATO STACKING
+This is usually required for vegetables with climbing growth habit.
+Staking is done to provide support for the tomato plant to climb
+and display the leaves for photosynthesis to take place. The
+support allows the plant to carry more load without touching the
+soil thus enhancing the quality of the fruit. Stake can be made from
+bamboo or other available wood.
+
+
+
+
+                                 11                                                                      12
+                                                                       11.2     CHEMICAL WEED CONTROL
+                                                                                For chemical weed control, the herbicide mostly preferred
+                                                                       is metribuzin. Apply metribuzin (sencor) at the rate 15-20kg
+                                                                       a.i./ha at the time of transplanting (Anon., 1997)
+
+
+
+
+11.0    WEED CONTROL
+11.1    CULTURAL WEED CONTROL
+        Weed is controlled in Nigeria by hand weeding using hoe,
+which is always tedious on large-scale farms. It should be
+carefully done to avoid damage to the crop. Weeding should be
+promptly done at 2, 4 and 6 Weeks after transplanting (WAT) to         12.0   PESTS AND DISEASES CONTROL
+prevent competition between the crops and weeds for nutrients,                Brief descriptions of the chief symptoms and routine
+light and space.                                                       method of control for the commoner diseases and pest of tomatoes
+                                                                       are given in the following paragraph. It is essential that the field
+Any cultural practice that increases the density and vigor of          problem should be correctly diagnosed and when in doubt growers
+desirable turfgrasses will discourage competition from weeds.          are advised to consult the nearest horticultural advisory officers in
+Weeds can only exist if there is space for them. Thus, cultural        the ADP offices located in their area.
+practices for weed control in turf are aimed at shading and
+crowding the young weed seedlings by producing a dense sod.            12.1    PEST OF TOMATO
+Effective cultural control measures include the proper selection               The tomato plant is subject to attack by a number of pests,
+and establishment of turfgrasses, adequate liming and fertilization,   and although some are of minor importance, few can cause very
+proper mowing practices, judicious watering, and insect and            serious losses unless care is taken to control/them. Because
+disease control.                                                       tomatoes are an intensively grown crop, pests can multiply very
+                                                                       rapidly, control measures should therefore, be adopted
+                                                                       immediately symptoms of attack are observed.
+                                13                                                                     14
+A   ROOT ATTACKING PESTS                                                    by day and appear at night to attach the seedlings to
+    i. Termite –may eat up seeds in the soil resulting in poor              near ground level, biting holes in stems or cutting them
+       germination or eat up the young roots of the tomato.                 off completely.
+       These results in premature wilting and lodging of
+       stands. Termites can also tunnel into the conducting
+       tissues of the crop thereby cutting off water and nutrient
+       supply.
+
+
+
+
+    ii      White grubs.         These are the family of the
+         Melolonthidae. These larvae feed underground on
+         roots and other underground parts of the plant.
+          Feeding may result in the death of the plant or the plant
+         may wither or come stunted.
+
+
+
+
+                                                                      iv.    Crickets: These burrow into the soil and damage
+                                                                             crops by eating roots and destroying stems.
+
+
+
+    iii Cutworms: They are caterpillars of several species of
+        noctuid Moth. They inhibit the soil surface and are
+        veracious eaters. Early in their life, they feed on the
+        leaves, later they migrate to the ground where they hide
+                              15                                                                 16
+                                                                          Adults and young ones found clustered on leaf surfaces
+                                                                          and stems. They Suck plant nutrients resulting in
+                                                                          Malnutrition of the leaves and stunted growth. There
+                                                                          sugary, sticky excrements called honey due, accumulate
+                                                                          on stems and leaf surfaces and softy mould fungus
+                                                                          develop on them thereby reducing the market value of
+                                                                          tomato crop.
+
+
+
+
+B   FOLIAGE AND STEM PESTS.
+    i. Aphides: Several species of aphids infest tomato plants.
+       Aphids and their
+       Nymphs cause damage to plants by sucking the plant
+       sap and by transmitting the virus diseases e.g. tomato
+       mosaic disease
+
+
+                                                                     i.   Thrips: These are small slender insects with piecing –
+                                                                          sucking mouth parts.
+                                                                          A characteristic symptom of attack is the appearance of
+                                                                          white blotches on infested tissue. Tips of the leaves
+                                                                          wither and turn brown. Their attack can also cause
+                                                                          distortion and malformation of plants.
+
+                                                                     ii. White flies:      Nymphs and adults feed on the
+                                                                         undersurface of leaves
+                                                                         sucking plant juice and indirectly transmitting viruses.
+    ii      Stink bugs: The green stunk bugs are the most                Leaf curl virus disease of tomato are transmitted by
+         common stunk bug that sucks sap from the young                  these flies.
+         growing points leaves, buds and fruit. The sucking may
+         result in malformation of fruits or leaves. Their feeding
+         point also serve as entry point to disease organisms.
+         Tomato may rot away when attacked.
+
+                              17                                                              18
+                                                              C.   FRUIT ATTACKING PESTS.
+                                                                   i. Heliothis armigera:      American bollworm caterpillars
+                                                                      cause heavy damage to flowers and fruits of tomato.
+                                                                      They bore into the fruits and one caterpillar can bore
+                                                                      into as many fruits as possible.
+
+
+
+
+                                                                   12.2 TOMATO PEST MANAGEMENT
+                                                                   A.    CULTIURAL METHOD
+                                                                         1.      Crop rotation with non-susceptible crops
+                                                                         that are not solaanacea
+                                                                         2.      Use of resistant varieties
+                                                                         3.      Dress your seeds before planting
+iii. Grass hoppers: About five species are important pests               4.      For termite on soil surface or in to soil,
+     in Nigeria Zonocerus variegates is very common on                           apply water by watering can.
+     tomato and could be destructive if they occur in large
+     number.                                                  B.   CHEMICAL METHOD
+                                                                    In controlling insect pest of tomato, care must be taken to
+iv Other important pests of tomato includes: Cotton leaf            select an effective but relatively non persistent insecticide
+   worm (Spodoptera litorallis), Blister beetles (mylabris          because of the problem of residue since tomato matures
+   spp), They cause damage by devouring the flowers and             within a short period.
+   fruits of tomato.
+                                                                   The following insecticides have been suggested for the
+                                                                   control of leaf, stem and fruit feeding insect pests of
+                                                                   tomato.
+                        19                                                                   20
+                                                                                                  13.0        DISEASES OF TOMATO
+                                                                                                  a)          Fungal Diseases
+
+                                                                                                  i)          Damping off
+                                                                                                              Caused by several fungi like phytophthora spp. They cause
+                                                                                                              rotting of germinating seeds before reaching the soil
+                                                                                                              surface. Seedlings are killed by an attack on the roots and
+                                                                                                              basal parts. In some cases affected plants do not die but
+                                                                                                              becomes girdled at the base and remained unthrifty.
+
+
+
+
+Table 1: SUGGESTED INSECTICIDES                                          AND           THEIR
+RECOMMENDED USE ON TOMATO.
+
+CHEMICAL                     USE                               RATE
+
+1. Dimethoate                Most sucking pests     125m1 in 10 litres of (Rogor)Aphids, thups
+etc      Water
+
+2. Decamethrin (Decis)       Fast knockdown         50ml in 10 litres of                          Control
+                                                    insecticide on fruit water                      i)           Seed dressing with protective fungicides e.g. Apron
+                                                    crops
+                                                                                                                 star, at the rate of 10gms/2.5kg of tomato seed.
+3. Dichlorvous (Nogos)       Low residual insecticide    1.5-3 litres per hectare on vegetables        ii)       Since the disease is favoured by excessive wet soil, care
+                                       in 180 –400 litres of water. 1-1.5 lires per
+                                                                                                                 should be taken in choosing site for seed bed and the
+4.    Nuvacron               hectare in 150 –200                                                                 frequency of watering the bed.
+          lires of water.
+                                                                                                       iii)      Provide better drainage by improving the soil texture.
+5.    Carebary (85 wp)       Effective on grasshoopers         5 gms in 4.5 lires of                   iv)       Avoid thick planting and longer shading periods.
+     (vetox 85,sevin 85)     armyworms and other insects.          Water
+                             Some crops may be sensitive
+                             To it.                                                               Leaf Spots and Blight
+6.   Femitrothion           A broad spectrurr insecticide       10-15 mls in 4-5                          Some species of fungi, namely, Alternaria solani, A.
+                                                                litres water                      brassicae, A. brassicicola A. raphoani and some species of
+7.   Furadan 3G              Useful on soil pests in nurseries 30-40kg/ha
+                                        of field. Can also control of granules.                   cercospora and colletotrichum, cause important leaf blight/leaf spot
+                                        nematodes.                                                diseases of tomato and other vegetables. These pathogens are
+                                                                                                  widespread throughout the country and attack leaf, pot, and stem of
+                                                                                                  the crops.    These diseases become severe with abundant
+
+                                            21                                                                                        22
+atmospheric humidity or frequent rains, followed by warm weather
+(Ishaque and Talaledar 1967); Talukadar 1974; and
+Ashrafuzzaman 1977. The pathogens can survive in seed or
+infected plants for years in soil and act as a primary source of
+infection. Secondary spread of the disease occurs through conidia
+disseminated by air, wind, water and insects. A perennial weed
+(Solanum nigrum) also serves as a perpetual source of Alternaria
+spp.
+
+Control
+1. practice crop rotation and field sanitation
+2. adopt good agronomical practice for better plant growth
+3. treat seed with vitavax-200 before sowing
+4. spray with 0.2% Rovral 50WP against Alternaria spp. And
+   0.2% Bavishtin 50 WP against cercospora spp. At 12-day               Control
+   interval.                                                             1. Collect healthy planting materials from disease free areas.
+                                                                         2. Destroy weeds and crop residue.
+5. Spray with Bavistin 50WP (0.1%) or Tilt 250EC (0.05%) at
+   12-day intervals.                                                     3. Strictly follow crop rotation.
+                                                                         4. Use resistant varieties/cultivars
+                                                                         5. Provide drainage facilities.
+Wilt and Foot Rot Disease
+        Fursarium wilt (fusarium oxysporum) and root rot
+(sclerotium rolfsii and Rhuzoctonia solani) are two devastating         Leaf Mould
+                                                                                Caused by fungus called cladosporium fulvus. Leaves of
+diseases of tomato and other vegetables causing 90% or more
+damage. These fungi are strictly siil borne and attack various          affected plants show duster of grayish-green fungal growth on the
+                                                                        lower surface, while the upper surface appear yellowish. Large
+vegetable crops such as tomato, potato, brinjal, cabbage,
+caulifloever etc.                                                       number of spoils are produced from those fungal growth on the
+                                                                        leaves and are spread by air currents and rain or irrigation water
+        Clearing of veinlets and drop of petioles leading to wilt of
+the entire plant are the characteristic symptoms of Fusarium wilt.      splash.
+Browining of the vascular system can also be seen in a cross-
+section of the lower stem. In root rot disease, the lower portion of    Control
+                                                                          1.       Crop rotation
+the stem near the base is attacked, resulting in rotting of stem base
+or root system.                                                           2.       Field sanitation
+                                                                          3.       Burn plant residue
+                                                                          4.       Application of fungicides.
+
+
+
+                                 23                                                                     24
+     Table 2: Suggested Fungicides and their rates.                            3. Use crop rotation with non-host crops like cereals for at
+     Chemical      Use          Rate                                              least five years.
+      1. Benlate   Fungicide 15gms in 10 litres of                             4. Apply adequate nitrogen and manure
+         (50%      effective    water.                                         5. Use minimum irrigation, particularly avoiding flood
+         WP)       for most 62.5gms in 10 litres of                               irrigation
+                   fungal       water.                                         6. Remove diseased plant.
+      2. Dithane   attack on
+         M45       tomato.      15gns in 10 litres of                     Soft Rot
+                          “     water i.e. 45gms/ha.
+                          “                                                        Soft rot caused by Erwinia caratovera appears sporadically
+      3. Baylaton         “                                               in the field at any stage of plant growth. Affected tissues show a
+         50% WP)                                                          soft, slimy bad smelling rot, which, under favourable conditions,
+                                                                          rapidly spreads throughout the entire plant.
+
+b)      Bacterial Diseases                                                Control
+
+     i)     Bacterial Wilt of Tomato                                      1.    Use disease free planting materials
+     Bacterial wilt incited by Pseudomonas solanacearum is the            2.    Provide drainage and avoid damage during cultivation
+     most destructive disease of tomato, potato and Brinijal. Sudden      3.    Wash harvested materials in 1% bleaching powder solution
+     welting of the entire plant or parts of the plant leading to death
+     are characteristic symptoms. Ambient temperature ranging             C)      Nematode Diseases
+     from 25 to 35oC, high humidity and soil moisture are the most
+     favourable conditions for disease development.                       Root-Knot
+
+         The crops are vulnerable at both seedling and maturity                   The most important nematode is Moloidogyne spp. Causing
+     stages. The pathogen can spread through water, planting              root-knot disease. Crop loss due to root knot nematodes has been
+     materials, tillage equipment, man, animals and other avenues.        estimated to vary from 10 to 40%, resulting in substantial yield
+     Infection always occurs through wounds made during crop              reduction (Ahmed 1985; Zahid et al 1986; and Mian and Ali 1986).
+     cultivation.                                                                 A large number of crops are susceptible to root-knot
+                                                                          nematodes, but vegetables are the most vulnerable. Most of the
+     Control                                                              popular winter vegetables like tomato, lettuce, chili etc are
+                                                                          susceptible to the disease. Stunted growth, wilting at day time and
+     1. Use resistant varieties                                           formation of knots or galls on the root system are the characteristic
+     2. Raise seedlings in disease free seedbed                           symptoms of root-knot nematode disease. The pathogen may
+                                                                          infect plants at any stage of growth. Early infection causes severe
+                                                                          yield reduction.
+                                  25                                                                       26
+       Infected agricultural equipment and planting materials can
+disseminate the disease, since the organisms can survive in a wide
+temperature range, over wintering or over summering is very easy.
+
+Control
+1.  Use nematode-free planting materials
+2.  Collect and destroy crop residues
+3.  Practice crop rotation with wheat, maize and mustard for at
+    least three years
+4.  Apply Furadan (Carbofuran) 3G or Curator (Carbofuran) 3G
+    or Sunfuran 3G, 40kg/ha or mustard oil cake 75g/plant (must
+    be decomposed for a minimum of 20 days before
+    seedling/planting) to the soil.
+                                                                              Control
+   Virus Diseases                                                             1. Control is the only remedy. Smokers should wash their
+   i) Leaf Curl Virus Disease                                                    hands with soap and water before handling tomato
+       It is the most serious virus disease in the dry season                    seedlings. Remove infected plants and burn.
+   production of tomato. The leaves become coarse, curled and
+   twisted, the veins and the mid-rib also become thickened. The       iii)       Other Virus Diseases
+   plants are severely stunted. The virus is known as tobacco leaf                Plant viruses are one of the major problems in vegetable
+   curl virus, transmitted in the field by the vector Bemisia tabaci          production in Nigeria. The majority of the vegetables grown in
+   (white fly).                                                               the country are affected by virus diseases that cause drastic
+                                                                              yield reduction. Generally, viruses are transmitted through
+   Control                                                                    agricultural implements, planting materials, by insects, fungi,
+   1. Control of the white fly vector by the use of insecticides              nematodes and other animals. The most common and
+      would control the spread of the disease.                                economically important virus and mycoplasma diseases in
+                                                                              Nigeria, along with their symptoms and mode of transmission
+ii) Tomato Mosaic Virus                                                       are listed in table 3.
+        It is caused by tobacco mosaic virus, which is often present
+    in manufactured tobacco. Smokers may carry it on their hands              Control
+    and transmit it to tomato and curled foliage. If attack is early          1.    Grow available resistant varieties
+    in the season, plants become stunted and yield reduced. The               2.    Use disease-free seeds
+    disease is spread by person who handle the plants or by insect            3.    Rogue and destroy diseased plants and weeds that can
+    with chewing mouth-parts.                                                       habour viruses
+                                                                              4.    Monitor vectors and their control
+                                27                                                                       28
+5.     Follow appropriate crop rotation techniques
+6.     Manipulate crop growing period to avoid initial time of
+       infection and to get the plant resistant stage
+7.     Maintain isolation distance
+8.     Disinfect all field equipments.
+
+
+Table 3: Important Virus Diseases of Tomato, and their Mode
+of Transmission
+
+Disease                 Mode of Transmission
+   1. Leaf roll         Vector (Aphids)
+   2. Leaf curl         Vector (White fly)
+   3. Mosaic            Vector (Aphid)
+   4. Bushy stunt       Seed
+   5. Bunchy top        Mechanical
+   6. Curly top         Vector (leafhopper)
+   7. Spotted wilt      Vector (Thips)
+   8. Yellow roll       Vector (Aphids)
+                                                                     The most important processing methods are: canning and
+14.0      HARVESTING AND PROCESSING                              drying. Canning is the most important method of processing
+                                                                 tomato. It involves sterilizing or destroying all harmful living
+    Tomato harvest is done by hand; the fruits should be         organisms in the tomato and keeping them sealed in cans,
+harvested as soon as they ripe. Delay harvesting encourages      usually tin or glass, to prevent re-infection.
+rotening of fruits and hence affects the overall yield.
+
+
+
+
+                           29                                                                30
+                                                                      developed countries and consumption has been increasing in
+                                                                      the last decade.
+
+
+
+
+                                                                      15.0       Yield
+
+                                                                          Heat tolerant tomato varieties yield better than the heat
+                                                                      sensitive varieties, during dry season production period. This
+                                                                      is due to their resistance to hot environments that allow higher
+                                                                      fruit set compared to the heat sensitive varieties. In a trial
+                                                                      conducted by institute for agricultural research (IAR) at
+                                                                      Danbatta during 1989 hot season, heat tolerant varieties out
+    Preservation by drying involves removing water from the           yielded the heat sensitive varieties.
+fresh crop to protect it from spoilage. Drying is an ancient
+method of preservation. Moreover, it has some advantages           Table 4: Marketable yield (t/ha) in the 1989 hot season
+over other methods as follows:                                             Variety             Yield (t/ha)
+                                                                   T1 205 heat tolerant        16.4
+      It requires less space for storage. Ten carloads of fresh   T1 539 heat tolerant        11.2
+       food can be accommodated in one car when dry.               T1 206 heat tolerant        10.2
+      It requires low-cost packaging material like propylene      T1 204 heat tolerant        10.8
+       and polyethylene.                                           SAMTOM-7             Heat 7.4
+      It can be used in multipurpose food preparation. For        Sensitive                   7.6
+       example, soups, meals, chips and puffs can be made          T1 468 Heat Sensitive       5.9
+       from dry food.                                              T1 244 Heat Sensitive       2.3
+                                                                   T1 521 Heat Sensitive
+   Due to low cost of preservation and their high nutritional
+quality, dried tomato products have become popular in
+
+
+                            31                                                                     32
+References                                                               Shahjahan, M. (ed). Production of vegetables in the
+                                                                         homestead. A training manual (in Bengali). On farm
+Anonymous (1987). Improved vegetable production in Asia.                 research DWISION- Bangladesh Agricultural Research
+    FFTC Book series No 36. Taiwan Republic of China                     Institute, Joydepur, Gazipur, Bangladesh P. 127-140
+
+Anonymous (1989). Fertilizer use and management practices for       Quinn, J.G. (1974). Environment and establishment of an
+    crops in Nigeria (series No. 2, (edts) W.O. Enwerozi, E.J.           industrial tomato crop in northern Nigeria. Paper presented
+    Udo, N.J Usoro, K.A. Ayotade, J.A. Adepeju; V.O. Chude,              at a meeting of the tomato-working group of EUCARPIA.
+    C.I. Udegbe.                                                         International center for Advanced Mediterranean Agronomic
+                                                                         studies, Bari, 8
+Anonymous (1997). Crop and Irrigation water management. A
+    paper presented at CIRAD/NAERLS/HJRBDA Specialized              Talukdar, M.J. (1974): Plant diseases in Bangladesh. Bangladesh
+    training workshop on 13th –15th Jan. 1997.                           Journal of Agricultural Research 1 (1): 61-86: In vegetable
+                                                                         production and marketing, proceedings of a national review
+Ashrafuzzaman, H. (1977). A survey of diseases of winter crops in        and planning workshop 26 –29 January 1992, BARI
+     and around the Bangladesh Agricultural University.                  Joydepur, Gazipur, Bangladesh.
+     Bangladesh Journal of Agricultural Research 2(2) 28-33. In
+     Vegetable production and Marketing, Proceedings of a
+     national review and planning workshop 26 –29 January 1992
+     BARI, Joydepur, Gazipur, Bangladesh.
+
+Bodunde, J.G; Erinle, I.D, Ewator, P.G and Amans, E.B. (1993).
+    Four heat tolerant varieties, approved recommendation I.A.R.
+    Samaru – Zaria.
+
+Erinle, I.D. (1979). Tomato diseases in the northern states of
+      Nigeria, Extension Bulletin No. 31, NAERLS/ABU Zaria.
+
+Ishaque, M. and Talukdar, M.J. (1967). Survey of Fungal Hora of
+     East Pakistan. Agri. Pakistan 18(1): 17-26. In vegetable
+     production and Marketing proceedings of national review and
+     planning workshop, 26-29 January 1992 BARI,Joydepur,
+     Gazipur, Bangladesh.
+
+Karim,M.A (1991): Insect and Mite pests of vegetable crops and
+     their management (in Bangladesh). In Ahmed, K.U. and
+                             33                                                                   34
+

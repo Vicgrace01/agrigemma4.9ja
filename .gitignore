@@ -1,2 +1,20 @@
 *.gguf
 model/
+.venv-adtc-clean/
+adtc-env/
+__pycache__/
+*.pyc
+submission.json
+audit.json
+verdict.json
+
+# Virtual environments
+adtc-env/
+.venv-adtc-clean/
+.venv*/
+env/
+venv/
+*.pyc
+__pycache__/
+
+.gradio/

@@ -1,0 +1,314 @@
+[
+  {
+    "keywords": "swine pig pork livestock animal breeding feed disease african swine fever asf biosecurity mortality isolation disinfection swill quarantine symptoms",
+    "content": "Swine (pig) production requires strict biosecurity, clean housing, and balanced energy-protein feed. African Swine Fever (ASF) is a highly contagious viral hemorrhagic disease with near 100% mortality. Clinical signs include high fever, skin cyanosis, and bloody diarrhea. No vaccine exists; enforce strict biosecurity, ban unboiled swill, and immediately quarantine or depopulate infected herds."
+  },
+  {
+    "keywords": "corn maize grain cereal planting spacing fertilizer NPK armyworm pest control savanna silking tassel",
+    "content": "Maize (corn) is a primary cereal crop across Nigerian savannas. Plant at 75cm x 25cm spacing during early rains. Apply NPK fertilizer via split application at 3 and 6 weeks post-planting. Monitor for Fall Armyworm and control using targeted insecticides or neem extracts during early whorl stages."
+  },
+  {
+    "keywords": "poultry chicken broiler layer bird feed coccidiosis newcastle disease vaccination management biosecurity litter",
+    "content": "Poultry management requires strict vaccination against Newcastle disease (using La Sota) and biosecurity to prevent Coccidiosis outbreaks. Maintain dry litter conditions, provide balanced stage-specific feed (starter, grower, finisher, layer mash), and enforce strict stocking densities."
+  },
+  {
+    "keywords": "weed herbicide chemical control spear grass pre-emergence post-emergence manual clearing land preparation",
+    "content": "Weed management combines manual clearing and approved selective/non-selective herbicides. Use glyphosate for pre-planting land preparation and targeted pre-emergence herbicides immediately after planting before crop germination to suppress aggressive grasses like spear grass."
+  },
+  {
+    "keywords": "fertilizer npk urea application timing method split application ring method leaching micro-nutrients",
+    "content": "Fertilizer application should utilize the ring or band method near the crop base followed by light soil incorporation. Split application (basal and top-dressing) maximizes nutrient absorption and prevents leaching caused by heavy tropical downpours."
+  },
+  {
+    "keywords": "cassava mosaic disease cmd bacterial blight root rot iita resistant varieties tme 419 nr 8082 stem cuttings whitefly",
+    "content": "Cassava production relies on planting certified disease-resistant IITA varieties (TME 419, NR 8082) to combat Cassava Mosaic Disease (CMD) and Cassava Bacterial Blight (CBB). Source clean stem cuttings and rogue out infected plants immediately to prevent whitefly vector transmission."
+  },
+  {
+    "keywords": "yam tuber rot fusarium minisetting wood ash mancozeb seed treatment drainage ridges guinea savanna staking",
+    "content": "Yam cultivation requires well-drained loamy soils. Treat cut seed yams using a slurry of clean wood ash and Mancozeb fungicide to prevent Fusarium and Aspergillus rot. Plant on high, well-drained ridges and provide sturdy staking for vines."
+  },
+  {
+    "keywords": "rice yellow mottle virus rymv fadama lowland swamp water management vector control resistant varieties",
+    "content": "Rice Yellow Mottle Virus (RYMV) affects lowland and Fadama systems. Manage using resistant varieties (FARO 44, NERICA), controlled paddy water drainage to disrupt vector beetles, and thorough cleaning of harvesting equipment."
+  },
+  {
+    "keywords": "cowpea beans agbado kpomo legume pod borer thrips aphid storage weevil bruchid planting spacing",
+    "content": "Cowpea (beans) is a key protein legume across Nigerian savannas. Plant improved varieties (IT90K-76, SAMPEA) at 60cm x 20cm spacing after first rains. Control pod borer and thrips using neem seed extract or approved insecticides. Store dried grains in airtight containers with dried pepper or neem leaves to prevent weevil damage."
+  },
+  {
+    "keywords": "groundnut peanut arachis rosette virus aphid pod rot gypsum calcium liming haulm",
+    "content": "Groundnut grows best in well-drained sandy loam with pH 5.5-6.5. Apply gypsum (calcium sulfate) at flowering to improve pod filling. Control rosette virus by early planting and aphid vector management. Harvest when inner pod shells turn brown and dry. Save haulms as livestock feed."
+  },
+  {
+    "keywords": "sorghum guinea corn millet pearl millet drought striga downy mildew bird damage stalk borer purple flower weed parasitic witchweed root parasite",
+    "content": "Sorghum and millet are drought-tolerant cereals for Sahel and Sudan savannas. Plant early with first effective rains using improved varieties (SAMSORG, SOSAT). Manage striga weed by crop rotation with cowpea and use resistant cultivars. Protect against quelea birds with scare devices and netting at grain filling."
+  },
+  {
+    "keywords": "pepper tomato okra vegetable nursery transplanting leaf curl tmv mosaic bacterial wilt",
+    "content": "Vegetable crops (pepper, tomato, okra) need nursery beds with fertile topsoil and shade. Transplant after 4-6 weeks when seedlings are 10-15cm tall. Control tomato leaf curl by planting resistant varieties and removing whitefly vector. Rotate with non-solanaceous crops to reduce bacterial wilt."
+  },
+  {
+    "keywords": "onion bulb garlic set red creole sizing bolting thrips purple blotch curing storage",
+    "content": "Onion production succeeds with short-day varieties (Red Creole, Violet de Galmi). Apply nitrogen at 3 and 6 weeks. Control thrips using neem or approved insecticides. Stop irrigation 2 weeks before harvest; cure bulbs under shade for 10-14 days before storing in ventilated racks."
+  },
+  {
+    "keywords": "plantain banana sucker bract mosaic sigatoka black leaf streak weevil bunch topping",
+    "content": "Plantain and banana require fertile, well-drained loam and regular moisture. Use disease-free suckers from certified nurseries. Control black Sigatoka with approved fungicides and remove infected leaves. Support heavy bunches with props; harvest when fingers turn light green for market."
+  },
+  {
+    "keywords": "cocoa cacao pod rot black pod mirid capsid swollen shoot phytophthora fermentation shade",
+    "content": "Cocoa grows under shade in rainforest zones. Manage black pod disease by removing infected pods and applying copper fungicide during rains. Control mirid bugs with approved insecticides. Ferment beans 5-7 days in wooden boxes covered with banana leaves before sun-drying to 7% moisture."
+  },
+  {
+    "keywords": "oil palm tenera dura pisifera seedling nursery weevil wilt ganoderma fertilize bunch",
+    "content": "Oil palm requires well-drained acidic loam and regular fertilizer. Plant tenera hybrid seedlings at 9m triangular spacing. Control spear rot and weevils with early detection and approved chemicals. Apply NPK and kieserite annually. Harvest ripe bunches every 10-14 days for best oil yield."
+  },
+  {
+    "keywords": "mango citrus orange cashew fruit fly anthracnose gummosis scab pruning grafting",
+    "content": "Fruit trees (mango, citrus, cashew) need grafted seedlings for early bearing. Prune to open canopy and improve air circulation. Control fruit fly with pheromone traps and bagging of fruits. Treat anthracnose and gummosis with copper fungicide and remove infected branches."
+  },
+  {
+    "keywords": "amaranth green ewedu jute ugu fluted pumpkin waterleaf spinach urban garden bed",
+    "content": "Leafy vegetables (amaranth, ewedu, ugu, waterleaf) are nutritious and fast-growing. Prepare raised beds with compost or poultry manure. Sow seeds or cuttings in rows 20-30cm apart. Harvest young leaves every 2-3 weeks to encourage regrowth. Irrigate morning and evening during dry season."
+  },
+  {
+    "keywords": "soybean soya bean legume nodule phosphorus inoculation rust pod shattering",
+    "content": "Soybean thrives in well-drained loam with good phosphorus. Inoculate seeds with rhizobium before planting for nitrogen fixation. Plant improved varieties (TGX 1448, TGX 1835) at 50cm x 5cm. Control soybean rust with early fungicide spray. Harvest when pods turn brown and leaves drop."
+  },
+  {
+    "keywords": "sesame beniseed oil seed shattering capsule harvesting white seed brown seed",
+    "content": "Sesame (beniseed) is drought-tolerant and grows well in northern Nigeria. Plant at onset of rains using improved varieties (NCRIBEN 01M, E8). Harvest when lower capsules turn brown before shattering. Dry stalks upright on tarpaulin and thresh gently to avoid seed loss."
+  },
+  {
+    "keywords": "pigeon pea fio fio legume perennial ratoon intercropping drought tolerant",
+    "content": "Pigeon pea is a hardy perennial legume for savanna and Sahel. Plant at 90cm x 50cm spacing as sole crop or intercrop with cereals. Ratoon after harvest for second year yield. Pods are rich in protein for human food and livestock feed."
+  },
+  {
+    "keywords": "bambara groundnut okpa legume drought poor soil weevil storage",
+    "content": "Bambara groundnut grows well on poor sandy soils where other legumes fail. Plant at 60cm x 20cm after first rains. Harvest when leaves yellow and pods dry. Store unshelled pods in cool dry place to reduce weevil attack."
+  },
+  {
+    "keywords": "ginger turmeric rhizome yellow disease rhizome rot storage sprouting",
+    "content": "Ginger and turmeric need loose well-drained soil rich in organic matter. Treat seed rhizomes with fungicide before planting. Control rhizome rot by avoiding waterlogged soils and rotating with non-host crops. Harvest when leaves yellow and dry; store in cool dry sand."
+  },
+  {
+    "keywords": "sugarcane ratoon smut borer sugar mill planting setts",
+    "content": "Sugarcane is planted from stem cuttings (setts) with 2-3 buds. Plant in furrows 1.2m apart. Control smut disease by using resistant varieties and removing infected plants. Apply nitrogen in split doses during tillering. Harvest when brix reading reaches 18-20%."
+  },
+  {
+    "keywords": "cotton bollworm boll weevil lint ginning pest management",
+    "content": "Cotton requires well-drained loam and regular pest management. Plant early maturing varieties (SAMCOT). Control bollworm complex using integrated pest management with neem and selective insecticides. Harvest clean seed cotton and gin promptly to preserve lint quality."
+  },
+  {
+    "keywords": "sunflower oil seed bird damage head rot harvesting",
+    "content": "Sunflower is an oil crop suited to savanna zones. Plant at 75cm x 25cm spacing. Protect ripening heads from birds with netting or scare devices. Harvest when backs of heads turn yellow and seeds are black. Dry to 10% moisture before storage."
+  },
+  {
+    "keywords": "carrot vegetable root nematode split root sandy loam irrigation",
+    "content": "Carrot needs deep loose sandy loam for straight roots. Plant seeds directly on raised beds in rows 30cm apart. Irrigate regularly to prevent root splitting. Control root-knot nematode by crop rotation and solarization. Harvest at 75-90 days when roots are 2-3cm diameter."
+  },
+  {
+    "keywords": "cucumber watermelon melon vine fruit fly mildew trellis irrigation",
+    "content": "Cucurbits (cucumber, watermelon, melon) need fertile well-drained soil and regular moisture. Trellis cucumber to reduce fruit rot. Control downy mildew with copper fungicide and good air flow. Harvest cucumber every 2-3 days; watermelon when tendril near fruit dries."
+  },
+  {
+    "keywords": "irish potato solanum tuber late blight seed potato sprouting storage",
+    "content": "Irish potato grows best in cool highland areas (Jos, Mambilla). Use certified disease-free seed tubers. Control late blight with preventive fungicide spray during humid weather. Hill soil around plants to protect tubers from light. Store in dark ventilated room."
+  },
+  {
+    "keywords": "sweet potato orange flesh vine weevil virus storage curing",
+    "content": "Sweet potato is drought-tolerant and grows on poor soils. Plant vine cuttings 30cm long on ridges 1m apart. Use orange-fleshed varieties for vitamin A. Control weevil by hilling and prompt harvest. Cure roots 7-10 days in warm humid shade before storage."
+  },
+  {
+    "keywords": "cocoyam taro colocasia xanthosoma cocoyam root rot leaf blight",
+    "content": "Cocoyam grows well in shaded moist areas. Plant cormels or headsetts at 60cm x 30cm spacing. Control root rot by using well-drained soil and clean planting material. Harvest when leaves yellow and cormels are firm, usually 8-10 months."
+  },
+  {
+    "keywords": "kolanut coffee tea plantation shade propagation pruning",
+    "content": "Kola, coffee, and tea are tree crops needing shade and regular pruning. Propagate from seeds or cuttings in nursery. Transplant at 3m x 3m spacing. Prune to maintain open canopy. Harvest kola pods when green turning brown; coffee cherries when deep red."
+  },
+  {
+    "keywords": "moringa zogale leaf powder seed drumstick tree nutrition",
+    "content": "Moringa (zogale) is a fast-growing nutritious tree. Plant seeds or cuttings at 3m spacing. Harvest young leaves every 4-6 weeks for fresh use or dry into powder. Pods can be eaten as drumsticks. Moringa tolerates drought and poor soil."
+  },
+  {
+    "keywords": "goat small ruminant ppr pest des petits ruminants pneumonia deworming housing fever mouth sores sores mouth lesions vaccine prevent",
+    "content": "Goat management requires dry raised housing, clean water, and regular deworming every 3 months. Vaccinate against PPR (Peste des Petits Ruminants) using tissue culture vaccine. Treat pneumonia early with antibiotics from veterinary officer. Provide browse and legume fodder plus salt lick."
+  },
+  {
+    "keywords": "sheep ram ewe lamb bluetongue foot rot deworming fattening",
+    "content": "Sheep thrive on rotational grazing and clean housing. Vaccinate against PPR and bluetongue where available. Control foot rot by keeping pens dry and trimming hooves. Deworm lambs every 6-8 weeks. For fattening, provide concentrate feed with 14-16% protein."
+  },
+  {
+    "keywords": "cattle cow zebu fulani herd fmd foot and mouth disease brucellosis tick fever pasture",
+    "content": "Cattle herding requires access to pasture and water plus regular vaccination against FMD and brucellosis. Control ticks using acaricide dip or spray every 2 weeks. Provide mineral salt lick and supplementary feed during dry season. Report suspected zoonotic disease to veterinary officer immediately."
+  },
+  {
+    "keywords": "fish catfish tilapia pond aquaculture water quality fingerling feed",
+    "content": "Fish farming needs well-constructed ponds with good water source. Stock 10-15 fingerlings per square meter for catfish monoculture. Feed floating pellets at 3-5% body weight daily. Monitor water quality (pH 6.5-8, dissolved oxygen >4mg/L). Harvest catfish at 1-1.5kg after 5-6 months."
+  },
+  {
+    "keywords": "rabbit cuniculture cage kit weaning forage reproduction",
+    "content": "Rabbit farming requires clean hutches off the ground. Feed a mix of legumes (leucaena, centro) and concentrate pellets. Does kindle after 30-31 days gestation. Wean kits at 6 weeks. Protect from rain, direct sun, and predators."
+  },
+  {
+    "keywords": "guinea fowl keet helmenthiasis newcastle disease free range",
+    "content": "Guinea fowl are hardy birds for free-range systems. Vaccinate against Newcastle disease same as chickens. Provide shelter at night to protect from predators. Deworm every 3 months. Collect eggs daily for incubation."
+  },
+  {
+    "keywords": "turkey poult brooder blackhead histomoniasis housing",
+    "content": "Turkey production requires warm brooding for young poults (35C first week). Vaccinate against Newcastle and fowlpox. Control blackhead disease by separating from chickens and deworming with approved products. Provide high-protein feed (26-28%) for first 8 weeks."
+  },
+  {
+    "keywords": "duck muscovy duckling water pond housing",
+    "content": "Ducks are hardy and resistant to many poultry diseases. Provide access to water for bathing and feeding. Muscovy ducks are good for meat. Vaccinate against duck viral enteritis. Keep ducklings warm and dry for first 3 weeks."
+  },
+  {
+    "keywords": "snail heliciculture achatina pen laying hatchling humidity",
+    "content": "Snail farming needs shaded pens with moist soil rich in calcium. Stock African giant snails (Achatina marginata, Achatina achatina) at 15-20 adults per square meter. Feed pawpaw leaves, cocoyam leaves, and fruit peels. Maintain humidity 75-85%. Harvest at 12-18 months."
+  },
+  {
+    "keywords": "grasscutter cane rat micro-livestock cage reproduction forage",
+    "content": "Grasscutter (cane rat) farming requires strong cages with concrete floors. Feed elephant grass, sugarcane, and cassava peels plus concentrate. Breed at 6-8 months. Gestation is 150 days. Keep noise and disturbance low for good reproduction."
+  },
+  {
+    "keywords": "bee honey beekeeping apiary hive swarm harvest",
+    "content": "Beekeeping needs hives placed near flowering plants away from noise. Use Kenya top-bar or Langstroth hives. Inspect every 2 weeks for pests (wax moth, ants). Harvest honey when frames are 80% capped. Wear protective gear and use smoke during harvest."
+  },
+  {
+    "keywords": "goat house pen flooring raised slatted bedding",
+    "content": "Goat housing should be raised 60-90cm off ground with slatted floor for easy manure collection. Provide 1.5-2 square meters per adult goat. Shelter from rain and direct sun. Separate kids, does, and bucks to prevent unplanned breeding."
+  },
+  {
+    "keywords": "poultry house broiler layer deep litter battery cage ventilation",
+    "content": "Poultry housing must provide 0.1 square meters per broiler and 0.15 per layer in deep litter. Ensure cross-ventilation and shade. Use rice husk or wood shavings as litter, turning every 3 days. Maintain 12-14 hours light for layers to stimulate egg production."
+  },
+  {
+    "keywords": "cattle dip tick control acaricide spraying",
+    "content": "Tick control in cattle uses plunge dip or spray race with acaricide (amitraz, cypermethrin). Treat every 2 weeks during rains and monthly in dry season. Rotate acaricide classes to prevent resistance. Always follow label withdrawal periods."
+  },
+  {
+    "keywords": "rabbit feed pellet forage concentrate protein",
+    "content": "Rabbit feeding should combine forage (70%) and concentrate (30%). Provide legumes like leucaena, centro, and stylo plus grasses. Concentrate should be 16-18% protein. Always provide clean water and salt lick. Avoid moldy feed."
+  },
+  {
+    "keywords": "soil test ph acidity lime compost organic matter fertility",
+    "content": "Soil management starts with testing pH and fertility. Most Nigerian soils are acidic (pH 4.5-5.5) and need agricultural lime (2-4 t/ha) every 3-5 years. Add compost or farmyard manure to improve organic matter and water retention. Practice crop rotation with legumes."
+  },
+  {
+    "keywords": "erosion contour ridge terracing cover crop mulching gully",
+    "content": "Erosion control on sloping land uses contour ridges across the slope, grass strips, and terracing. Plant cover crops (mucuna, pueraria) to protect soil. Mulch with crop residues to reduce splash erosion. Fill small gullies early before they expand."
+  },
+  {
+    "keywords": "compost manure organic fertilizer pit heap decomposition",
+    "content": "Compost preparation uses alternating layers of dry plant material, fresh green material, and animal manure. Turn pile every 2 weeks and keep moist like squeezed sponge. Compost is ready in 2-3 months when dark, crumbly, and earthy-smelling. Apply 2-5 t/ha before planting."
+  },
+  {
+    "keywords": "weather rain onset cessation forecast planting calendar nigeria zones",
+    "content": "Planting calendar in Nigeria follows rainfall zones: Mangrove (year-round), Rainforest (March-November), Guinea savanna (April-October), Sudan savanna (May-September), Sahel (June-September). Plant with first effective rains after 2-3 consecutive days of 20mm+ rainfall."
+  },
+  {
+    "keywords": "drought dry spell water conservation mulch irrigation",
+    "content": "Drought coping strategies include early planting, drought-tolerant varieties, mulching to reduce evaporation, and water harvesting (zai pits, bunds). During dry spells, irrigate at night to reduce water loss. Keep soil covered with residue."
+  },
+  {
+    "keywords": "post harvest storage grain maize rice cowpea weevil aflatoxin",
+    "content": "Post-harvest storage requires drying grain to 12-14% moisture before storage. Use hermetic bags (PICS) or metal silos for weevil control. Prevent aflatoxin by avoiding mold growth \u2014 never store damp grain. Add dried neem leaves or pepper as repellent."
+  },
+  {
+    "keywords": "marketing price farm gate middleman cooperative selling",
+    "content": "Farm marketing improves when farmers form cooperatives to bulk produce and negotiate better prices. Store crops and sell off-season when prices rise. Use mobile phones to check market prices before selling. Keep records of production costs to know minimum profitable price."
+  },
+  {
+    "keywords": "seed saving selection storage germination improved variety",
+    "content": "Seed saving requires selecting the best plants (healthy, high-yielding) and marking them before harvest. Harvest seed separately and dry to 10% moisture. Store in airtight container with silica gel or dried charcoal. Test germination before planting."
+  },
+  {
+    "keywords": "agbado yanrin zogale egusi ogbono ugu kpomo fiofio okpa local names",
+    "content": "Local crop names in Nigerian languages: agbado/yanyara (maize), yanrin (cowpea in Hausa), zogale (moringa), egusi (melon), ogbono (bush mango), ugu (fluted pumpkin), kpomo (cowpea in Yoruba), fiofio (pigeon pea), okpa (bambara groundnut). Use these names for local farmer queries."
+  },
+  {
+    "keywords": "pest identification damage symptom leaf curl hole yellow wilt",
+    "content": "Pest identification guide: leaf curling with whiteflies = virus; holes in leaves with frass = caterpillar; yellowing leaves = nutrient deficiency or root damage; wilting = stem borer or root rot; sticky honeydew = aphids or scale. Identify the pest before choosing control method."
+  },
+  {
+    "keywords": "agbado maize corn pidgin plant spacing fertilizer fall armyworm yanyara",
+    "content": "For agbado (maize), plant am for early rain time. Di spacing na 75cm by 25cm. Put NPK fertilizer when plant reach 3 weeks and again for 6 weeks. If you see armyworm (small green caterpillar wey dey chop leaf), use neem extract or insecticide early before e spread."
+  },
+  {
+    "keywords": "cassava akpu garri fufu CMD mosaic yellow leaf curl whitefly stem cutting",
+    "content": "Cassava get better yield if you plant clean stem cuttings from good variety like TME 419 or NR 8082. If leaf dey yellow and curl, na Cassava Mosaic Disease (CMD). Remove that plant and burn am. No use am for planting again. Plant only clean stems from healthy plant."
+  },
+  {
+    "keywords": "yam ji planting ridging staking wood ash mancozeb rot",
+    "content": "For yam (ji), plant for ridge wey get good drainage. Treat cut yam seed with wood ash and Mancozeb before you plant make e no rotten. Stake the vine with stick make leaf get light. Plant for early rain around March-April for southern Nigeria and May-June for north."
+  },
+  {
+    "keywords": "rice shinkafa planting lowland upland fadama weed flooding",
+    "content": "Rice (shinkafa) good for lowland and fadama area. Plant improved variety like FARO 44 or NERICA. Control weed by keeping paddy water level steady. If you see yellow mottle leaf, na RYMV. Use resistant variety and clean your farm tools after harvest."
+  },
+  {
+    "keywords": "goat ewu small ruminant PPR deworming housing",
+    "content": "Goat (ewu) need dry house wey dey raised from ground. Give am clean water and deworm every 3 months. Vaccinate against PPR disease. Give am browse leaf and legume food plus salt lick. If goat dey cough or get catarrh, call veterinary officer quick."
+  },
+  {
+    "keywords": "chicken poultry broiler layer brooding newcastle vaccine",
+    "content": "Chicken need warm place for first 3 weeks. Vaccinate against Newcastle disease when dem small. Give broiler starter feed (24% protein) then switch to finisher. Keep litter dry and no allow too many birds for small space. Change water every day."
+  },
+  {
+    "keywords": "cow cattle fulani herd tick FMD vaccination grazing",
+    "content": "Cattle (cow) need good pasture and water. Vaccinate against Foot and Mouth Disease (FMD) and other diseases. Control tick by spraying or dipping with acaricide every 2 weeks. Give mineral salt lick especially during dry season when grass no plenty."
+  },
+  {
+    "keywords": "fish pond catfish tilapia feeding water management",
+    "content": "Fish pond need clean water and good fingerlings. Stock 10-15 catfish per square meter. Feed floating pellet every day (morning and evening). If water dey too green or fish dey come up for air, change some water. Harvest when fish reach 1kg after 5-6 months."
+  },
+  {
+    "keywords": "groundnut peanut arachis rosette planting harvest storage",
+    "content": "Groundnut (peanut) grow well for sandy soil. Plant after first rain with spacing 60cm by 20cm. If leaf dey curl and plant dey small, na rosette virus from aphid. Use early planting and good variety like SAMNUT. Harvest when inside pod turn brown."
+  },
+  {
+    "keywords": "sorghum millet guinea corn dawa planting drought bird striga",
+    "content": "Sorghum (dawa) and millet (gero) dey handle dry weather well. Plant early with first rain. Use improved variety like SAMSORG or SOSAT. If you see striga weed (purple flower), rotate with cowpea next season. Use scare device for birds when grain dey fill."
+  },
+  {
+    "keywords": "pepper tomato atarodo nursery transplant whitefly virus",
+    "content": "Pepper and tomato (atarodo) start for nursery bed with good soil and shade. Transplant after 4-6 weeks. If leaf dey curl, na virus from whitefly. Remove infected plant and use resistant variety. Rotate with maize or cassava to reduce disease."
+  },
+  {
+    "keywords": "onion albasa bulb planting thrips storage curing",
+    "content": "Onion (albasa) need short-day variety like Red Creole or Violet de Galmi. Plant for nursery then transplant. Apply nitrogen fertilizer after 3 weeks. Control thrips with neem or approved insecticide. Stop watering 2 weeks before harvest. Cure bulb under shade before storage."
+  },
+  {
+    "keywords": "plantain banana ogede sucker sigatoka weevil bunch",
+    "content": "Plantain and banana (ogede) need good soil with water. Use clean sucker from healthy plant. Remove old leaf wey get black spot (Sigatoka). Support heavy bunch with stick. Harvest when finger turn light green. Sell am quick before e overripe."
+  },
+  {
+    "keywords": "cocoa koko pod rot black pod mirid spraying harvesting fermentation",
+    "content": "Cocoa (koko) grow for shaded area. Remove pod wey get black rot and spray copper fungicide during rain. Control mirid bug with approved insecticide. After harvest, ferment beans for 5-7 days before drying. Dry am well to 7% moisture before you sell."
+  },
+  {
+    "keywords": "cowpea beans wake planting weevil storage",
+    "content": "Cowpea (wake) dey give good protein. Plant improved variety like IT90K-76 with spacing 60cm by 20cm. Control pod borer with neem or insecticide. After harvest, dry beans well and store for airtight container with dried pepper or neem leaf to prevent weevil."
+  },
+  {
+    "keywords": "soybean soya planting inoculation phosphorus storage",
+    "content": "Soybean need well-drained soil. Inoculate seed with rhizobium before planting. Apply phosphorus fertilizer. Use improved variety like TGX 1448. Harvest when pod turn brown and leaf drop. Store dry beans for cool place."
+  },
+  {
+    "keywords": "vegetable ugu waterleaf ewedu amaranth garden bed manure",
+    "content": "Leafy vegetable like ugu, waterleaf, ewedu, and amaranth grow fast for raised bed. Mix soil with poultry manure or compost. Sow seed or plant cutting for rows 20-30cm apart. Harvest young leaf every 2-3 weeks. Water am morning and evening for dry season."
+  },
+  {
+    "keywords": "palm oil elaeis plantation seedling fertilizer harvesting",
+    "content": "Oil palm (elaeis) need well-drained soil and regular fertilizer. Plant tenera seedling for triangle pattern 9m apart. Apply NPK and kieserite every year. Harvest ripe bunch every 10-14 days. Process quick to get good oil."
+  },
+  {
+    "keywords": "moringa zogale leaf powder planting harvesting nutrition",
+    "content": "Moringa (zogale) dey grow fast and get plenty nutrition. Plant seed or cutting for spacing 3m. Harvest young leaf every 4-6 weeks for fresh use or dry am make powder. Pod wey dem call drumstick dey good for soup too. E no need too much water."
+  },
+  {
+    "keywords": "weather rain season planting time nigeria zone calendar",
+    "content": "For Nigeria, planting time depend on your zone. Rainforest area (south): plant from March. Guinea savanna: plant April-May. Sudan savanna: plant May-June. Sahel: plant June-July. Wait for 2-3 days of good rain before you plant. Early planting dey always better."
+  }
+]

@@ -1,0 +1,674 @@
+{
+  "overall_score_pct": 43.3,
+  "average_tps": 1.91,
+  "total_tokens": 4265,
+  "total_time_sec": 2233.11,
+  "category_breakdown": {
+    "Greeting_Guard": 100.0,
+    "Non_Agro_Guard": 77.8,
+    "Crop_Knowledge": 37.5,
+    "Livestock": 33.3,
+    "Pest_Disease": 20.0,
+    "Soil_Fertilizer": 16.7,
+    "Weather_Calendar": 41.7,
+    "Post_Harvest": 33.3,
+    "Market": 16.7,
+    "Regional_Mismatch": 50.0,
+    "Multi_Turn": 44.4,
+    "Edge_Case": 50.0
+  },
+  "results": [
+    {
+      "name": "Igbo Greeting",
+      "category": "Greeting_Guard",
+      "input": "Kekwanu",
+      "output": "Kedu! A b\u1ecbara m inyere g\u1ecb aka na \u1ecdr\u1ee5 ugbo, an\u1ee5man\u1ee5, ala, ah\u1ee5h\u1ee5, ma \u1ecd b\u1ee5 ihu igwe maka ugbo g\u1ecb.",
+      "elapsed_sec": 0.0,
+      "tokens": 21,
+      "tps": 2446677.33,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "kedu",
+        "ugbo",
+        "aka"
+      ]
+    },
+    {
+      "name": "Yoruba Greeting",
+      "category": "Greeting_Guard",
+      "input": "Bawo",
+      "output": "E kaaro! Mo wa lati ran e lowo pelu ogbin, eran, ile, kokoro, tabi oju-\u1ecdj\u1ecd fun oko r\u1eb9.",
+      "elapsed_sec": 0.0,
+      "tokens": 18,
+      "tps": 329683.28,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "ogbin",
+        "ile",
+        "oko"
+      ]
+    },
+    {
+      "name": "Hausa Greeting",
+      "category": "Greeting_Guard",
+      "input": "Sannu",
+      "output": "Sannu! Ina nan don taimaka muku da noma, dabbobi, \u0199asa, kwari, ko yanayi na gonarku.",
+      "elapsed_sec": 0.0,
+      "tokens": 15,
+      "tps": 1165084.44,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "noma",
+        "gonarku",
+        "kwari"
+      ]
+    },
+    {
+      "name": "Pidgin Greeting",
+      "category": "Greeting_Guard",
+      "input": "How far",
+      "output": "How far! Na AgriGemma4.9ja. You fit ask me about crop, livestock, soil, pest, or weather for your farm.",
+      "elapsed_sec": 0.0,
+      "tokens": 18,
+      "tps": 656499.76,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "crop",
+        "livestock",
+        "farm"
+      ]
+    },
+    {
+      "name": "English Greeting",
+      "category": "Greeting_Guard",
+      "input": "Hello",
+      "output": "Hello! I am AgriGemma4.9ja, your agricultural extension officer. Ask me about crops, livestock, soil, pests, or weather for your farm.",
+      "elapsed_sec": 0.0,
+      "tokens": 20,
+      "tps": 1103764.21,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "agricultural",
+        "farm",
+        "crops"
+      ]
+    },
+    {
+      "name": "Politics Redirect",
+      "category": "Non_Agro_Guard",
+      "input": "Who do you think will win the election?",
+      "output": "I am AgriGemma4.9ja, focused on Nigerian agricultural advice. Ask me about crops, livestock, soil, pests, or weather for your farm. If you want to know something about farming, I am ready to help!",
+      "elapsed_sec": 0.0,
+      "tokens": 33,
+      "tps": 368117.11,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "agricultural",
+        "crops",
+        "livestock"
+      ]
+    },
+    {
+      "name": "Football Redirect",
+      "category": "Non_Agro_Guard",
+      "input": "Which football team is the best in Nigeria?",
+      "output": "I am AgriGemma4.9ja, focused on Nigerian agricultural advice. Ask me about crops, livestock, soil, pests, or weather for your farm. If you want to know something about farming, I am ready to help!",
+      "elapsed_sec": 0.0,
+      "tokens": 33,
+      "tps": 169830.71,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "agricultural",
+        "crops",
+        "livestock"
+      ]
+    },
+    {
+      "name": "Music Redirect",
+      "category": "Non_Agro_Guard",
+      "input": "Who is the best musician in Africa?",
+      "output": "I am an agricultural extension officer. My expertise is in advising smallholder farmers on crop production, soil management, and pest control based on Nigerian agro-ecological knowledge. I cannot advise on musical artists.",
+      "elapsed_sec": 25.54,
+      "tokens": 40,
+      "tps": 1.57,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "agricultural"
+      ]
+    },
+    {
+      "name": "Maize Armyworm Kaduna",
+      "category": "Crop_Knowledge",
+      "input": "I am seeing caterpillars with sawdust-like droppings in my maize in Kaduna. What should I do?",
+      "output": "Caterpillars with sawdust-like droppings in your maize in Kaduna indicate a pest problem.\n\nYou must apply appropriate control measures immediately. Since you are in the Guinea Savanna zone, follow these steps:\n\n1.  **Identify and Control:** Identify the specific caterpillar species causing the damage to determine the most effective control method.\n2.  **Pest Management:** Apply targeted insecticides or biological controls as recommended for maize pests in your region.\n\nDo not wait; immediate action is required to prevent further yield loss.",
+      "elapsed_sec": 67.29,
+      "tokens": 106,
+      "tps": 1.58,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Pidgin Cassava Mosaic",
+      "category": "Crop_Knowledge",
+      "input": "Abeg, my cassava leaf dey yellow and curl. Wetin fit cause am, and wetin I fit do first make e no spread?",
+      "output": "Cassava leaf dey yellow and curl, na likely Cassava Mosaic Disease (CMD).\n\nFirst thing you fit do na remove that plant immediately. No use am for planting again. Remove am and burn am.\n\nTo stop am from spreading, make you plant only clean stem cuttings from healthy plants like TME 419 or NR 8082.\n\nControl weed competition early. If you no control weeds well, your cassava yield go reduce by 80% per hectare because the weeds reduce branches and root development. You must control weeds in the first 3-4 months after planting.",
+      "elapsed_sec": 139.77,
+      "tokens": 123,
+      "tps": 0.88,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "mosaic",
+        "tme",
+        "remove",
+        "burn"
+      ]
+    },
+    {
+      "name": "Pidgin Yam Planting Benue",
+      "category": "Crop_Knowledge",
+      "input": "Na which month be di best time to plant yam for Benue State, and how I go take prepare my farmland before planting?",
+      "output": "For Benue State, the best time to plant yam is generally during the rainy season. Based on general Nigerian agro-ecological knowledge for the Guinea Savanna zone where Benue falls, planting should align with the onset of the first rains.\n\nBefore planting, prepare your farmland by clearing weeds and breaking up the soil thoroughly. Ensure the land is well-drained so that water does not stagnate, as this is crucial for yam cultivation in loamy soils.",
+      "elapsed_sec": 42.4,
+      "tokens": 93,
+      "tps": 2.19,
+      "keyword_match_pct": 25.0,
+      "matched_keywords": [
+        "rain"
+      ]
+    },
+    {
+      "name": "Cowpea Storage Weevil",
+      "category": "Crop_Knowledge",
+      "input": "How do I store my cowpea beans so weevils don't destroy them?",
+      "output": "Store your dried cowpea beans in airtight containers with dried pepper or neem leaves to prevent weevil damage.",
+      "elapsed_sec": 8.43,
+      "tokens": 21,
+      "tps": 2.49,
+      "keyword_match_pct": 75.0,
+      "matched_keywords": [
+        "weevil",
+        "container",
+        "neem"
+      ]
+    },
+    {
+      "name": "Groundnut Rosette",
+      "category": "Crop_Knowledge",
+      "input": "My groundnut leaves are curling and the plants are small. What is wrong?",
+      "output": "If your groundnut leaves are curling and the plants are small, this indicates a problem that needs immediate attention.\n\nFirst, I need to know where you are farming so I can give you accurate advice based on our regional knowledge base. Are you in the Sahel/Sudan Savanna, Guinea Savanna/Middle Belt, or Rainforest Zone?\n\nIn general, leaf curling and stunted growth can be caused by several issues:\n\n1.  **Nutrient Deficiency:** Insufficient nitrogen or other essential nutrients can lead to poor vegetative growth and leaf distortion.\n2.  **Pest Infestation:** Certain insects or diseases can cause leaves to curl or distort the plant structure.\n\nOnce you tell me your location, I can advise specifically on the most likely culprit\u2014whether it is a pest like aphids or thrips, or a nutrient imbalance specific to your climate and soil type.",
+      "elapsed_sec": 61.56,
+      "tokens": 177,
+      "tps": 2.88,
+      "keyword_match_pct": 25.0,
+      "matched_keywords": [
+        "aphid"
+      ]
+    },
+    {
+      "name": "Onion Thrips Control",
+      "category": "Crop_Knowledge",
+      "input": "How do I control thrips in my onion farm?",
+      "output": "Thrips (*Thrips tabaci Lind*) are a serious pest for onions.\n\nControl the thrips by managing both the larvae and the adult insects, as they cause damage to the onion crop.",
+      "elapsed_sec": 63.17,
+      "tokens": 40,
+      "tps": 0.63,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Sorghum Striga Weed",
+      "category": "Crop_Knowledge",
+      "input": "I have purple-flowered weeds destroying my sorghum. What are they and how do I manage them?",
+      "output": "You are dealing with weeds that are competing with your sorghum.\n\nIf you are in the Sahel or Sudan Savanna zone (like Sokoto, Borno, Kano), these purple-flowered weeds are likely species adapted to dry conditions and are competing for water and nutrients with your sorghum.\n\nTo manage them effectively:\n\n1.  **Mechanical Control:** Since they are destroying your crop, immediate physical removal is necessary. Hand weeding or hoeing the area where the weed is concentrated will remove the biomass before it severely impacts the sorghum root system.\n2.  **Cultural Practice:** Ensure proper residue management. If you are using a specific seed rate for sorghum, ensure the inter-row spacing allows adequate sunlight penetration to suppress weed growth in the vicinity of the crop.\n\nIf you can specify your location (e.g., Sahel or Guinea Savanna), I can give you more targeted advice on specific weed species and appropriate control measures based on local agro-ecology.",
+      "elapsed_sec": 32.33,
+      "tokens": 195,
+      "tps": 6.03,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Pidgin Plantain Sigatoka",
+      "category": "Crop_Knowledge",
+      "input": "My plantain leaves get black spots and the bunch dey small. Wetin I fit do?",
+      "output": "You dey see black spots for your plantain leaves and the bunch small? This sound like a problem.\n\nIf you are in an area where plantain is growing, I need to know which part of Nigeria you are in so I can give you the right advice based on our local knowledge.\n\nHowever, based on what you tell me, if the spots are black and the bunch is small, this could be a sign of a disease or pest affecting your plantain.\n\nIf the problem is related to **Sigatoka** (which affects banana/plantain), we need to control it immediately. Use approved fungicides as per our guidelines for Sigatoka management. Remove any infected leaves right away from the bunch. Support the heavy bunches with props and harvest when the fingers turn light green for market.\n\nTell me your location so I can confirm if this is a known issue in your region and give you specific treatment instructions.",
+      "elapsed_sec": 44.67,
+      "tokens": 187,
+      "tps": 4.19,
+      "keyword_match_pct": 75.0,
+      "matched_keywords": [
+        "sigatoka",
+        "fungicide",
+        "remove"
+      ]
+    },
+    {
+      "name": "Goat PPR Disease",
+      "category": "Livestock",
+      "input": "My goats are having fever and mouth sores. What disease is this and how do I prevent it?",
+      "output": "This fever and mouth sores suggest a serious issue. This could be Temparomosis, which is a sight weakening disease and yellow fever.\n\nFor prevention, you must immediately isolate the affected goats from the rest of the flock to stop further spread. Ensure clean water access for them. Report these symptoms to the veterinary officer right away so they can provide specific treatment protocols based on your location.",
+      "elapsed_sec": 16.73,
+      "tokens": 78,
+      "tps": 4.66,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "vet"
+      ]
+    },
+    {
+      "name": "Newcastle Disease Poultry",
+      "category": "Livestock",
+      "input": "My chickens are dying suddenly with twisted necks. What is happening?",
+      "output": "This sudden death with twisted necks strongly suggests a severe viral infection, most commonly Avian Influenza (Bird Flu) or Newcastle Disease.\n\nYou must immediately isolate the affected birds from the rest of your flock to prevent further spread. This is not a problem for simple feed adjustments; it requires immediate veterinary intervention.\n\nContact your nearest veterinary officer or local livestock service immediately. They need to diagnose the specific pathogen causing this acute neurological symptom.",
+      "elapsed_sec": 10.93,
+      "tokens": 86,
+      "tps": 7.87,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "newcastle"
+      ]
+    },
+    {
+      "name": "Fish Pond Stocking",
+      "category": "Livestock",
+      "input": "How many catfish fingerlings should I stock per square meter in my pond?",
+      "output": "I am AgriGemma4.9ja, focused on Nigerian agricultural advice. Ask me about crops, livestock, soil, pests, or weather for your farm. If you want to know something about farming, I am ready to help!",
+      "elapsed_sec": 0.0,
+      "tokens": 33,
+      "tps": 202061.36,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Cattle Tick Control",
+      "category": "Livestock",
+      "input": "Ticks are all over my cattle. How often should I spray and with what?",
+      "output": "If ticks are affecting your cattle, you need to control them immediately.\n\nYou must spray regularly to manage the infestation effectively. The specific frequency and chemical depend on the type of tick and local conditions, but for general control:\n\n1.  **Frequency:** Spraying should be done frequently, often every 7 to 10 days initially, depending on how quickly the population is growing. You need consistent application to break the life cycle.\n2.  **Treatment:** Use appropriate acaricides. The specific chemical you use must be selected based on local availability and tick species prevalence in your area.\n\nDo not overdo it or underdo it; this is crucial for managing disease transmission and animal health. Consult with a professional service provider to determine the exact product and dosage required for your specific situation.",
+      "elapsed_sec": 101.29,
+      "tokens": 162,
+      "tps": 1.6,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "acaricide",
+        "2"
+      ]
+    },
+    {
+      "name": "Pidgin Chicken Brooding",
+      "category": "Livestock",
+      "input": "Abeg, how I go take raise my small chicks make dem no die?",
+      "output": "If you are raising chicks, you must know where you are farming.\n\nIf your farm is in the Sahel or Sudan Savanna area (like Sokoto, Borno), these conditions are very hot and dry. You need to ensure good water access for the chicks' survival.\n\nIf you are in a region with heavy rainfall (Rainforest Zone) or near swampy areas, the humidity and waterlogging can be dangerous for chicks unless managed properly.\n\nTell me which area you are in so I can give you specific advice on managing their environment to prevent death.",
+      "elapsed_sec": 41.75,
+      "tokens": 114,
+      "tps": 2.73,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Rabbit Feeding",
+      "category": "Livestock",
+      "input": "What should I feed my rabbits for fast growth?",
+      "output": "If you are in a region where rabbits are suitable for farming, I need to know your location so I can advise based on the local agro-ecological knowledge.\n\nFor fast growth, feed must be balanced. If you are operating in an area with short rainfall and high heat (Sahel/Sudan Savanna), focus on locally available roughages like millet straw or sorghum residue mixed with legume hay to provide necessary protein and fiber.\n\nIf you are in a region with moderate rainfall (Guinea Savanna/Middle Belt) where you can access crops, incorporate soybean meal or groundnut residues as concentrates to boost growth rate.\n\nProvide your location so I can give specific advice based on the local conditions.",
+      "elapsed_sec": 61.92,
+      "tokens": 141,
+      "tps": 2.28,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "concentrate",
+        "protein"
+      ]
+    },
+    {
+      "name": "Fall Armyworm ID",
+      "category": "Pest_Disease",
+      "input": "What pest leaves sawdust-like frass in maize whorls?",
+      "output": "That sawdust-like frass in the maize whorls is likely caused by a pest.\n\nIf you are in a Sahel or Sudan Savanna area, where maize is grown, this could be related to pests that feed on the whorl or the base of the plant. You need to identify the specific pest causing the damage for targeted control.",
+      "elapsed_sec": 69.38,
+      "tokens": 69,
+      "tps": 0.99,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Cassava Mosaic ID",
+      "category": "Pest_Disease",
+      "input": "What does cassava mosaic disease look like?",
+      "output": "Cassava Mosaic Disease (CMD) is a viral disease that affects cassava plants. It causes mosaic patterns on the leaves, which appear as irregular, mottled patches of different colors across the foliage. These symptoms can range from mild to severe depending on the strain of the virus and the host plant's resistance level.",
+      "elapsed_sec": 55.62,
+      "tokens": 62,
+      "tps": 1.11,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Rice Yellow Mottle",
+      "category": "Pest_Disease",
+      "input": "My rice leaves are yellow with mottled patterns. What virus is this?",
+      "output": "This symptom points to Rice Yellow Mottle Virus (RYMV).\n\nManage this by using resistant varieties such as FARO 44 or NERICA. You must also control vector beetles by managing controlled paddy water drainage and thoroughly cleaning your harvesting equipment.",
+      "elapsed_sec": 87.03,
+      "tokens": 50,
+      "tps": 0.57,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "rymv",
+        "resistant",
+        "beetle"
+      ]
+    },
+    {
+      "name": "ASF Pig Disease",
+      "category": "Pest_Disease",
+      "input": "My pigs have high fever and bloody diarrhea. What could this be?",
+      "output": "The symptoms you describe\u2014high fever and bloody diarrhea in your pigs\u2014require immediate attention.\n\nBased on the knowledge available, this could indicate a serious parasitic infection or a severe bacterial illness. We need to determine the specific cause quickly.\n\nIf you are in the **Rainforest Zone** (Oyo, Enugu, Imo, Edo, Ogun), where heavy rainfall and humidity are common, we must consider environmental factors alongside disease. If your pigs are in an area with high moisture, parasitic infections like *Heterakis spp* or *Ascaridia galli*, which affect guinea fowl, can be relevant, though the specific pathology in pigs needs local diagnosis.\n\n**Actionable Advice:**\n\n1.  **Isolate and Observe:** Immediately separate the affected pigs from the rest of the flock to prevent further spread.\n2.  **Veterinary Consultation:** You must consult a qualified veterinarian immediately for accurate diagnosis and treatment protocol, as this requires specific diagnostics beyond what I can provide remotely.\n3.  **Sanitation Check:** Review your feeding practices and housing conditions. Poor sanitation is a primary driver for both bacterial and parasitic outbreaks in swine.\n\nIf you are in the **Sahel/Sudan Savanna** (Sokoto, Borno, Kano, Jigawa), where heat and dry conditions prevail, we would focus on bacterial causes related to poor water management or feed contamination.\n\nProvide your location so I can tailor this advice further based on the specific agro-ecological context",
+      "elapsed_sec": 87.64,
+      "tokens": 300,
+      "tps": 3.42,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Fruit Fly Mango",
+      "category": "Pest_Disease",
+      "input": "Maggots are inside my mango fruits. What pest is this?",
+      "output": "This is likely a pest infestation. Based on the symptoms of maggots inside mango fruits, you need to identify the specific type of maggot and then apply targeted control measures.\n\nIf the larvae are feeding inside the fruit, this points towards pests like fruit flies or other insect pests that lay eggs in or near the developing fruit.\n\nTo give you precise advice, I need to know your location so I can check local pest management protocols. Are you farming in a region with high rainfall (Rainforest Zone) or a drier area?",
+      "elapsed_sec": 21.89,
+      "tokens": 107,
+      "tps": 4.89,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Acidic Soil Lime",
+      "category": "Soil_Fertilizer",
+      "input": "My soil is very acidic. What should I apply?",
+      "output": "If your soil is very acidic, you must know which agro-ecological zone you are in to give you correct advice.\n\nTell me if you are in the Sahel/Sudan Savanna (like Sokoto or Kano), Guinea Savanna/Middle Belt (like Kaduna or Benue), Rainforest Zone (like Oyo or Enugu), or Swamp/Mangrove Zone.\n\nOnce I know your region, I can advise on the appropriate fertilizer application based on that area's needs and soil type.",
+      "elapsed_sec": 93.3,
+      "tokens": 99,
+      "tps": 1.06,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "NPK Split Application",
+      "category": "Soil_Fertilizer",
+      "input": "When should I apply NPK to my maize?",
+      "output": "If you are in the Guinea Savanna or Middle Belt zone, where maize is suitable, apply NPK according to your soil test results.\n\nIn the Sahel/Sudan Savanna, for crops like millet and sorghum, nutrient requirements differ significantly from maize.\n\nFor maize in the Guinea Savanna: Apply NPK based on the specific deficiencies identified in your soil analysis. Do not apply without a recent soil test indicating nutrient deficiency.",
+      "elapsed_sec": 102.01,
+      "tokens": 87,
+      "tps": 0.85,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Compost Preparation",
+      "category": "Soil_Fertilizer",
+      "input": "How do I make compost for my farm?",
+      "output": "Compost making depends entirely on your location and the type of farm you are managing.\n\nIf you are in a region with heavy rainfall and high humidity, like the Rainforest Zone, you can use organic matter readily available from your environment to create compost for your crops like cassava or oil palm. You need plenty of green waste and decaying biomass to build rich soil structure.\n\nFor areas where the climate is drier, such as the Sahel/Sudan Savanna, composting will focus on utilizing crop residues like millet stalks or sorghum stubble mixed with animal manure to improve sandy/loamy soils for crops like cowpea or groundnut.\n\nIf you are in a region with moderate rainfall and loamy soils, like the Guinea Savanna, you can incorporate crop residues from maize or soybean alongside manure to enhance soil fertility for yam or cassava production.\n\nTell me which general area your farm is located in\u2014is it hot and dry, or does it receive heavy rain? This will tell me exactly what materials we should focus on for your compost.",
+      "elapsed_sec": 106.71,
+      "tokens": 208,
+      "tps": 1.95,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "manure"
+      ]
+    },
+    {
+      "name": "Erosion Control Slope",
+      "category": "Soil_Fertilizer",
+      "input": "How do I prevent erosion on my sloped farm?",
+      "output": "If your farm is sloped, you must manage the soil to prevent erosion.\n\nFor rice production, if you are planting on a slope, cover the paddy field with water to prevent erosion.\n\nIn areas where continuous cropping is practiced, clear bush and pack thrashes between more than two years on the same piece of land. Use hoe to remove stumps and conservation/improvement measures such as growing weeds should be adopted. Plough rice residues into the soil as February, depending on the onset of the rains.",
+      "elapsed_sec": 56.31,
+      "tokens": 102,
+      "tps": 1.81,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "cover"
+      ]
+    },
+    {
+      "name": "Planting Time Rainforest",
+      "category": "Weather_Calendar",
+      "input": "When should I start planting in the rainforest zone?",
+      "output": "In the Rainforest Zone, you should start planting cassava between March and November.",
+      "elapsed_sec": 55.28,
+      "tokens": 15,
+      "tps": 0.27,
+      "keyword_match_pct": 100.0,
+      "matched_keywords": [
+        "march",
+        "rain"
+      ]
+    },
+    {
+      "name": "Pidgin Planting Time",
+      "category": "Weather_Calendar",
+      "input": "When be di best time to plant for northern Nigeria?",
+      "output": "For Northern Nigeria, the best time to plant depends on the crop.\n\nFor crops like millet and sorghum, planting should be timed with the onset of the first rains in May to July to ensure good establishment before the dry season begins.\n\nFor cassava, planting can be done between March and October across all zones, but for Northern regions specifically, planting between May and July is recommended to ensure cuttings are well established before the dry season starts.",
+      "elapsed_sec": 52.39,
+      "tokens": 88,
+      "tps": 1.68,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "rain"
+      ]
+    },
+    {
+      "name": "Drought Coping",
+      "category": "Weather_Calendar",
+      "input": "What can I do during a dry spell to save my crops?",
+      "output": "If you are in the Sahel or Sudan Savanna zone, and facing a dry spell, focus on water conservation and crop resilience.\n\nFor millet and sorghum, ensure your planting is timed correctly to utilize any residual moisture effectively. If you have groundnut, monitor soil moisture closely; excessive drying will stress the plants severely during this long dry season.\n\nIf you are in the Guinea Savanna zone, for crops like maize and soybean, water scarcity demands strict adherence to efficient irrigation techniques if available, or careful management of planting density to reduce overall water demand.\n\nIn all regions, prioritize soil moisture retention through immediate mulching practices where possible to minimize evaporation from the topsoil.",
+      "elapsed_sec": 91.95,
+      "tokens": 135,
+      "tps": 1.47,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "mulch"
+      ]
+    },
+    {
+      "name": "Rain Onset Signs",
+      "category": "Weather_Calendar",
+      "input": "How do I know the rains have started properly for planting?",
+      "output": "If you are in the Sahel or Sudan Savanna zone, wait for the first rains to start before planting millet or sorghum. The best time to plant these crops is between May and July to ensure cuttings are well established before the dry season begins.\n\nIf you are in the Guinea Savanna/Middle Belt zone, the rains usually fall between April and October. For crops like yam or maize, monitor the onset of these rains closely.\n\nIf you are in a Rainforest Zone, the heavy rainfall starts around March and continues through November for crops like cassava or oil palm.",
+      "elapsed_sec": 82.47,
+      "tokens": 114,
+      "tps": 1.38,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Grain Drying Moisture",
+      "category": "Post_Harvest",
+      "input": "What moisture level should I dry my maize to before storage?",
+      "output": "Dry your maize to 10 to 12% moisture content before storage.",
+      "elapsed_sec": 37.6,
+      "tokens": 17,
+      "tps": 0.45,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "12",
+        "dry"
+      ]
+    },
+    {
+      "name": "Aflatoxin Prevention",
+      "category": "Post_Harvest",
+      "input": "How do I prevent mold and aflatoxin in my stored grains?",
+      "output": "To prevent mold and aflatoxin in stored grains, you must control moisture and temperature.\n\nKeep your grain dry. Moisture is the primary driver for mold growth and subsequent aflatoxin production by fungi. Ensure proper ventilation to reduce humidity around storage areas.\n\nMaintain a cool, dry environment. High temperatures accelerate fungal growth. If possible, use controlled storage methods that minimize exposure to moisture ingress.",
+      "elapsed_sec": 16.39,
+      "tokens": 77,
+      "tps": 4.7,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "mold",
+        "dry"
+      ]
+    },
+    {
+      "name": "Hermetic Storage Bags",
+      "category": "Post_Harvest",
+      "input": "What are the best bags for storing cowpea without weevils?",
+      "output": "For storing cowpea and protecting it from weevils, use durable, breathable bags.\n\nUse woven polypropylene bags for storage. Ensure the bags are sealed tightly after filling to minimize pest access. Good ventilation is necessary to prevent moisture buildup which attracts pests.",
+      "elapsed_sec": 12.23,
+      "tokens": 51,
+      "tps": 4.17,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Onion Curing",
+      "category": "Post_Harvest",
+      "input": "How long should I cure my onions after harvest?",
+      "output": "If you are in a region where onions are grown, the curing period depends on your local climate and storage conditions.\n\nIn areas with high heat and dry seasons, like the Sahel/Sudan Savanna, the goal is to minimize spoilage before harvest. If you are harvesting during the dry season, immediate processing or proper curing techniques are essential to prevent moisture damage and pest infestation.\n\nIf you are in a region where onions are grown during the wet season, storage must be managed carefully to control fungal growth and moisture loss. Proper curing prevents rapid deterioration due to high temperatures and humidity.",
+      "elapsed_sec": 21.22,
+      "tokens": 118,
+      "tps": 5.56,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Cooperative Selling",
+      "category": "Market",
+      "input": "How can I get better prices for my produce?",
+      "output": "Tell me where you are farming. Your price depends entirely on your location and what you are growing.\n\nIf you are in the Sahel or Sudan Savanna, focus on high-demand crops like millet, sorghum, cowpea, and onions. If you are in the Guinea Savanna/Middle Belt, aim for yam, maize, soybean, and cassava. If you are in the Rainforest Zone, prioritize cassava, oil palm, cocoa, and plantain.\n\nTo get better prices, you must control your production and market access. Focus on quality and volume. Record keeping is essential; keep a clear record of your harvest quantity, species harvested, and sales price for every product. This data allows you to establish efficiency standards and negotiate better terms with buyers or cooperatives.",
+      "elapsed_sec": 44.89,
+      "tokens": 154,
+      "tps": 3.43,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "cooperative"
+      ]
+    },
+    {
+      "name": "Price Timing",
+      "category": "Market",
+      "input": "When is the best time to sell my maize for highest profit?",
+      "output": "The best time to sell your maize for the highest profit depends entirely on your local climate and market conditions.\n\nIf you are in a region with moderate rainfall (Guinea Savanna/Middle Belt), the harvest season dictates when you should aim to sell. Generally, selling closer to the peak of the harvest period maximizes immediate cash flow.\n\nHowever, if you are in a Sahelian zone with very short rainy seasons, your selling window will be extremely narrow, dictated by the brief period when the crop is ready for harvest and market demand is highest.\n\nYou must assess local market demand and storage capacity before deciding on the exact timing.",
+      "elapsed_sec": 75.87,
+      "tokens": 126,
+      "tps": 1.66,
+      "keyword_match_pct": 0.0,
+      "matched_keywords": []
+    },
+    {
+      "name": "Pidgin Apples Kaduna",
+      "category": "Regional_Mismatch",
+      "input": "i wan plant apple for kaduna i hear sy e dey bring better money",
+      "output": "Kaduna no be the right place for you to plant apple. Kaduna too hot for apples. You must go to Jos or Mambilla if you want to grow those cool crops like apples.",
+      "elapsed_sec": 4.79,
+      "tokens": 39,
+      "tps": 8.14,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "mambilla"
+      ]
+    },
+    {
+      "name": "Potatoes in Rivers",
+      "category": "Regional_Mismatch",
+      "input": "I want to start commercial Irish potato farming in the swampy parts of Rivers State. Will it work?",
+      "output": "Rivers State is in the Swamp/Mangrove Zone. Commercial Irish potato farming in raw swamp soil without artificial drainage will not work.\n\nThe high humidity and waterlogged, acidic soils of the swamp zone are unsuitable for growing potatoes commercially. You must use appropriate land preparation and drainage management.",
+      "elapsed_sec": 34.62,
+      "tokens": 57,
+      "tps": 1.65,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "drainage"
+      ]
+    },
+    {
+      "name": "Cocoa in Sokoto",
+      "category": "Regional_Mismatch",
+      "input": "Can I grow cocoa in Sokoto State?",
+      "output": "Cocoa is best suited for the Rainforest Zone. Sokoto State falls within the Sahel/Sudan Savanna zone, characterized by short rainfall and high heat.\n\nYou cannot successfully grow cocoa in Sokoto State because the climatic conditions are unsuitable. Cocoa requires consistent, heavy rainfall and a tropical rainforest environment. The climate in Sokoto is too dry and hot for successful cocoa cultivation.",
+      "elapsed_sec": 22.5,
+      "tokens": 76,
+      "tps": 3.38,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "rainforest",
+        "cocoa"
+      ]
+    },
+    {
+      "name": "Fish in Jos Plateau",
+      "category": "Regional_Mismatch",
+      "input": "Is the Jos Plateau good for catfish farming?",
+      "output": "Jos Plateau is a high-altitude area. Based on the agro-ecological knowledge, Jos has cold temperatures and chill hours.\n\nCatfish farming requires specific water temperature and environmental conditions. You must confirm if your specific location within Jos falls into the temperate zone where these crops are viable. If you are in an area that naturally supports temperate crops like Irish potato or apples, then catfish farming might be considered depending on local water availability and management practices.",
+      "elapsed_sec": 56.55,
+      "tokens": 89,
+      "tps": 1.57,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "water",
+        "temperature"
+      ]
+    },
+    {
+      "name": "Follow-up Maize",
+      "category": "Multi_Turn",
+      "input": "You mentioned neem extract for armyworm. How do I prepare it?",
+      "output": "Prepare neem extract by grinding dried neem leaves into a fine powder. Mix this powder with water to create a concentrated solution. Apply this mixture directly to the affected areas of your crops, ensuring good coverage on the armyworm congregation points. Reapply every seven days as needed for control.",
+      "elapsed_sec": 5.96,
+      "tokens": 56,
+      "tps": 9.39,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "neem"
+      ]
+    },
+    {
+      "name": "Follow-up Cassava",
+      "category": "Multi_Turn",
+      "input": "Where can I get TME 419 cassava stems?",
+      "output": "TME 419 cassava stems are sourced from certified suppliers. You must obtain these from reputable sources to ensure the cuttings are disease-free and free from vector transmission, as they are essential for combating Cassava Mosaic Disease (CMD) and Cassava Bacterial Blight (CBB).",
+      "elapsed_sec": 105.19,
+      "tokens": 58,
+      "tps": 0.55,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "certified",
+        "stem"
+      ]
+    },
+    {
+      "name": "Follow-up Goat",
+      "category": "Multi_Turn",
+      "input": "What dewormer should I use for my goats?",
+      "output": "You must tell me your location so I can advise you properly. The type of dewormer for your goats depends on where you are in Nigeria, as the appropriate medicine is very specific.",
+      "elapsed_sec": 40.66,
+      "tokens": 38,
+      "tps": 0.93,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "deworm"
+      ]
+    },
+    {
+      "name": "Very Short Query",
+      "category": "Edge_Case",
+      "input": "maize",
+      "output": "Which part of Nigeria are you farming in?\n\nIf you are in the Guinea Savanna or Middle Belt (like Kaduna, Benue, Kogi, Niger), maize is a suitable crop. If your area receives moderate rainfall between April and October, it is well-suited for cultivation alongside crops like yam and soybean on loamy soils.\n\nIf you are in the Sahel/Sudan Savanna zone with very short rains, maize may struggle due to insufficient rainfall during critical growth stages.",
+      "elapsed_sec": 9.15,
+      "tokens": 97,
+      "tps": 10.6,
+      "keyword_match_pct": 33.3,
+      "matched_keywords": [
+        "maize"
+      ]
+    },
+    {
+      "name": "Vague Query",
+      "category": "Edge_Case",
+      "input": "help me with my farm",
+      "output": "Tell me about your farm. Which crop are you growing, and what is the weather like where you are?",
+      "elapsed_sec": 65.74,
+      "tokens": 22,
+      "tps": 0.33,
+      "keyword_match_pct": 66.7,
+      "matched_keywords": [
+        "crop",
+        "farm"
+      ]
+    }
+  ]
+}
