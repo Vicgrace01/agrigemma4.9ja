@@ -82,5 +82,8 @@
     "architecture": "gemma4",
     "claimed_params_estimate": "4.65B",
     "params_match": true
+  },
+  "_runtime": {
+    "model_path": "model/gemma-4-E2B-it-Q3_K_M.gguf"
   }
 }
