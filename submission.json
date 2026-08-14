@@ -34,7 +34,7 @@
       "name": "AgriGemma4.9ja — Gemma 4 E2B IT",
       "runtime": "llama.cpp",
       "quantization": "GGUF Q3_K_M",
-      "parameters_estimate": "5.1B",
+      "parameters_estimate": "4.65B",
       "packaging": "binary_bundle"
     }
   },
