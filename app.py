@@ -62,6 +62,8 @@ NIGERIAN_GREETINGS = {
     "good": "Great! How can I assist with your farm today?",
     "fair": "I see. What specific farming advice do you need today?",
     "hmm": "I understand. What agricultural question do you have?",
+    "well": "Alright! What specific farming advice do you need today?",
+    "well well": "I hear you! What agricultural question do you have?",
     # Nigerian Pidgin
     "how far": "How far! Na AgriGemma4.9ja. You fit ask me about crop, livestock, soil, pest, or weather for your farm.",
     "how you dey": "I dey fine, thank you! Na AgriGemma4.9ja. You fit ask me about crop, livestock, soil, pest, or weather for your farm.",
@@ -124,12 +126,21 @@ AGRI_TERMS = {
     # General
     "farming", "agriculture", "extension", "advisory", "farm",
     "livestock", "animal", "herd", "flock", "pen", "cage",
+    "rear", "rearing", "breed", "breeding",
     # Pests & Diseases
     "pest", "disease", "infestation", "parasite", "worm",
     "armyworm", "fall armyworm", "cassava mosaic", "mosaic",
     # Weather & Soil
     "rainfall", "drought", "flood", "soil", "fertilizer",
     "manure", "compost", "irrigation", "drainage"
+}
+
+# Livestock-specific terms for better detection
+LIVESTOCK_TERMS = {
+    "livestock", "cattle", "goat", "sheep", "pig", "swine", "poultry",
+    "chicken", "fish", "rabbit", "snail", "turkey", "duck", "quail",
+    "guinea fowl", "animal", "herd", "flock", "pen", "cage",
+    "rear", "rearing", "breed", "breeding", "broiler", "layer"
 }
 
 # Common-sense terms for filtering non-agricultural questions
@@ -183,7 +194,19 @@ GREETING_PATTERNS = [
     r"no\s+wahala",
     r"you\s+welcom",
     r"how\s+you",
+    r"abeg\s+finish",
+    r"go\s+on",
+    r"continue",
+    r"finish",
+    r"more",
+    r"keep\s+going",
 ]
+
+# Continuation phrases for "finish" request
+CONTINUATION_PHRASES = {
+    "continue", "go on", "more", "finish", "keep going",
+    "abeg finish", "abeg continue", "pls continue", "please continue"
+}
 
 def is_greeting(message):
     """Check if message is a simple greeting in any supported language."""
@@ -202,38 +225,44 @@ def detect_non_agro_topic(message):
     """Detect what non-agro topic the user is asking about."""
     lower_message = message.lower()
 
+    # Skip finance if livestock terms are present
+    if any(term in lower_message for term in LIVESTOCK_TERMS):
+        return None
+
     topic_map = {
-        "politics": ["election", "president", "governor", "senator", "politician", "pdp", "apc"],
-        "football": ["football", "soccer", "ball", "goal", "player", "team"],
-        "music": ["music", "singer", "song", "album", "musician", "concert"],
-        "entertainment": ["movie", "film", "actor", "actress", "cinema", "nollywood"],
-        "fashion": ["fashion", "clothes", "dress", "style", "shoe"],
-        "technology": ["phone", "computer", "laptop", "software", "app", "website"],
-        "finance": ["bitcoin", "crypto", "stock", "invest", "money", "bank"],
-        "education": ["school", "exam", "homework", "study", "university"],
-        "health": ["hospital", "doctor", "medicine", "fever", "headache"],
-        "religion": ["church", "mosque", "bible", "quran", "prayer"],
-        "relationships": ["love", "marriage", "girlfriend", "boyfriend", "dating"],
-        "food": ["recipe", "cook", "restaurant", "food"],
-        "travel": ["travel", "flight", "hotel", "visa", "passport", "airport"],
-        "comics": ["spider-man", "spiderman", "superman", "batman", "avengers", "marvel"],
-        "gaming": ["playstation", "xbox", "fortnite", "fifa", "nintendo", "video game"],
-        "coding": ["python", "javascript", "coding", "programming", "debug", "html"],
-        "general_knowledge": ["capital of", "history", "geography", "science", "math", "space"],
+        "politics": ["election", "president", "governor", "senator", "politician", "pdp", "apc", "vote", "campaign"],
+        "football": ["football", "soccer", "ball", "goal", "player", "team", "match", "stadium"],
+        "music": ["music", "singer", "song", "album", "musician", "concert", "band", "artist"],
+        "entertainment": ["movie", "film", "actor", "actress", "cinema", "nollywood", "hollywood", "show"],
+        "fashion": ["fashion", "clothes", "dress", "style", "shoe", "bag", "jewelry", "trend"],
+        "technology": ["phone", "computer", "laptop", "software", "app", "website", "tech", "gadget"],
+        "finance": ["bitcoin", "crypto", "stock", "invest", "money", "bank", "loan", "interest", "savings", "account", "cash", "currency"],
+        "education": ["school", "exam", "homework", "study", "university", "college", "degree", "class"],
+        "health": ["hospital", "doctor", "medicine", "fever", "headache", "malaria", "typhoid", "clinic"],
+        "religion": ["church", "mosque", "bible", "quran", "prayer", "pastor", "imam", "worship"],
+        "relationships": ["love", "marriage", "girlfriend", "boyfriend", "dating", "wedding", "wife", "husband"],
+        "food": ["recipe", "cook", "restaurant", "food", "chef", "kitchen", "meal"],
+        "travel": ["travel", "flight", "hotel", "visa", "passport", "airport", "tour", "vacation"],
+        "comics": ["spider-man", "spiderman", "superman", "batman", "avengers", "marvel", "comic"],
+        "gaming": ["playstation", "xbox", "fortnite", "fifa", "nintendo", "video game", "gaming"],
+        "coding": ["python", "javascript", "coding", "programming", "debug", "html", "css", "react", "node"],
+        "general_knowledge": ["capital of", "history", "geography", "science", "math", "space", "planet"],
         "weather_forecast": ["weather forecast", "rain tomorrow", "temperature today", "will it rain"],
     }
 
     for topic, keywords in topic_map.items():
         for kw in keywords:
             if kw in lower_message:
+                # Double-check it's not actually agriculture
+                if any(term in lower_message for term in AGRI_TERMS):
+                    return None
                 return topic
 
     return None
 
-# ✅ FIXED: Use Gemma to understand user intent
 def gemma_understand_intent(message):
     """Use Gemma to analyze what the user is saying."""
-    
+
     prompt = f"""You are AgriGemma4.9ja's intent classifier. Analyze what the user is saying.
 
 User message: "{message}"
@@ -247,7 +276,7 @@ Classify into ONE of these categories:
 - vague: User said something very short or unclear
 
 Reply with ONLY the category name (one word)."""
-    
+
     try:
         response = llm.create_chat_completion(
             messages=[{"role": "user", "content": prompt}],
@@ -255,8 +284,7 @@ Reply with ONLY the category name (one word)."""
             max_tokens=10,
             stop=["\n"],
         )
-        
-        # ✅ FIX: Handle different response formats
+
         if 'choices' in response and len(response['choices']) > 0:
             choice = response['choices'][0]
             if 'delta' in choice and 'content' in choice['delta']:
@@ -271,31 +299,29 @@ Reply with ONLY the category name (one word)."""
         else:
             print(f"Unexpected response structure: {response}")
             return "vague"
-        
+
         return intent
     except Exception as e:
         print(f"Intent detection failed: {e}")
         return "vague"
 
-# ✅ FIXED: Generate greeting with Gemma
 def generate_greeting_with_gemma(message):
     """Use Gemma to generate a warm greeting response."""
-    
+
     prompt = f"""You are AgriGemma4.9ja, a friendly agricultural advisor.
 
 User just said: "{message}"
 
 This is a greeting. Respond warmly and naturally, then gently redirect to farming topics.
 Keep it short and friendly (under 30 words)."""
-    
+
     try:
         response = llm.create_chat_completion(
             messages=[{"role": "user", "content": prompt}],
             temperature=0.5,
             max_tokens=50,
         )
-        
-        # ✅ FIX: Handle different response formats
+
         if 'choices' in response and len(response['choices']) > 0:
             choice = response['choices'][0]
             if 'delta' in choice and 'content' in choice['delta']:
@@ -304,7 +330,7 @@ Keep it short and friendly (under 30 words)."""
                 return choice['message']['content'].strip()
             elif 'text' in choice:
                 return choice['text'].strip()
-        
+
         return "Hello! How can I help with your farming today?"
     except Exception as e:
         print(f"Greeting generation failed: {e}")
@@ -318,16 +344,37 @@ def is_potential_greeting(message):
             return True
     return False
 
-# ✅ UPDATED: Guard with Gemma collaboration
+# ✅ FINAL guard_response – early short‑message handling (single block)
 def guard_response(message, history=None):
     """Return a graceful response if the message is a greeting or off-topic, else None."""
-    
-    # 1. Check greetings in dictionary (fast path)
+
+    tokens = set(tokenize(message))
+
+    # Agriculture terms first – let it through
+    if tokens & AGRI_TERMS:
+        return None
+
+    # ✅ Early short‑message handling with Gemma
+    if len(tokens) <= 3:
+        try:
+            intent = gemma_understand_intent(message)
+            if intent == 'greeting':
+                return generate_greeting_with_gemma(message)
+            elif intent == 'vague':
+                if not history:
+                    return "Could you tell me more about what you want to know? I am here to help with crops, livestock, soil, pests, or weather for your farm."
+                return None
+            elif intent == 'non_agro':
+                return "That doesn't seem to be about farming. I'm here to help with crops, livestock, soil, pests, or weather. What agricultural question do you have?"
+        except:
+            pass
+
+    # Check greetings in dictionary (fast path)
     greeting_response = is_greeting(message)
     if greeting_response:
         return greeting_response
 
-    # 2. Check non-agro in dictionary (fast path)
+    # Check non-agro in dictionary (fast path)
     non_agro_topic = detect_non_agro_topic(message)
     if non_agro_topic:
         return (
@@ -335,64 +382,61 @@ def guard_response(message, history=None):
             "I am AgriGemma4.9ja, built specifically to help Nigerian farmers. "
             "Ask me about crops, livestock, soil, pests, or weather for your farm."
         )
-    
-    # 3. Check if very short/no context
-    tokens = set(tokenize(message))
+
+    # Check if very short/no context
     if len(tokens) <= 2 and not (tokens & AGRI_TERMS):
         if not history:
             return (
                 "Could you tell me more about what you want to know? "
                 "I am here to help with crops, livestock, soil, pests, or weather for your farm."
             )
-        # Let Gemma handle with context
-    
-    # 4. Check if follow-up question
+
+    # Check if follow-up question
     if history and is_follow_up(message, history):
         return None
-    
-    # 5. Use Gemma to understand intent for unknown cases
+
+    # Use Gemma to understand intent for unknown cases
     if is_potential_greeting(message) or len(tokens) <= 4:
         try:
             intent = gemma_understand_intent(message)
-            
+
             if intent == "greeting":
                 return generate_greeting_with_gemma(message)
-            
+
             elif intent == "non_agro":
                 return (
                     "That doesn't seem to be about farming. "
                     "I'm here to help with crops, livestock, soil, pests, or weather. "
                     "What agricultural question do you have?"
                 )
-            
+
             elif intent == "vague":
                 return (
                     "I'm not quite sure what you're asking. "
                     "Could you tell me more about your farming question?"
                 )
-            
-            # If agriculture, follow_up, or common_sense, let it through
+
             return None
-            
+
         except Exception as e:
             print(f"Intent detection failed: {e}")
-            return None  # Fall through to normal flow
-    
+            return None
+
     return None
 
 def is_common_sense_question(message):
     """Check if the question is a general knowledge question, not agricultural"""
     lower = message.lower()
-    
+
     for pattern in COMMON_SENSE_PATTERNS:
         if re.search(pattern, lower):
             return True
-    
+
     tokens = set(tokenize(lower))
     if tokens & COMMON_SENSE_TERMS:
         if not (tokens & AGRI_TERMS):
             return True
-    
+
     return False
 
 NEW_TOPIC_MARKERS = {
@@ -428,7 +472,7 @@ RULES:
 6. Never invent precise pesticide doses, official citations, real-time weather forecasts, or market prices.
 7. Continue the active farm case when the message refers to it. Switch only when a new crop or topic is introduced.
 8. If the retrieved evidence directly answers the farmer's question, give that answer immediately.
-9. Always complete your thoughts and sentences fully within your token limit.
+9. Always complete your thoughts and sentences fully within your token limit. If you're about to run out of tokens, summarize and prompt the user to ask for more details.
 10. For common-sense questions (e.g., "does fish fly"), answer directly without overcomplicating.
 
 HANDLING GREETINGS AND SMALL TALK:
@@ -437,6 +481,12 @@ HANDLING GREETINGS AND SMALL TALK:
 - After greeting, gently redirect to agricultural topics.
 - Example: "well done chief" → "Thank you, Chief! How can I help with your farming today?"
 - Example: "how far" → "How far! Wetin I fit help you with for your farm?"
+
+LIVESTOCK ADVISORY:
+- For livestock questions, provide practical advice on breeds, feeding, housing, and health management.
+- Consider the user's agro-ecological zone when recommending livestock.
+- For poultry, advise on breeds suitable for local conditions.
+- For fish farming, provide guidance on species selection and pond management.
 """
 
 def extract_text(content):
@@ -500,7 +550,7 @@ class FastLocalRAG:
             raise ValueError(f"{csv_path} has no usable records.")
 
         print(f"RAG loaded: indexed {len(self.documents)} master records.")
-    
+
     def load_json(self, json_path):
         """Load concise advisory records from master_agro_kb.json."""
         with open(json_path, mode="r", encoding="utf-8") as file:
@@ -627,23 +677,67 @@ def retrieval_query(message, history):
         return f"{recent_user_context(history)}\nCurrent follow-up: {message}"
     return message
 
-# ✅ UPDATED: Generate response with cooking check
+# ✅ FINAL generate_response – improved continuation with history
 def generate_response(message, history):
     message = extract_text(message).strip()
-    
-    # ✅ NEW: Check for cooking/food prep questions (non-agro)
-    cooking_keywords = ["fry", "cook", "recipe", "boil", "grill", "roast", "bake", "season", "spice", "stew", "soup"]
-    if any(kw in message.lower() for kw in cooking_keywords):
-        if "fish" in message.lower() or "meat" in message.lower() or "chicken" in message.lower():
-            yield "That sounds like a cooking question! I'm an agricultural advisor, not a chef. I can help with fish farming, harvesting, processing, and storage, but for cooking recipes, you might want to ask a cookbook instead. What farming or agricultural question do you have?"
-            return
-    
+    lower_message = message.lower()
+
+    # ✅ Handle continuation requests with conversation history
+    if any(phrase in lower_message for phrase in ["continue", "go on", "more", "finish", "keep going", "abeg finish", "abeg continue", "couldn't finish", "you didn't finish", "cut off", "truncated", "carry on", "go ahead", "proceed", "and then", "next"]):
+        if history:
+            # Get the last bot response
+            last_bot = ""
+            for item in reversed(history):
+                if item.get("role") == "assistant":
+                    last_bot = item.get("content", "")
+                    break
+            if last_bot:
+                # Build a continuation prompt that includes recent conversation history
+                context_str = ""
+                # Include last 3 exchanges for context
+                for i in range(min(3, len(history))):
+                    idx = len(history) - 1 - i
+                    if idx >= 0 and history[idx].get("role") == "user":
+                        context_str += f"User: {history[idx].get('content', '')}\n"
+                    elif idx >= 0 and history[idx].get("role") == "assistant":
+                        context_str += f"Assistant: {history[idx].get('content', '')}\n"
+                # Reverse to maintain chronological order
+                context_str = "\n".join(reversed(context_str.strip().split("\n")))
+
+                continuation_prompt = f"""You are AgriGemma4.9ja. Continue your previous response, using the conversation context below.
+
+Conversation history (most recent first):
+{context_str}
+
+User just said: "{message}"
+
+Your previous response was:
+{last_bot}
+
+Now continue exactly from where you left off. Provide the rest of your advice, completing any incomplete thoughts. Keep it practical and concise."""
+
+                stream = llm.create_chat_completion(
+                    messages=[{"role": "user", "content": continuation_prompt}],
+                    temperature=0.20,
+                    top_p=0.9,
+                    repeat_penalty=1.12,
+                    max_tokens=150,
+                    stream=True,
+                )
+                partial = ""
+                for chunk in stream:
+                    delta = chunk['choices'][0]['delta']
+                    if 'content' in delta:
+                        partial += delta['content']
+                        yield partial.strip()
+                return
+
     # Guard first (static responses for known greetings + Gemma for unknown)
     guard_result = guard_response(message, history)
     if guard_result:
         yield guard_result
         return
-    
+
     # Common-sense questions (skip RAG)
     if is_common_sense_question(message):
         messages = [
@@ -651,7 +745,7 @@ def generate_response(message, history):
             *history_to_messages(history),
             {"role": "user", "content": message},
         ]
-        
+
         stream = llm.create_chat_completion(
             messages=messages,
             temperature=0.20,
@@ -660,15 +754,15 @@ def generate_response(message, history):
             max_tokens=150,
             stream=True,
         )
-        
-        partial_message = ""
+
+        partial = ""
         for chunk in stream:
             delta = chunk['choices'][0]['delta']
             if 'content' in delta:
-                partial_message += delta['content']
-                yield partial_message.strip()
+                partial += delta['content']
+                yield partial.strip()
         return
-    
+
     # Normal agricultural query with RAG
     search_query = retrieval_query(message, history)
     evidence = rag_engine.search(search_query)
@@ -699,16 +793,24 @@ def generate_response(message, history):
         temperature=0.20,
         top_p=0.9,
         repeat_penalty=1.12,
-        max_tokens=220,
+        max_tokens=300,
         stream=True,
     )
 
-    partial_message = ""
+    partial = ""
+    last_chunk = ""
     for chunk in stream:
         delta = chunk['choices'][0]['delta']
         if 'content' in delta:
-            partial_message += delta['content']
-            yield partial_message.strip()
+            partial += delta['content']
+            last_chunk = delta['content']
+            yield partial.strip()
+
+    # ✅ Check if response was cut off mid-sentence
+    if last_chunk and not last_chunk[-1] in ".!?;:,":
+        if len(partial) > 50:
+            continuation_prompt = "\n\n_I can continue if you need more details. Just type 'continue' or 'abeg finish'._"
+            yield partial.strip() + continuation_prompt
 
 def user_submit(user_message, history):
     user_message = extract_text(user_message).strip()
