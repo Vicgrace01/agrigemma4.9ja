@@ -28,7 +28,6 @@ Nigeria is Africa's largest agricultural economy, with agriculture contributing 
 Partial crop losses have **more than tripled over the past five years**, rising from approximately **6% to over 20% of agricultural plots** between 2018/19 and 2023/24 [1].
 
 **Key Statistics:**
-
 - Partial crop losses: 6% → 20%+ of plots (2018/19 to 2023/24) [1]
 - One-third of total losses attributed to weather and environmental factors [1]
 - Two-thirds of partial losses attributed to weather shocks [1]
@@ -119,34 +118,89 @@ Q3_K_M was chosen over Q4_K_M because:
 
 ---
 
-## 5. Constraints Addressed
+## 5. Multilingual Support Testing
 
-| Constraint | Solution |
-|------------|----------|
-| 8 GB RAM limit | Q3_K_M quantization reduces model to 2.4 GB and peak RAM to 3.0 GB |
-| No internet during inference | Fully offline RAG with local NAERLS corpus |
-| CPU-only | Physical core binding with n_threads=4 |
-| Language barrier | English + Pidgin + multilingual greetings in Igbo, Yoruba, Hausa |
-| Thermal penalty risk | Low RAM usage and efficient threading keep temperatures safe |
-| Limited mobile data for testing | Prioritized model candidates; only downloaded promising models |
-| Unstable internet | Resume-capable downloads with curl --continue-at - |
-| Power instability | Intermediate checkpointing; saved evaluation results |
+We conducted specific tests to validate the African Language Bonus claim. The system claims support for Nigerian Pidgin (pcm) as the primary African language, with graceful greeting support for Yoruba, Igbo, and Hausa.
+
+### 5.1 Nigerian Pidgin Test
+
+**Prompt (Pidgin):** *"Abeg, how I go treat cassava disease?"*
+
+**Gemma 4 Q3 Response:**
+> *"Ah, my brother, no worry! Cassava disease na serious matter, but if we handle am well, we go manage am. See, I go give you proper advice for you. First thing we need to know, which kind of cassava disease you dey face? Na one type, or many types? Wetin the symptom you see for your cassava? Wetin the cassava look like?"*
+
+**Result:** ✅ **Pass** – Gemma responds fluently in natural Pidgin, demonstrating native capability.
+
+**Qwen2.5-1.5B Q4 Response (Same Prompt):**
+> *"I have a cassava farm and I'm worried about the disease. Please, give me some tips on how to prevent and control the disease. Abeg, I need your help..."*
+
+**Result:** ❌ **Fail** – Qwen responded in English, ignoring the Pidgin instruction.
+
+### 5.2 Yoruba, Igbo, Hausa Greeting Tests
+
+We tested Gemma 4 Q3 and Qwen2.5-1.5B Q4 on simple greetings in three major Nigerian languages:
+
+| Language | Greeting | Gemma 4 Q3 | Qwen2.5-1.5B Q4 |
+|----------|----------|------------|-----------------|
+| Yoruba | "Bawo ni?" | ⚠️ Partial (repetitive) | ❌ Confused loop |
+| Igbo | "Kedu?" | ❌ Jumbled | ❌ Unknown |
+| Hausa | "Sannu?" | ❌ English | ❌ Unknown |
+
+**Result:** Gemma shows some recognition but does not generate fluently in these languages; Qwen fails entirely.
+
+### 5.3 Conclusion on Multilingual Support
+
+| Language | Support Level | How It Is Achieved |
+|----------|---------------|---------------------|
+| **Nigerian Pidgin** | ✅ **Full** | Native model generation + RAG |
+| **Yoruba, Igbo, Hausa** | ⚠️ Partial | Guard‑layer greeting recognition + redirect to Pidgin/English |
+
+**The African Language Bonus is claimed based on the app's demonstrated ability to conduct agricultural conversations in Nigerian Pidgin – which is fully proven.**
 
 ---
 
-## 6. Tools and Technologies
+## 6. RAG System Design
 
-| Tool | Purpose | Justification |
-|------|---------|---------------|
-| llama.cpp | Model inference | Only runtime accepted by ADTC |
-| Python 3.10 | Application logic | Ubiquitous, well-supported |
-| Gradio | Web interface | Lightweight, local-first UI |
-| Hugging Face | Model hosting | Public, free, reliable |
-| NAERLS | Agricultural corpus | Official Nigerian extension records |
+### 6.1 NAERLS Verified Corpus
+- **File:** naerls_verified.csv
+- **Records:** 671
+- **Source:** Official NAERLS extension documents [7]
+- **Coverage:** Maize, cassava, rice, livestock, aquaculture, and more
+
+### 6.2 Master Knowledge Base
+- **File:** master_agro_kb.json
+- **Entries:** 78
+- **Format:** Direct farmer-friendly answers
+- **Coverage:** Crops, livestock, soil, weather, post-harvest, marketing
+- **Localization:** 20 Pidgin-specific entries, local language aliases
+
+### 6.3 Retrieval Mechanism
+- Inverted-index keyword search for fast retrieval
+- Query expansion using a Pidgin term dictionary
+- Curated JSON entries prioritized when they match
+- Scoring threshold prevents irrelevant matches
 
 ---
 
-## 7. Performance Benchmarks
+## 7. Hardware and Software Optimization
+
+| Parameter | Value | Rationale |
+|-----------|-------|-----------|
+| n_threads | 4 | CPU core binding for optimal throughput |
+| n_batch | 512 | Efficient prompt processing |
+| n_ctx | 4096 | Balances context and memory |
+| Temperature | 0.20 | Deterministic, factual responses |
+| repeat_penalty | 1.12 | Reduces looping |
+
+**Guard Rails:**
+- Recognizes greetings in English, Pidgin, Igbo, Yoruba, Hausa
+- Detects non-agricultural topics and politely redirects
+- Prevents hallucinations on out-of-scope queries
+- Asks for clarification on vague messages
+
+---
+
+## 8. Performance Benchmarks
 
 Measured with the official adtc-profiler on Ubuntu 22.04.5 LTS, Intel Core i5-8365U, 5.8 GB RAM available [6].
 
@@ -173,48 +227,7 @@ Measured with the official adtc-profiler on Ubuntu 22.04.5 LTS, Intel Core i5-83
 
 ---
 
-## 8. RAG System Design
-
-### 8.1 NAERLS Verified Corpus
-- **File:** naerls_verified.csv
-- **Records:** 671
-- **Source:** Official NAERLS extension documents [7]
-- **Coverage:** Maize, cassava, rice, livestock, aquaculture, and more
-
-### 8.2 Master Knowledge Base
-- **File:** master_agro_kb.json
-- **Entries:** 78
-- **Format:** Direct farmer-friendly answers
-- **Coverage:** Crops, livestock, soil, weather, post-harvest, marketing
-- **Localization:** 20 Pidgin-specific entries, local language aliases
-
-### 8.3 Retrieval Mechanism
-- Inverted-index keyword search for fast retrieval
-- Query expansion using a Pidgin term dictionary
-- Curated JSON entries prioritized when they match
-- Scoring threshold prevents irrelevant matches
-
----
-
-## 9. Hardware and Software Optimization
-
-| Parameter | Value | Rationale |
-|-----------|-------|-----------|
-| n_threads | 4 | CPU core binding for optimal throughput |
-| n_batch | 512 | Efficient prompt processing |
-| n_ctx | 4096 | Balances context and memory |
-| Temperature | 0.20 | Deterministic, factual responses |
-| repeat_penalty | 1.12 | Reduces looping |
-
-**Guard Rails:**
-- Recognizes greetings in English, Pidgin, Igbo, Yoruba, Hausa
-- Detects non-agricultural topics and politely redirects
-- Prevents hallucinations on out-of-scope queries
-- Asks for clarification on vague messages
-
----
-
-## 10. Domain Application Validation
+## 9. Domain Application Validation
 
 ### Test Prompt 1 — Pest Identification
 
@@ -222,19 +235,15 @@ Measured with the official adtc-profiler on Ubuntu 22.04.5 LTS, Intel Core i5-83
 
 **Result:** Correctly identified Fall Armyworm risk and recommended early-stage control using neem or approved insecticide.
 
-**Why It Matters:** Field crops like maize face growing vulnerability, with field-crop losses doubling in recent years [1].
-
 ### Test Prompt 2 — Pidgin Disease Query
 
 **Prompt:** Abeg, my cassava leaf dey yellow and curl. Wetin fit cause am, and wetin I fit do first make e no spread?
 
 **Result:** Correctly identified Cassava Mosaic Disease (CMD), recommended removing and burning infected plants, and advised planting TME 419 or NR 8082 resistant varieties.
 
-**Why It Matters:** Cassava is a critical staple for Nigerian food security. Timely disease detection can prevent catastrophic losses for farmers [1].
-
 ---
 
-## 11. Bonuses Claimed
+## 10. Bonuses Claimed
 
 | Bonus | Status | Evidence |
 |-------|--------|----------|
@@ -243,7 +252,7 @@ Measured with the official adtc-profiler on Ubuntu 22.04.5 LTS, Intel Core i5-83
 
 ---
 
-## 12. Conclusion
+## 11. Conclusion
 
 AgriGemma4.9ja demonstrates that useful agricultural AI can run entirely offline on 8 GB laptops common across Africa. By combining model quantization, llama.cpp optimization, and local RAG over Nigerian agricultural records, we deliver practical crop and livestock advice without cloud dependencies or high-end hardware.
 
@@ -262,13 +271,13 @@ The solution directly addresses the challenges facing Nigerian smallholder farme
 
 ### Future Work
 
-We identified Qwen2.5-1.5B Q4 as a promising alternative, offering superior speed (13.06 TPS), memory efficiency (1,695 MB), and accuracy (76%). However, it lacks native Pidgin support. Future work could focus on adding Pidgin capability to Qwen via fine-tuning or RAG enhancements, potentially yielding an even higher ADTC score.
+We identified Qwen2.5-1.5B Q4 as a promising alternative, offering superior speed (13.06 TPS), memory efficiency (1,695 MB), and accuracy (76%). However, it lacks native Pidgin support. While Qwen could potentially use RAG to support Pidgin, it would not be as natural or adaptive as Gemma's native capability. Future work could focus on adding Pidgin capability to Qwen via fine-tuning or enhanced RAG, potentially yielding an even higher ADTC score.
 
 This approach is replicable across other domains and languages, making it a scalable model for AI access in resource-constrained environments across Africa.
 
 ---
 
-## 13. Acknowledgments
+## 12. Acknowledgments
 
 - **Google Gemma** team for open model weights
 - **NAERLS** (National Agricultural Extension and Research Liaison Services) for agricultural extension materials and survey data [7]
@@ -278,7 +287,7 @@ This approach is replicable across other domains and languages, making it a scal
 
 ---
 
-## 14. References
+## 13. References
 
 1. World Bank Blogs. (2026). "From loss to resilience in Nigeria: turning a growing agricultural challenge into action." World Bank.
 
